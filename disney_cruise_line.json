@@ -76,10 +76,10 @@
     "AnswerBonus": "Palo, an adults-only restaurant serving Northern Italian cuisine, is a staple on all Disney ships. (\"Palo\" means \"pole\" in Italian, referencing the gondola poles of Venice:contentReference[oaicite:4]{index=4}.)"
   },
   {
-    "Question": "Which two Castaway Club membership tiers earn a complimentary Palo dinner on each sailing?",
+    "Question": "What is the first Castaway Club membership tier to earn a complimentary Palo dinner on each sailing?",
     "Category": "disney_cruise_line",
     "MultipleChoice": false,
-    "Answer": "Platinum and Pearl members",
+    "Answer": "Platinum",
     "AnswerBonus": "Platinum- and Pearl-level Castaway Club members (10+ cruises for Platinum, 25+ for Pearl) receive one free Palo dinner each cruise:contentReference[oaicite:5]{index=5}."
   },
   {
@@ -657,5 +657,468 @@
     "Category": "disney_cruise_line",
     "MultipleChoice": false,
     "Answer": "Disney Dream"
+  },
+  {
+    "Question": "Which two Disney Cruise Line ships originally introduced the AquaDuck water coaster?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Disney Magic and Disney Wonder",
+      "B": "Disney Dream and Disney Fantasy",
+      "C": "Disney Treasure and Disney Destiny",
+      "D": "Disney Wish and Disney Treasure"
+    },
+    "Answer": "B",
+    "AnswerBonus": "The AquaDuck debuted on Disney Dream in 2011 and then on Disney Fantasy in 2012. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "Question": "What is the name of the water-coaster style slide aboard Disney Treasure and Disney Destiny?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "AquaDuck",
+      "B": "AquaDunk",
+      "C": "AquaMouse",
+      "D": "AquaSplash"
+    },
+    "Answer": "C",
+    "AnswerBonus": "On Disney Wish, Disney Treasure and Disney Destiny, the ride is called AquaMouse. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "Question": "As of late 2025, including Disney Destiny, how many ships are in the Disney Cruise Line fleet?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "7",
+    "AnswerBonus": "Disney Destiny is the seventh ship. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "Question": "Which of these ships has the unique water-slide called “AquaDunk” (i.e. not a raft ride)?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Disney Magic",
+      "B": "Disney Wonder",
+      "C": "Disney Treasure",
+      "D": "Disney Destiny"
+    },
+    "Answer": "A",
+    "AnswerBonus": "Disney Magic is the only ship in the fleet with the AquaDunk body-slide. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "Question": "What is the length (in feet) of the slide tubes for the AquaMouse/AquaDuck rides on the newer ships?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "760 ft",
+    "AnswerBonus": "The AquaMouse ride on the Wish-class ships features about 760 feet of twisting tubes suspended above the decks. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "Question": "Which ship class do Disney Wish, Disney Treasure and Disney Destiny all belong to?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Dream class",
+      "B": "Fantasy class",
+      "C": "Wish class",
+      "D": "Magic class"
+    },
+    "Answer": "C",
+    "AnswerBonus": "All three — Disney Wish, Disney Treasure, and Disney Destiny — are part of the Wish class. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "Question": "When did Disney Destiny officially begin sailing (maiden voyage)?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "December 21, 2024",
+      "B": "July 14, 2022",
+      "C": "November 20, 2025",
+      "D": "January 19, 2011"
+    },
+    "Answer": "C",
+    "AnswerBonus": "Disney Destiny’s maiden voyage was on November 20, 2025. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "Question": "Which ship features a water-coaster ride that includes an animated short called “Curse of the Golden Egg”?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Treasure",
+    "AnswerBonus": "Disney Treasure’s AquaMouse features the movie-short “Curse of the Golden Egg.” :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "Question": "Which ship includes a bow character painted as a ‘Hero Minnie Mouse’ in superhero attire, reflecting a ‘Heroes & Villains’ theme?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Disney Treasure",
+      "B": "Disney Dream",
+      "C": "Disney Destiny",
+      "D": "Disney Fantasy"
+    },
+    "Answer": "C",
+    "AnswerBonus": "Disney Destiny features a superhero-style Minnie Mouse painted on the bow. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "Question": "Which of these is true about the AquaMouse on Disney Destiny compared to earlier installations?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "It uses the same animated shorts as Disney Wish",
+      "B": "It adds a new villain-themed short film ‘Sing a Silly Song’",
+      "C": "It is a body-slide with no raft",
+      "D": "It is shorter than the AquaDuck on Dream and Fantasy"
+    },
+    "Answer": "B",
+    "AnswerBonus": "The AquaMouse on Disney Destiny includes a new short called “Sing a Silly Song,” featuring Disney villains. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "Question": "True or False: The slide ride on Disney Treasure and Disney Destiny is technically an AquaDuck, not AquaMouse.",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "Answer": "B",
+    "AnswerBonus": "Although the system is similar, on Wish-class ships (including Treasure and Destiny) the ride is branded AquaMouse rather than AquaDuck. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "Question": "Which ship was the first in the Wish class to debut?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Disney Treasure",
+      "B": "Disney Destiny",
+      "C": "Disney Wish",
+      "D": "Disney Fantasy"
+    },
+    "Answer": "C",
+    "AnswerBonus": "Disney Wish debuted in 2022 as the first ship in the Wish class. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "Question": "Which coaster-style water ride extends over the side of the ship, 150 feet above the ocean, on the Dream-class ships?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "AquaDuck",
+    "AnswerBonus": "On Disney Dream (and Fantasy), the AquaDuck hangs over the side and gives ocean-view thrills. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "Question": "How many ships were in the Disney Cruise Line fleet before the addition of Disney Treasure and Disney Destiny (i.e. prior to late 2024)?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "Answer": "5",
+    "AnswerBonus": "Before Disney Treasure (2024) and Disney Destiny (2025) joined, there were 5 ships: Magic, Wonder, Dream, Fantasy, Wish. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "Question": "Which of these ships DOES NOT have the AquaDuck/AquaMouse water-coaster ride?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Disney Dream",
+      "B": "Disney Magic",
+      "C": "Disney Wish",
+      "D": "Disney Treasure"
+    },
+    "Answer": "B",
+    "AnswerBonus": "Disney Magic does not have AquaDuck or AquaMouse — it has a different slide called AquaDunk instead. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "Question": "What kind of itineraries did Disney Destiny sail on its inaugural season out of Fort Lauderdale?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "7-night European cruises",
+      "B": "4- and 5-night cruises to the Bahamas and Western Caribbean",
+      "C": "Alaskan voyages",
+      "D": "Transatlantic world cruise"
+    },
+    "Answer": "B",
+    "AnswerBonus": "Disney Destiny’s inaugural season offers 4- and 5-night cruises to the Bahamas and Western Caribbean. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "Question": "Which statement is accurate about the ride system used by AquaDuck and AquaMouse?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "They are standard body-slides — you go solo head-first down a flume.",
+      "B": "They use two-person rafts propelled by water jets, like a roller-coaster at sea.",
+      "C": "They are stationary water slides (no propulsion) and guests walk slowly through slow tubes.",
+      "D": "They are dry slides — no water involved."
+    },
+    "Answer": "B",
+    "AnswerBonus": "Both AquaDuck and AquaMouse use two-person rafts and water jets for propulsion, making them water coasters at sea. :contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "Question": "Which of these water rides is unique to Dream-class and not found on Wish-class ships?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "AquaMouse",
+      "B": "AquaDuck",
+      "C": "AquaDunk",
+      "D": "Toy Story Splash Zone"
+    },
+    "Answer": "B",
+    "AnswerBonus": "AquaDuck – the high-sea water coaster – is on Dream and Fantasy, not on Wish-class ships (which have AquaMouse instead). :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "Question": "True or False: On Disney Destiny, the AquaMouse ride features a villain-themed underwater movie short during the ride experience.",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "Answer": "A",
+    "AnswerBonus": "Yes — the AquaMouse on Disney Destiny includes a new short called “Sing a Silly Song” featuring Disney villains. :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "Question": "Which of the following is a correct pair of ship and slide-ride type as of 2025?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Disney Fantasy — AquaDunk",
+      "B": "Disney Magic — AquaDuck",
+      "C": "Disney Treasure — AquaMouse",
+      "D": "Disney Wonder — AquaMouse"
+    },
+    "Answer": "C",
+    "AnswerBonus": "Disney Treasure is a Wish-class ship, and it has AquaMouse. :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "Question": "As of December 2025, how many ships are in the Disney Cruise Line fleet including Disney Treasure and Disney Destiny?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "7",
+    "AnswerBonus": "Disney Destiny is the 7th ship; the fleet includes classic ships plus the three Wish-class vessels: Wish, Treasure, Destiny. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "Question": "What is the gross tonnage of Disney Treasure?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "144,256 tons",
+    "AnswerBonus": "Disney Treasure’s gross tonnage is 144,256. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "Question": "How many staterooms does Disney Treasure have?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "1,250",
+    "AnswerBonus": "Disney Treasure features 1,250 staterooms according to the ship’s specs. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "Question": "What unique water-ride does Disney Treasure feature, also present on other Wish-class ships?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "AquaMouse",
+    "AnswerBonus": "Disney Treasure includes the AquaMouse water coaster ride, with a new short film \"Curse of the Golden Egg.\" :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "Question": "Which new short film plays on the AquaMouse ride aboard Disney Treasure?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "\"Curse of the Golden Egg\"",
+    "AnswerBonus": "The AquaMouse on Disney Treasure features the \"Curse of the Golden Egg\" short with immersive effects. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "Question": "Name one of the rotational dining restaurants exclusive to Disney Treasure.",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Plaza de Coco",
+    "AnswerBonus": "Rotational dining on Disney Treasure includes 1923, Worlds of Marvel, and Plaza de Coco. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "Question": "What is one of the specialty adults-only restaurants on Disney Treasure?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Enchânté",
+    "AnswerBonus": "Alongside standard dining, Disney Treasure offers specialty adult-only restaurants such as Enchânté and Palo Steakhouse. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "Question": "What classic Disney attraction inspires a bar/lounge aboard Disney Treasure?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "The Haunted Mansion",
+    "AnswerBonus": "Disney Treasure is the first in the fleet to include a Haunted Mansion–inspired bar. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "Question": "What is the primary theme or concept of Disney Destiny’s interior and storytelling design?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Heroes and Villains",
+    "AnswerBonus": "The Disney Destiny is themed around the light-side / dark-side dynamic — \"Heroes and Villains.\" :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "Question": "When did Disney Destiny officially enter service?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "November 20, 2025",
+    "AnswerBonus": "Disney Destiny began service on November 20, 2025. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "Question": "How many passengers can Disney Destiny accommodate?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "4,000",
+    "AnswerBonus": "Disney Destiny is capable of carrying 4,000 passengers. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "Question": "Which high-end suite aboard Disney Destiny is themed after a Marvel superhero and includes four bedrooms and a spiral staircase?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Tower Suite (Iron Man–themed)",
+    "AnswerBonus": "The Tower Suite aboard Disney Destiny is Iron Man–themed and includes four bedrooms and a spiral staircase. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "Question": "On Disney Destiny, what type of themed lounge features Doctor Strange–style portals and drinks?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "The Sanctum",
+    "AnswerBonus": "The Sanctum is a Doctor Strange–themed lounge on Disney Destiny. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "Question": "Which classic Disney film’s musical made its debut as a show aboard Disney Destiny?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Hercules",
+    "AnswerBonus": "Disney Destiny features a new musical show based on Disney’s Hercules. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "Question": "Which ship class do Disney Treasure and Disney Destiny belong to?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "\"Wish\" class",
+    "AnswerBonus": "Both Disney Treasure and Disney Destiny are part of Disney Cruise Line's \"Wish\" class. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "Question": "What is the length of Disney Treasure in feet?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "1,119 ft",
+    "AnswerBonus": "Disney Treasure is 1,119 feet long. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "Question": "What width (beam) does Disney Treasure have?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "128 ft",
+    "AnswerBonus": "Disney Treasure’s beam (width) is 128 feet. :contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "Question": "What kinds of itineraries does Disney Treasure typically sail from its home port?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Eastern and Western Caribbean",
+    "AnswerBonus": "Disney Treasure sails Eastern and Western Caribbean itineraries. :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "Question": "What kind of itineraries is Disney Destiny doing on its inaugural season?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "4- and 5-night cruises to the Bahamas and Western Caribbean",
+    "AnswerBonus": "Disney Destiny’s inaugural season consists of 4- and 5-night cruises to The Bahamas and Western Caribbean. :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "Question": "Which ship was the first of the Wish-class to be launched by Disney Cruise Line?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wish",
+    "AnswerBonus": "Disney Wish was launched in 2022 as the first Wish-class ship. :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "Question": "Which station aboard Disney Treasure is inspired by a classic Disney Parks attraction Jungle Cruise?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Skipper Society (Jungle Cruise–themed bar/lounge)",
+    "AnswerBonus": "Disney Treasure’s \"Skipper Society\" bar/lounge draws inspiration from Jungle Cruise. :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "Question": "On Disney Destiny, what unique feature do the dining and entertainment venues emphasize compared to previous ships?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Heroes vs Villains theme across dining, decor, and entertainment",
+    "AnswerBonus": "Disney Destiny embraces a unified \"Heroes & Villains\" theme throughout dining venues, decor, entertainment and character appearances. :contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "Question": "Which ride-inspired water coaster on Disney Treasure takes guests \"through a mysterious ancient temple\" in search of treasure?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "AquaMouse (Curse of the Golden Egg)",
+    "AnswerBonus": "The AquaMouse on Disney Treasure features a water-coaster journey through a temple in search of treasure in the \"Curse of the Golden Egg\" short. :contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship followed Disney Treasure into service?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Destiny",
+    "AnswerBonus": "Disney Destiny entered service after Disney Treasure; Treasure began in December 2024, Destiny in November 2025. :contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "Question": "Which high-seas ship offers adult-only dining at Palo Steakhouse aboard Disney Treasure?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Treasure",
+    "AnswerBonus": "Palo Steakhouse is one of the adult-only specialty restaurants on Disney Treasure. :contentReference[oaicite:27]{index=27}"
+  },
+  {
+    "Question": "Which ship’s design includes artwork and décor evoking exploratory spirits from films such as Aladdin, Pocahontas, Up, and Encanto?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Treasure",
+    "AnswerBonus": "Disney Treasure’s 1,256 staterooms feature custom artwork inspired by films like Aladdin, Pocahontas, Up, and Encanto. :contentReference[oaicite:28]{index=28}"
+  },
+  {
+    "Question": "Which ship’s water coaster ride is suspended high above the decks and includes immersive show scenes for riders?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Treasure",
+    "AnswerBonus": "On Disney Treasure the AquaMouse water coaster is suspended above the decks, featuring immersive show scenes for riders. :contentReference[oaicite:29]{index=29}"
+  },
+  {
+    "Question": "Which ship is described as the third vessel in Disney’s Wish class?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Destiny",
+    "AnswerBonus": "Disney Destiny is the third ship in the Wish class. :contentReference[oaicite:30]{index=30}"
+  },
+  {
+    "Question": "What theatrical production replaced traditional cruise shows on Disney Treasure (instead presenting a Broadway-style musical)?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "The Tale of Moana",
+    "AnswerBonus": "Disney Treasure features a Broadway-style musical production called “The Tale of Moana.” :contentReference[oaicite:31]{index=31}"
+  },
+  {
+    "Question": "Which Disney Cruise ship houses a bespoke lounge where couples can — starting May 14, 2026 — exchange vows, inspired by a first-class cruise liner drawing room?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Destiny (Haunted Mansion Parlor)",
+    "AnswerBonus": "Disney Destiny’s Haunted Mansion Parlor will be available for weddings starting May 14, 2026. :contentReference[oaicite:32]{index=32}"
+  },
+  {
+    "Question": "What is the approximate gross tonnage of Disney Destiny?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "144,000 tons",
+    "AnswerBonus": "Disney Destiny is approximately 144,000 gross tons. :contentReference[oaicite:33]{index=33}"
+  },
+  {
+    "Question": "Which ship includes a Marvel-themed Grand Hall and a stern feature of Spider-Man and his Spider-bots?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Destiny",
+    "AnswerBonus": "Disney Destiny includes a Marvel-themed Grand Hall and features Spider-Man (with his Spider-bots) on the stern. :contentReference[oaicite:34]{index=34}"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship offers ‘Plaza de Coco’ as a dining venue?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Treasure",
+    "AnswerBonus": "Plaza de Coco is one of the rotational dining restaurants on Disney Treasure. :contentReference[oaicite:35]{index=35}"
   }
 ]
