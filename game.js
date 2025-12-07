@@ -68,6 +68,8 @@ async function handlePlayerMove(spaces) {
     if (newPosition > 0 && !player.hasFinished) {
         const tile = getTileAtPosition(newPosition);
         if (tile && !tile.isMilestone) {
+            // Add delay so players can see where they landed
+            await new Promise(resolve => setTimeout(resolve, 1000));
             await askQuestion(tile.category);
         } else {
             // On milestone, no question - just end turn

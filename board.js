@@ -87,8 +87,8 @@ function centerCameraOnCurrentPlayer() {
     const boardContainer = document.getElementById('boardContainer');
     
     if (!player || player.position === 0) {
-        // Reset to default view for start
-        boardContainer.style.transform = 'perspective(1200px) rotateX(45deg) rotateZ(0deg) scale(1) translate(0, 0)';
+        // Start view - close up at beginning
+        boardContainer.style.transform = 'perspective(1200px) rotateX(45deg) rotateZ(180deg) scale(1.5) translate(200px, 100px)';
         return;
     }
     
@@ -99,20 +99,25 @@ function centerCameraOnCurrentPlayer() {
     const wrapperWidth = boardWrapper.clientWidth || 900;
     const wrapperHeight = boardWrapper.clientHeight || 600;
     
-    // Zoom level - closer as game progresses
+    // Zoom level - REVERSE: closer at start, farther as game progresses
     const progressPercent = player.position / GAME_CONFIG[gameState.mode].totalTiles;
-    const zoomLevel = 1.2 + (progressPercent * 0.3); // 1.2 to 1.5x zoom
+    const zoomLevel = 1.5 - (progressPercent * 0.3); // 1.5 to 1.2x zoom (decreases)
     
-    // Calculate translation to center on player (with bias toward finish)
-    const translateX = (wrapperWidth / 2) - (tile.x * zoomLevel) - 50;
-    const translateY = (wrapperHeight / 3) - (tile.y * zoomLevel) + 100; // Bias upward to show path ahead
+    // Calculate translation to center on player
+    // With 180deg rotation, we need to adjust the math
+    const targetX = tile.x * zoomLevel;
+    const targetY = tile.y * zoomLevel;
     
-    // Apply transform with smooth transition
+    // Center in wrapper, accounting for rotation
+    const translateX = (wrapperWidth / 2) - targetX;
+    const translateY = (wrapperHeight / 2.5) - targetY; // Slight bias to show path ahead
+    
+    // Apply transform with smooth transition - rotated 180deg to flip view
     boardContainer.style.transition = 'transform 0.8s ease-out';
     boardContainer.style.transform = `
         perspective(1200px) 
         rotateX(45deg) 
-        rotateZ(0deg) 
+        rotateZ(180deg) 
         scale(${zoomLevel}) 
         translate(${translateX}px, ${translateY}px)
     `;
@@ -171,22 +176,33 @@ async function movePlayerPiece(player, fromPos, toPos) {
         if (tile) {
             const offset = calculatePieceOffset(player.id);
             
+            // Update player position temporarily for camera tracking
+            const oldPos = player.position;
+            player.position = pos;
+            
             pieceElement.classList.add('moving');
             pieceElement.style.left = (tile.x + offset.x) + 'px';
             pieceElement.style.top = (tile.y + offset.y) + 'px';
             
-            // Update camera during movement to follow the piece
-            if (pos % 2 === 0 || pos === toPos) {
-                centerCameraOnCurrentPlayer();
-            }
+            // Camera follows piece smoothly
+            centerCameraOnCurrentPlayer();
             
             // Wait for animation
             await new Promise(resolve => setTimeout(resolve, 300));
             pieceElement.classList.remove('moving');
+            
+            // Restore final position for last iteration
+            if (pos !== toPos) {
+                player.position = oldPos;
+            }
         }
     }
     
+    // Ensure final position is set
+    player.position = toPos;
+    
     // Final camera adjustment after movement completes
+    await new Promise(resolve => setTimeout(resolve, 200));
     centerCameraOnCurrentPlayer();
     
     gameState.isMoving = false;
