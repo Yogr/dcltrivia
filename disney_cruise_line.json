@@ -1,0 +1,661 @@
+[
+  {
+    "Question": "As of 2024, how many ships are currently in the Disney Cruise Line fleet?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "5",
+    "AnswerBonus": "There are five ships: the Disney Magic, Wonder, Dream, Fantasy, and Wish. (The sixth ship, Disney Treasure, is set to join in late 2024.)"
+  },
+  {
+    "Question": "In what year did Disney Cruise Line launch its first ship, the Disney Magic?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "1998",
+    "AnswerBonus": "The Disney Magic’s maiden voyage was in July 1998, marking the beginning of Disney Cruise Line operations:contentReference[oaicite:0]{index=0}."
+  },
+  {
+    "Question": "Which two Disney Cruise Line ships are known as the “Magic class” sister ships?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic and Disney Wonder",
+    "AnswerBonus": "The Magic (1998) and Wonder (1999) were the first two ships and share a similar design."
+  },
+  {
+    "Question": "Which two Disney Cruise Line ships are sister ships in the \"Dream class\"?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Dream and Disney Fantasy",
+    "AnswerBonus": "The Disney Dream (2011) and Disney Fantasy (2012) are sister ships, both larger vessels with similar layouts."
+  },
+  {
+    "Question": "Which Disney Cruise Line ship made its debut in 2022 as the first of a new class of ships?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wish",
+    "AnswerBonus": "The Disney Wish set sail in July 2022 as the first of Disney’s new Triton-class (or Wish-class) ships."
+  },
+  {
+    "Question": "Which upcoming Disney Cruise Line ship will feature the new \"Plaza de Coco\" restaurant (as of 2025)?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Treasure",
+    "AnswerBonus": "The Disney Treasure (launching in 2024) is home to Plaza de Coco, a Coco-themed family dining experience:contentReference[oaicite:1]{index=1}."
+  },
+  {
+    "Question": "Which Disney Cruise Line ships feature the AquaDuck water coaster?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Disney Magic and Disney Wonder",
+      "B": "Disney Dream and Disney Fantasy",
+      "C": "Disney Wish and Disney Treasure",
+      "D": "All Disney ships have the AquaDuck"
+    },
+    "Answer": "B",
+    "AnswerBonus": "The AquaDuck debuted on the Disney Dream and is also on the Disney Fantasy. (It’s a tandem water coaster that winds around the ship’s decks.)"
+  },
+  {
+    "Question": "What is the name of the first-ever Disney attraction at sea, a water ride that debuted on the Disney Wish?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "AquaMouse",
+    "AnswerBonus": "The AquaMouse is a two-seater water coaster on the Disney Wish, complete with show scenes and Mickey & Minnie cartoon segments:contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}."
+  },
+  {
+    "Question": "On which Disney cruise ship can guests visit the Star Wars: Hyperspace Lounge, a Star Wars-themed bar experience?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wish",
+    "AnswerBonus": "The Disney Wish features the Hyperspace Lounge, an immersive bar that transports guests to various Star Wars planets via panoramic “windows.”"
+  },
+  {
+    "Question": "What adult-exclusive Italian restaurant can be found on every Disney Cruise Line ship?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Palo",
+    "AnswerBonus": "Palo, an adults-only restaurant serving Northern Italian cuisine, is a staple on all Disney ships. (\"Palo\" means \"pole\" in Italian, referencing the gondola poles of Venice:contentReference[oaicite:4]{index=4}.)"
+  },
+  {
+    "Question": "Which two Castaway Club membership tiers earn a complimentary Palo dinner on each sailing?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Platinum and Pearl members",
+    "AnswerBonus": "Platinum- and Pearl-level Castaway Club members (10+ cruises for Platinum, 25+ for Pearl) receive one free Palo dinner each cruise:contentReference[oaicite:5]{index=5}."
+  },
+  {
+    "Question": "True or False: Disney Cruise Line ships are permitted to have yellow lifeboats instead of the regulation orange.",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "Answer": "A",
+    "AnswerBonus": "True. Disney obtained special permission for its lifeboats to be Mickey Mouse yellow (RAL 1004) instead of standard orange, to match the ships’ color scheme."
+  },
+  {
+    "Question": "The horns on Disney Cruise Line ships play the first seven notes of what famous Disney song?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "\"When You Wish Upon a Star\"",
+    "AnswerBonus": "All Disney ships’ horns can sound out the iconic opening line of “When You Wish Upon a Star.” The Disney Dream and Fantasy horns even include extra tunes like “Yo Ho (A Pirate’s Life for Me)” and “A Dream is a Wish Your Heart Makes”:contentReference[oaicite:6]{index=6}."
+  },
+  {
+    "Question": "How many “captains” can be found on each Disney cruise ship (including both real and character captains)?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "4",
+    "AnswerBonus": "There are four: the ship’s actual Captain, Captain Mickey Mouse, Captain Minnie Mouse, and Captain Jack Sparrow. (Captain Hook often appears too, but the classic trivia answer is four.)"
+  },
+  {
+    "Question": "What is the name of Disney Cruise Line’s private island in the Bahamas, visited on most Caribbean itineraries?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Castaway Cay",
+    "AnswerBonus": "Castaway Cay is Disney’s 1,000-acre private island in the Bahamas, featuring beaches, snorkeling lagoons, and even an onboard post office."
+  },
+  {
+    "Question": "True or False: Guests can send mail from Disney’s Castaway Cay that gets a special Castaway Cay postmark.",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "Answer": "A",
+    "AnswerBonus": "True. Castaway Cay has a functioning Bahamian post office. Postcards sent from there receive a unique Castaway Cay postmark (just remember to bring Bahamian postage stamps)."
+  },
+  {
+    "Question": "What was the name of Castaway Cay before Disney purchased and developed it?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Gorda Cay",
+    "AnswerBonus": "Disney’s Castaway Cay was formerly known as Gorda Cay. Disney developed the once-sparsely used island into a private cruise destination in the late 1990s."
+  },
+  {
+    "Question": "What is the name of the adults-only beach on Castaway Cay?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Serenity Bay",
+    "AnswerBonus": "Serenity Bay is a tranquil, adults-only beach on Castaway Cay, located farther down the island and accessible by tram."
+  },
+  {
+    "Question": "Which Disney Cruise Line ship was the first to offer “Frozen” dining entertainment with the restaurant Arendelle: A Frozen Dining Adventure?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wish",
+    "AnswerBonus": "The Disney Wish debuted Arendelle: A Frozen Dining Adventure, a dinner show where Anna, Elsa, and friends entertain guests in a Frozen-themed banquet."
+  },
+  {
+    "Question": "Which Disney cruise ship features the Marvel cinematic dining experience \"Worlds of Marvel\"?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wish",
+    "AnswerBonus": "The Disney Wish introduced Worlds of Marvel, an interactive dining experience with Avengers-themed shows (and the Disney Treasure will have a similar Marvel dining venue as well)."
+  },
+  {
+    "Question": "On which Disney ship can you dine at Tiana’s Place, the Princess and the Frog-themed restaurant with live jazz music?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wonder",
+    "AnswerBonus": "Tiana’s Place is exclusive to the Disney Wonder. It was added in a 2016 refurb, replacing a former Caribbean-themed restaurant:contentReference[oaicite:7]{index=7}."
+  },
+  {
+    "Question": "Rapunzel’s Royal Table, a Tangled-themed dining experience, is found on which Disney cruise ship?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic",
+    "AnswerBonus": "Rapunzel’s Royal Table is on the Disney Magic, featuring characters from Tangled during dinner. (The Magic received this restaurant in 2018, replacing Carioca’s.)"
+  },
+  {
+    "Question": "In 2016, the Disney Wonder was refurbished and a restaurant was removed to make way for Tiana's Place. What was the name of the original restaurant that it replaced?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Parrot Cay",
+    "AnswerBonus": "Tiana’s Place on the Disney Wonder replaced Parrot Cay, a Caribbean-themed restaurant. (They also added the French Quarter Lounge during the 2019 updates:contentReference[oaicite:8]{index=8}.)"
+  },
+  {
+    "Question": "All Disney cruise ships have a buffet restaurant, but the name of the buffet differs by ship. What are the two buffet restaurant names used across the fleet?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "“Cabanas” and “Marceline Market”",
+    "AnswerBonus": "The classic ships and Dream-class have “Cabanas” as the buffet, while the newer Disney Wish (and Disney Treasure) feature “Marceline Market”:contentReference[oaicite:9]{index=9}."
+  },
+  {
+    "Question": "“Preludes” is the snack bar outside the Walt Disney Theatre on most Disney ships. Which ship does NOT have a Preludes concession stand?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wish",
+    "AnswerBonus": "The Disney Wish is the only ship without a Preludes snack bar in front of its main theater:contentReference[oaicite:10]{index=10} (the Wish has alternate ways to get theater snacks, including roaming wait staff)."
+  },
+  {
+    "Question": "In Animator’s Palate, what unique design feature do the butter knives have, and what does it represent?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "They are shaped like paintbrushes",
+    "AnswerBonus": "At Animator’s Palate restaurant, the butter knives are designed as paintbrushes, reflecting the theme of art and animation. (You can even buy souvenir paintbrush butter knives in the gift shop:contentReference[oaicite:11]{index=11}!)"
+  },
+  {
+    "Question": "How many Italian mosaic tiles are used in the mural of King Triton and Ariel inside Triton’s Restaurant on the Disney Wonder?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "200,000",
+      "B": "300,000",
+      "C": "500,000",
+      "D": "800,000"
+    },
+    "Answer": "A",
+    "AnswerBonus": "Approximately 200,000 hand-crafted Italian tiles make up Triton’s beautiful undersea mural:contentReference[oaicite:12]{index=12} – and it only took about 5 days to install the entire mosaic!"
+  },
+  {
+    "Question": "On the Disney Dream, there’s a sweets shop themed after a character from Wreck-It Ralph. What is the name of this candy-loving character?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Vanellope (Von Schweetz)",
+    "AnswerBonus": "Vanellope’s Sweets & Treats on the Disney Dream is named after Vanellope von Schweetz from _Wreck-It Ralph_. **Fun Fact**: Vanellope is voiced by Sarah Silverman:contentReference[oaicite:13]{index=13}."
+  },
+  {
+    "Question": "On the Disney Wish, Disney Treasure, and upcoming Disney Adventure, there’s a frozen treat stand named after a Toy Story 2 character. What is the name of this character?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Wheezy",
+    "AnswerBonus": "The ice cream spot called Wheezy’s Freezies (named after Wheezy the penguin from _Toy Story 2_) appears on the Disney Wish, Treasure, and the future Disney Adventure."
+  },
+  {
+    "Question": "Mickey waffles are a popular breakfast treat on Disney cruises. They actually come in two different flavors. What are the two Mickey waffle flavors available?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Plain (classic) and Churro",
+    "AnswerBonus": "Disney Cruise Line serves classic vanilla Mickey waffles and a cinnamon-sugar **churro** flavored Mickey waffle. (The churro flavor became a hit after guests raved about it:contentReference[oaicite:14]{index=14}!)"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship features a bronze atrium statue of Princess Ariel from The Little Mermaid?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wonder",
+    "AnswerBonus": "The Disney Wonder’s grand lobby showcases a bronze statue of Ariel on a seashell base. (Each ship’s atrium has a unique character statue – the Wonder’s is Ariel.)"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship’s stern features Rapunzel (with Pascal) decorating it?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wish",
+    "AnswerBonus": "The Disney Wish has Rapunzel (from _Tangled_) painting the ship’s name on its stern, with Pascal holding her hair. (Each ship has a different character tableau on the aft stern.)"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship has Dumbo the Flying Elephant and Timothy Q. Mouse on its stern (back of the ship)?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Fantasy",
+    "AnswerBonus": "The Disney Fantasy’s stern features Dumbo flying with Timothy Mouse. (In contrast, the Disney Dream has Sorcerer Mickey with the magic brooms on its stern.)"
+  },
+  {
+    "Question": "The sports pub on the Disney Dream is named “687.” What does this number represent?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "The Disney Dream’s shipyard hull number",
+    "AnswerBonus": "Pub 687 on the Disney Dream is named after the ship’s hull number (project #687) at the Meyer Werft shipyard:contentReference[oaicite:15]{index=15}. It’s a tribute to the Dream’s building history."
+  },
+  {
+    "Question": "The pub \"O’Gills\" found on some Disney ships is named as a reference to which classic Disney live-action film?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "_Darby O’Gill and the Little People_",
+    "AnswerBonus": "The name “O’Gills” is a nod to the 1959 Disney film _Darby O’Gill and the Little People_, which makes it a fitting name for an Irish pub-themed lounge:contentReference[oaicite:16]{index=16}."
+  },
+  {
+    "Question": "What lounge on the Disney Wish is themed after \"The Princess and the Frog\", complete with live music and beignets?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "The Bayou",
+    "AnswerBonus": "The Bayou is an informal lounge on the Disney Wish inspired by _The Princess and the Frog_. It features a New Orleans vibe with wrought-iron decor, jazz music, and even beignets on the menu."
+  },
+  {
+    "Question": "On which ship can thrill-seekers try the AquaDunk, a high-speed drop-out waterslide?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic",
+    "AnswerBonus": "The Disney Magic sports the AquaDunk, a near-vertical drop waterslide added in its 2013 renovation. A trapdoor releases riders to slide through a clear tube over the side of the ship!"
+  },
+  {
+    "Question": "Which Disney ships feature the Midship Detective Agency, an interactive mystery game played via enchanted art around the ship?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Dream and Disney Fantasy",
+    "AnswerBonus": "The Disney Dream and Fantasy have the Midship Detective Agency game, where guests use clue cards to interact with animated artwork and solve mysteries (like locating stolen dalmatians or missing art)."
+  },
+  {
+    "Question": "True or False: Disney Cruise Line was the first cruise line to include a fireworks show at sea as part of its entertainment.",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "True",
+      "B": "False"
+    },
+    "Answer": "A",
+    "AnswerBonus": "True. Disney Cruise Line pioneered regularly scheduled fireworks at sea with its \"Pirates IN the Caribbean\" deck party. Disney had to develop special low-ash fireworks for use over water."
+  },
+  {
+    "Question": "In 2019, Disney Cruise Line introduced a new character appearance to inspire young women in maritime careers. Who made her debut as a Disney Cruise Line Captain in 2019?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Captain Minnie Mouse",
+    "AnswerBonus": "Captain Minnie Mouse was introduced in 2019:contentReference[oaicite:17]{index=17}. Minnie, donning a Captain’s uniform (with pants), now appears onboard to encourage girls to consider careers at sea."
+  },
+  {
+    "Question": "Who served as the godmother of the Disney Dream cruise ship, having been chosen for her connection to Disney and her award-winning singing career?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Jennifer Hudson",
+    "AnswerBonus": "Jennifer Hudson christened the Disney Dream as its godmother in 2011:contentReference[oaicite:18]{index=18}. Fittingly, before her fame and Oscar-winning career, she was a performer aboard the Disney Wonder."
+  },
+  {
+    "Question": "Which famous singer was named the godmother of the Disney Fantasy when the ship launched in 2012?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Mariah Carey",
+    "AnswerBonus": "Mariah Carey served as the Disney Fantasy’s godmother, presiding over its christening ceremony in 2012. (Each Disney ship has a notable godmother to bless the vessel at launch.)"
+  },
+  {
+    "Question": "Where were the Disney Cruise Line’s first two ships (Magic and Wonder) built?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Italy (at Fincantieri shipyard)",
+    "AnswerBonus": "The Disney Magic and Wonder were constructed at Fincantieri shipyards in Italy. In contrast, Disney’s later ships (Dream, Fantasy, Wish, Treasure) were built by Meyer Werft in Germany."
+  },
+  {
+    "Question": "What is the name of Disney Cruise Line’s second private destination island in The Bahamas, scheduled to open for cruises in 2024?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Lighthouse Point",
+    "AnswerBonus": "Lighthouse Point, located on Eleuthera island, is Disney’s new tropical destination (opening 2024). It’s being developed with an emphasis on Bahamian culture and environmental sustainability."
+  },
+  {
+    "Question": "Which Disney cruise ship is the largest in size (gross tonnage) as of 2023?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wish",
+    "AnswerBonus": "The Disney Wish (approx. 144,000 gross tons) is currently the largest Disney ship. It’s a bit bigger than the Disney Dream and Fantasy (~130,000 GT). (The Disney Treasure will be roughly the same size as the Wish.)"
+  },
+  {
+    "Question": "What special feature do the inside staterooms on the Disney Dream and Disney Fantasy have that inside cabins on the older ships do not?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Virtual \"Magical Porthole\" screens showing real-time outside views",
+    "AnswerBonus": "The Dream and Fantasy introduced “Magical Portholes” for interior cabins: a round video screen that displays a live feed of the view outside — sometimes with surprise Disney character animations floating by!"
+  },
+  {
+    "Question": "Which Disney cruise ship was the first to sail cruises in Australia and New Zealand (beginning in late 2023)?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wonder",
+    "AnswerBonus": "In fall 2023, the Disney Wonder re-positioned to sail out of Australia and New Zealand for the first time, offering Disney’s inaugural cruises in the South Pacific region."
+  },
+  {
+    "Question": "Which Disney Cruise Line ship was the first to feature the Royal Court restaurant?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Fantasy"
+  },
+  {
+    "Question": "On which ship can you experience the French Quarter Lounge, themed after New Orleans jazz?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wonder"
+  },
+  {
+    "Question": "Which Disney ship’s atrium features a bronze statue of Captain Minnie Mouse?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wish"
+  },
+  {
+    "Question": "Which ships have the Bibbidi Bobbidi Boutique, where children can be transformed into princesses or pirates?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "All ships",
+      "B": "Only Dream and Fantasy",
+      "C": "Only Magic and Wonder",
+      "D": "Only Wish and Treasure"
+    },
+    "Answer": "A"
+  },
+  {
+    "Question": "The Disney Magic and Disney Wonder were christened in which U.S. state?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Florida"
+  },
+  {
+    "Question": "What is the name of the Broadway-style Frozen show performed on the Disney Wonder?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Frozen, A Musical Spectacular"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship features the stage show 'Aladdin: A Musical Spectacular'?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Fantasy"
+  },
+  {
+    "Question": "On which ship can guests dine at Enchanted Garden, inspired by the gardens of Versailles?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Dream and Disney Fantasy"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship was the first to sail through the Panama Canal?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "Which lounge on the Disney Fantasy is designed like an upscale travel-themed retreat with changing city skylines?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Skyline Lounge"
+  },
+  {
+    "Question": "On the Disney Wish, which dining room is designed to look like the castle ballroom from Beauty and the Beast?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "1923 Restaurant"
+  },
+  {
+    "Question": "What is the name of the ice cream shop on the Disney Fantasy inspired by Mickey and Minnie’s cartoon shorts?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Eye Scream Treats"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship was the first to receive the Tangled: The Musical stage show?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "The Disney Cruise Line terminal at Port Canaveral features a giant statue of which Disney character?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Mickey Mouse"
+  },
+  {
+    "Question": "Which Disney ship’s stern features Sorcerer Mickey summoning enchanted brooms?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Dream"
+  },
+  {
+    "Question": "Which pool area is specifically designed for adults on Disney Cruise Line ships?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Quiet Cove Pool"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship introduced the Oceaneer Club’s Star Wars: Millennium Falcon play area?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Dream"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship hosts the Broadway-style show 'Disney Dreams: An Enchanted Classic'?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "What is the name of the pirate-themed buffet and party held on Disney Cruise Line ships?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Pirates IN the Caribbean"
+  },
+  {
+    "Question": "Which Disney Cruise Line ships have the AquaLab water play area?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic, Disney Wonder, and Disney Fantasy"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship is the only one to have Lumiere’s restaurant?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship is the first to have two funnel suites built inside the ship’s iconic red smokestacks?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wish"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship was homeported in Galveston, Texas, for seasonal sailings?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wonder"
+  },
+  {
+    "Question": "Which ship introduced the Broadway-style show 'Beauty and the Beast' in 2017?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Dream"
+  },
+  {
+    "Question": "Which character is featured on the Disney Magic’s stern?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Goofy"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship was the first to feature the Broadway-style show 'Tangled: The Musical'?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "What year did the Disney Wonder embark on her maiden voyage?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "1999"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship is scheduled to debut in 2024 as the sister ship to the Disney Wish?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Treasure"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship features the Broadway show 'Frozen: A Musical Spectacular'?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wonder"
+  },
+  {
+    "Question": "The Disney Fantasy has a stern character tableau of Dumbo and Timothy Mouse. What character is on the Disney Magic’s stern?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Goofy"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship’s atrium statue is of Minnie Mouse in a 1920s fashion outfit?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Fantasy"
+  },
+  {
+    "Question": "On which Disney Cruise Line ship can guests enjoy the adult-exclusive French restaurant Remy?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Dream and Disney Fantasy"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship features the kids' club area themed as Andy’s Room from Toy Story?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship was the first to sail from New York City?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship features the Broadway-style show 'Disney’s Believe'?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Dream"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship features the Oceaneer Club area themed to Marvel’s Avengers Academy?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "What is the name of the luxury concierge lounge available to suite guests across the Disney Cruise Line fleet?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Concierge Lounge"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship debuted in 2012?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Fantasy"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship is the only one to feature Triton’s restaurant as part of its main dining rotation?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wonder"
+  },
+  {
+    "Question": "Which unique activity on Disney Cruise Line lets kids become part of an interactive detective game with enchanted art?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Midship Detective Agency"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship was the first to feature the AquaDunk drop slide?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship features the Broadway-style show 'The Golden Mickeys'?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wonder"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship offers the Broadway-style show 'Twice Charmed: An Original Twist on the Cinderella Story'?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship’s atrium statue features Donald Duck struggling with paint cans?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship has a stage production of 'Beauty and the Beast' based on the live-action movie?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Dream"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship features Rapunzel’s Royal Table as part of its dining rotation?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship introduced Arendelle: A Frozen Dining Adventure?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Wish"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship was christened in 1998?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Magic"
+  },
+  {
+    "Question": "Which ship has the exclusive lounge named 'The Tube,' themed after London nightlife?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Fantasy"
+  },
+  {
+    "Question": "Which Disney Cruise Line ship features Vanellope’s Sweets & Treats dessert shop?",
+    "Category": "disney_cruise_line",
+    "MultipleChoice": false,
+    "Answer": "Disney Dream"
+  }
+]

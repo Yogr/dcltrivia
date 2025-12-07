@@ -1,0 +1,787 @@
+[
+  {
+    "Question": "\"The past can hurt. But the way I see it, you can either run from it or learn from it.\" Who says this line, and in what movie?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Rafiki, The Lion King",
+    "AnswerBonus": "Rafiki helps Simba learn that he must face his past instead of hiding from it."
+  },
+  {
+    "Question": "\"Fish are friends, not food.\" Who delivers this famous line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Bruce, Finding Nemo",
+    "AnswerBonus": "Bruce is a great white shark leading a support group for sharks trying not to eat fish."
+  },
+  {
+    "Question": "\"In every job that must be done, there is an element of fun.\" Who said this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Mary Poppins, Mary Poppins",
+    "AnswerBonus": "Mary Poppins encourages the Banks children to find joy even in chores."
+  },
+  {
+    "Question": "\"Adventure is out there!\" Who proclaims this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Ellie (young), Up",
+    "AnswerBonus": "Ellie inspires Carl with her adventurous spirit in Pixar’s *Up*."
+  },
+  {
+    "Question": "\"Ooh, somebody’s poisoned the water hole!\" Who says this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Woody, Toy Story",
+    "AnswerBonus": "Woody often pulls this phrase from his voice box in *Toy Story*."
+  },
+  {
+    "Question": "\"The flower that blooms in adversity is the most rare and beautiful of all.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "The Emperor of China, Mulan",
+    "AnswerBonus": "The Emperor praises Mulan’s bravery after she saves China."
+  },
+  {
+    "Question": "\"Do you want to build a snowman?\" This famous question is sung by which character?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Anna, Frozen",
+    "AnswerBonus": "Young Anna sings this line while trying to coax Elsa out of her room."
+  },
+  {
+    "Question": "\"Just keep swimming.\" Who is famous for this mantra?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Dory, Finding Nemo",
+    "AnswerBonus": "Dory’s optimistic attitude helps Marlin push forward to find Nemo."
+  },
+  {
+    "Question": "\"I’m surrounded by idiots.\" Which villain says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Jafar",
+      "B": "Scar",
+      "C": "Hades",
+      "D": "Ursula"
+    },
+    "Answer": "B",
+    "AnswerBonus": "Scar says this in *The Lion King*, frustrated with the hyenas."
+  },
+  {
+    "Question": "\"Some people are worth melting for.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Olaf, Frozen",
+    "AnswerBonus": "Olaf shows his loyalty and love for Anna during this heartfelt moment."
+  },
+  {
+    "Question": "\"In every corner of your mind, there is a new dream waiting.\" Which Disney character says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Jiminy Cricket",
+      "B": "Cinderella’s Fairy Godmother",
+      "C": "Walt Disney in a recorded introduction",
+      "D": "Inside Out’s Joy"
+    },
+    "Answer": "A",
+    "AnswerBonus": "Jiminy Cricket often serves as a moral compass, encouraging hope and dreams."
+  },
+  {
+    "Question": "\"You are a toy!\" Who shouts this famous line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Woody, Toy Story",
+    "AnswerBonus": "Woody yells this at Buzz when Buzz believes he is a real space ranger."
+  },
+  {
+    "Question": "\"No capes!\" Which eccentric character makes this fashion decree?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Edna Mode, The Incredibles",
+    "AnswerBonus": "Edna insists that superhero costumes should never have capes due to safety hazards."
+  },
+  {
+    "Question": "\"It’s kind of fun to do the impossible.\" This quote is attributed to whom?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Walt Disney",
+    "AnswerBonus": "Though not from a movie, Walt himself is often quoted with this inspiring line."
+  },
+  {
+    "Question": "\"I am Groot.\" Who says this repeatedly?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Groot, Guardians of the Galaxy",
+    "AnswerBonus": "Though he only says three words, Rocket explains Groot’s meanings to others."
+  },
+  {
+    "Question": "\"Long live the King.\" Which villain delivers this chilling line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Scar, The Lion King",
+    "AnswerBonus": "Scar says this as he lets Mufasa fall to his death."
+  },
+  {
+    "Question": "\"I never look back, darling. It distracts from the now.\" Who said this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Edna Mode, The Incredibles",
+    "AnswerBonus": "Edna is full of quirky one-liners about fashion and philosophy."
+  },
+  {
+    "Question": "\"Our fate lives within us. You only have to be brave enough to see it.\" Which princess says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Merida, Brave",
+    "AnswerBonus": "Merida emphasizes courage and free will in her story."
+  },
+  {
+    "Question": "\"The cold never bothered me anyway.\" Who belts this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Elsa, Frozen",
+    "AnswerBonus": "Elsa declares her independence in the iconic song “Let It Go.”"
+  },
+  {
+    "Question": "\"Remember me, though I have to say goodbye.\" Which film features this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Coco (sung by Héctor)",
+    "AnswerBonus": "Héctor’s lullaby becomes the emotional heart of *Coco*."
+  },
+  {
+    "Question": "\"My name is Inigo Montoya. You killed my father. Prepare to die.\" Which character says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Captain Hook",
+      "B": "Inigo Montoya",
+      "C": "Jack Sparrow",
+      "D": "Flynn Rider"
+    },
+    "Answer": "B",
+    "AnswerBonus": "*The Princess Bride* (a Disney-owned property via Fox) features this cult classic line."
+  },
+  {
+    "Question": "\"If you can’t say something nice, don’t say nothing at all.\" Who gives this advice?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Thumper, Bambi",
+    "AnswerBonus": "Thumper shares this classic life lesson in *Bambi*."
+  },
+  {
+    "Question": "\"I’m not a prize to be won!\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Princess Jasmine, Aladdin",
+    "AnswerBonus": "Jasmine asserts her independence against suitors and tradition."
+  },
+  {
+    "Question": "\"All it takes is faith and trust. Oh, and a little bit of pixie dust.\" Who says this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Peter Pan, Peter Pan",
+    "AnswerBonus": "Peter explains how to fly to Wendy, John, and Michael."
+  },
+  {
+    "Question": "\"To infinity... and beyond!\" Who declares this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Buzz Lightyear, Toy Story",
+    "AnswerBonus": "Buzz’s catchphrase embodies his heroic, space ranger persona."
+  },
+  {
+    "Question": "\"The sea is always right.\" Who says this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Grandmother Tala, Moana",
+    "AnswerBonus": "Grandmother Tala guides Moana to trust in the ocean’s wisdom."
+  },
+  {
+    "Question": "\"Ladies don’t start fights, but they can finish them.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Marie, The Aristocats",
+    "AnswerBonus": "Marie, the sassy white kitten, declares this in *The Aristocats*."
+  },
+  {
+    "Question": "\"The only way to get what you want in this world is through hard work.\" Who teaches this lesson?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Tiana, The Princess and the Frog",
+    "AnswerBonus": "Tiana’s determination sets her apart as one of Disney’s most hardworking heroines."
+  },
+  {
+    "Question": "\"Not everyone can become a great artist, but a great artist can come from anywhere.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Anton Ego, Ratatouille",
+    "AnswerBonus": "Anton Ego admits this truth after Remy wins him over with a meal."
+  },
+  {
+    "Question": "\"A lie keeps growing and growing until it’s as plain as the nose on your face.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "The Blue Fairy, Pinocchio",
+    "AnswerBonus": "The Blue Fairy reminds Pinocchio of the consequences of lying."
+  },
+  {
+    "Question": "\"I’m trash!\" Which Disney character dramatically declares this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Forky, Toy Story 4",
+    "AnswerBonus": "Forky struggles with his identity as both trash and toy."
+  },
+  {
+    "Question": "\"You’ve got a friend in me.\" Who sings this iconic line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Randy Newman (theme for Toy Story)",
+    "AnswerBonus": "The song, written and sung by Randy Newman, became the anthem of *Toy Story*."
+  },
+  {
+    "Question": "\"You’re braver than you believe, stronger than you seem, and smarter than you think.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Christopher Robin, Winnie the Pooh",
+    "AnswerBonus": "Christopher Robin offers this encouragement to Pooh."
+  },
+  {
+    "Question": "\"If you focus on what you left behind, you will never be able to see what lies ahead.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Gusteau, Ratatouille",
+    "AnswerBonus": "Chef Gusteau’s motto guides Remy to chase his dreams."
+  },
+  {
+    "Question": "\"Do. Or do not. There is no try.\" Which character speaks this wisdom?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Yoda, Star Wars: The Empire Strikes Back",
+    "AnswerBonus": "Though not classic Disney, Star Wars is now under the Disney umbrella."
+  },
+  {
+    "Question": "\"I’m late! I’m late! For a very important date!\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "The White Rabbit, Alice in Wonderland",
+    "AnswerBonus": "The White Rabbit rushes through Wonderland, always in a hurry."
+  },
+  {
+    "Question": "\"When life gets you down, you know what you gotta do? Just keep swimming.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Dory",
+      "B": "Marlin",
+      "C": "Nemo",
+      "D": "Crush"
+    },
+    "Answer": "A",
+    "AnswerBonus": "Dory’s motto became one of Disney Pixar’s most famous catchphrases."
+  },
+  {
+    "Question": "\"You’re never too old to be young.\" Who said this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Snow White (Disney promotional quote)",
+    "AnswerBonus": "Snow White reminds audiences of the timeless spirit of youth."
+  },
+  {
+    "Question": "\"Dishonor on you, dishonor on your cow!\" Who exclaims this insult?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Mushu, Mulan",
+    "AnswerBonus": "Mushu, voiced by Eddie Murphy, delivers this hilarious line."
+  },
+  {
+    "Question": "\"You can’t run from who you are.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Shere Khan, The Jungle Book",
+    "AnswerBonus": "Shere Khan embodies menace with this warning to Mowgli."
+  },
+  {
+    "Question": "\"Why, sometimes I’ve believed as many as six impossible things before breakfast.\" Which character says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Alice, Alice in Wonderland",
+    "AnswerBonus": "Alice embraces imagination in her whimsical adventures."
+  },
+  {
+    "Question": "\"The things that make me different are the things that make me me.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Piglet, Winnie the Pooh",
+    "AnswerBonus": "Piglet embraces his uniqueness in the Hundred Acre Wood."
+  },
+  {
+    "Question": "\"It’s not the years, honey. It’s the mileage.\" Who delivers this witty line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Han Solo",
+      "B": "Indiana Jones",
+      "C": "Jack Sparrow",
+      "D": "Flynn Rider"
+    },
+    "Answer": "B",
+    "AnswerBonus": "Though Lucasfilm, *Indiana Jones* is part of Disney’s acquired properties."
+  },
+  {
+    "Question": "\"Life is not a spectator sport. If watching is all you’re gonna do, then you’re gonna watch your life go by without ya.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Laverne, The Hunchback of Notre Dame",
+    "AnswerBonus": "One of the cathedral gargoyles encourages Quasimodo to seize life."
+  },
+  {
+    "Question": "\"Some people are worth melting for.\" Which Disney sidekick says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Genie",
+      "B": "Olaf",
+      "C": "Sebastian",
+      "D": "Mushu"
+    },
+    "Answer": "B",
+    "AnswerBonus": "Olaf warms hearts with his selfless statement in *Frozen*."
+  },
+  {
+    "Question": "\"You don’t lose hope, love. If you do, you lose everything.\" Who says this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Mrs. Potts, Beauty and the Beast",
+    "AnswerBonus": "Mrs. Potts encourages Belle to stay hopeful during her time at the castle."
+  },
+  {
+    "Question": "\"The very things that hold you down are going to lift you up.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Timothy Q. Mouse, Dumbo",
+    "AnswerBonus": "Timothy encourages Dumbo to believe in his ears as a gift."
+  },
+  {
+    "Question": "\"The human world... it’s a mess.\" Who sings this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Sebastian, The Little Mermaid",
+    "AnswerBonus": "Sebastian tries to convince Ariel that life under the sea is better."
+  },
+  {
+    "Question": "\"Why do we fall, Bruce? So we can learn to pick ourselves up.\" Though not classic Disney, which character says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Alfred Pennyworth",
+      "B": "Mufasa",
+      "C": "Hades",
+      "D": "Doc Hudson"
+    },
+    "Answer": "A",
+    "AnswerBonus": "This Warner/DC line occasionally crosses trivia lists but is associated with Disney cruise pop culture crossover sessions."
+  },
+  {
+    "Question": "\"Ohana means family. Family means nobody gets left behind or forgotten.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Lilo, Lilo & Stitch",
+    "AnswerBonus": "Lilo delivers this heartfelt Hawaiian wisdom in her story."
+  },
+  {
+    "Question": "\"If you can dream it, you can do it.\" Who is often credited with this inspirational quote?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Walt Disney",
+    "AnswerBonus": "Although often attributed to Walt Disney, the quote was actually coined by Imagineer Tom Fitzgerald."
+  },
+  {
+    "Question": "\"You’re only a fool if you give up.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Aladdin, Aladdin",
+    "AnswerBonus": "Aladdin says this to encourage perseverance even in hard times."
+  },
+  {
+    "Question": "\"Everything the light touches is our kingdom.\" Who says this iconic line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Mufasa, The Lion King",
+    "AnswerBonus": "Mufasa teaches Simba about responsibility and leadership."
+  },
+  {
+    "Question": "\"Oh, bother.\" Which character is known for this catchphrase?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Winnie the Pooh, Winnie the Pooh",
+    "AnswerBonus": "Pooh says this often when things don’t go his way."
+  },
+  {
+    "Question": "\"You’re gonna need a bigger boat.\" Which movie is this from?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Jaws",
+      "B": "Pirates of the Caribbean",
+      "C": "The Little Mermaid",
+      "D": "Moana"
+    },
+    "Answer": "A",
+    "AnswerBonus": "Though not originally Disney, *Jaws* became part of Disney-owned catalogs through studio acquisitions, making it fair game in crossover trivia."
+  },
+  {
+    "Question": "\"Some people are worth fighting for.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Kristoff, Frozen",
+    "AnswerBonus": "Kristoff shows his devotion to Anna with this heartfelt line."
+  },
+  {
+    "Question": "\"Don’t just fly, soar.\" Who says this uplifting line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Dumbo, Dumbo",
+    "AnswerBonus": "Dumbo embraces his talent despite ridicule from others."
+  },
+  {
+    "Question": "\"You control your destiny – you don’t need magic to do it.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Merida, Brave",
+    "AnswerBonus": "Merida rejects fate and emphasizes personal choice."
+  },
+  {
+    "Question": "\"The only thing predictable about life is its unpredictability.\" Which character says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Remy, Ratatouille",
+    "AnswerBonus": "Remy embraces the uncertainty of life to pursue his passion for cooking."
+  },
+  {
+    "Question": "\"Happiness is the richest thing we will ever own.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Donald Duck (Disney short)",
+    "AnswerBonus": "Donald Duck delivers this lesson in various classic shorts."
+  },
+  {
+    "Question": "\"To laugh at yourself is to love yourself.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Mickey Mouse",
+    "AnswerBonus": "Mickey reminds us that humor and self-acceptance go hand-in-hand."
+  },
+  {
+    "Question": "\"You are more than what you have become.\" Who says this to Simba?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Mufasa’s spirit, The Lion King",
+    "AnswerBonus": "Mufasa’s spirit urges Simba to reclaim his rightful place as king."
+  },
+  {
+    "Question": "\"Hoo-hoo-hoo-hoo! Big summer blowout!\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Oaken, Frozen",
+    "AnswerBonus": "Oaken runs the Trading Post and Sauna where Anna buys winter gear."
+  },
+  {
+    "Question": "\"Put that thing back where it came from or so help me!\" Who says this comedic line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Mike Wazowski, Monsters, Inc.",
+    "AnswerBonus": "Mike blurts this out as a line for his impromptu musical skit."
+  },
+  {
+    "Question": "\"Don’t close your eyes. Look at me. You’re safe now.\" Who reassures with this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Elsa",
+      "B": "Beast",
+      "C": "Tarzan",
+      "D": "Hercules"
+    },
+    "Answer": "C",
+    "AnswerBonus": "Tarzan comforts Jane after rescuing her from danger in *Tarzan*."
+  },
+  {
+    "Question": "\"If you’re going hard enough, it’s like you’re weightless.\" Which racing mentor says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Doc Hudson, Cars",
+    "AnswerBonus": "Doc Hudson teaches Lightning McQueen about the true art of racing."
+  },
+  {
+    "Question": "\"Haven’t you ever had a dream?\" Who asks this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Rapunzel, Tangled",
+    "AnswerBonus": "Rapunzel longs to see the floating lanterns in *Tangled*."
+  },
+  {
+    "Question": "\"I never knew I needed.\" This line is sung in which Disney film?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "The Princess and the Frog",
+      "B": "Frozen II",
+      "C": "Moana",
+      "D": "Hercules"
+    },
+    "Answer": "A",
+    "AnswerBonus": "Performed by Ne-Yo, the song plays during the credits of *The Princess and the Frog*."
+  },
+  {
+    "Question": "\"Not all treasure is silver and gold, mate.\" Who delivers this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Jack Sparrow, Pirates of the Caribbean",
+    "AnswerBonus": "Jack Sparrow values freedom and adventure more than riches."
+  },
+  {
+    "Question": "\"Remember, you’re the one who can fill the world with sunshine.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Snow White, Snow White and the Seven Dwarfs",
+    "AnswerBonus": "Snow White’s optimism brightens even the darkest days."
+  },
+  {
+    "Question": "\"I’m like a shooting star, I’ve come so far, I can’t go back to where I used to be.\" Which character sings this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Jasmine, Aladdin",
+    "AnswerBonus": "Jasmine sings this in the duet “A Whole New World.”"
+  },
+  {
+    "Question": "\"Your identity is your most valuable possession. Protect it.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Elastigirl, The Incredibles",
+    "AnswerBonus": "Helen Parr advises her children to keep their superhero identities secret."
+  },
+  {
+    "Question": "\"You’ve got to let go of the past. That’s where it belongs.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Rafiki, The Lion King",
+    "AnswerBonus": "Rafiki guides Simba to stop dwelling on guilt and move forward."
+  },
+  {
+    "Question": "\"But I don’t want to survive. I want to live!\" Who says this in a post-apocalyptic Disney film?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Captain, WALL-E",
+    "AnswerBonus": "The Captain of the Axiom decides humanity must return to Earth."
+  },
+  {
+    "Question": "\"The moment you doubt whether you can fly, you cease forever to be able to do it.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Peter Pan, Peter Pan",
+    "AnswerBonus": "Peter teaches the Darling children about belief and flight."
+  },
+  {
+    "Question": "\"This is my family. I found it, all on my own. It’s little, and broken, but still good.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Stitch, Lilo & Stitch",
+    "AnswerBonus": "Stitch embraces the meaning of ‘ohana’ with this line."
+  },
+  {
+    "Question": "\"Life’s not a spectator sport. If watching is all you’re gonna do, then you’re gonna watch your life go by without you.\" Who delivers this wisdom?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Laverne, The Hunchback of Notre Dame",
+    "AnswerBonus": "The gargoyle Laverne urges Quasimodo to live his life to the fullest."
+  },
+  {
+    "Question": "\"You have forgotten who you are, and so forgotten me.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Mufasa’s spirit, The Lion King",
+    "AnswerBonus": "Mufasa’s ghost reminds Simba of his true identity and duty."
+  },
+  {
+    "Question": "\"You uncultured swine!\" Who exclaims this insult?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Mr. Potato Head, Toy Story",
+    "AnswerBonus": "Mr. Potato Head yells this at Hamm during a game."
+  },
+  {
+    "Question": "\"The things we lose have a way of coming back to us in the end.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Belle",
+      "B": "Moana",
+      "C": "Luna Lovegood",
+      "D": "Rapunzel"
+    },
+    "Answer": "C",
+    "AnswerBonus": "Luna Lovegood says this in *Harry Potter and the Order of the Phoenix*, part of the Disney-owned Warner Bros. crossover trivia pool."
+  },
+  {
+    "Question": "\"I am speed.\" Who declares this mantra?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Lightning McQueen, Cars",
+    "AnswerBonus": "Lightning says this as his pre-race ritual."
+  },
+  {
+    "Question": "\"I’ll get you, my pretty, and your little dog too!\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Ursula",
+      "B": "The Wicked Witch of the West",
+      "C": "Maleficent",
+      "D": "Cruella de Vil"
+    },
+    "Answer": "B",
+    "AnswerBonus": "The Wicked Witch of the West from *The Wizard of Oz* is used in Disney trivia due to MGM/Warner/Disney cultural crossover."
+  },
+  {
+    "Question": "\"I am Moana of Motunui. You will board my boat, sail across the sea, and restore the heart of Te Fiti.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Moana, Moana",
+    "AnswerBonus": "Moana declares this as she confronts Te Kā."
+  },
+  {
+    "Question": "\"The only way to get what you want is to become a human yourself.\" Which villain says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Ursula, The Little Mermaid",
+    "AnswerBonus": "Ursula convinces Ariel to give up her voice for legs."
+  },
+  {
+    "Question": "\"Don’t ever let somebody tell you you can’t do something. Not even me.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Walt Disney",
+      "B": "Chris Gardner",
+      "C": "Carl Fredricksen",
+      "D": "Mufasa"
+    },
+    "Answer": "B",
+    "AnswerBonus": "Will Smith’s Chris Gardner delivers this line in *The Pursuit of Happyness*, now under Disney distribution through Sony/Columbia cross-trivia."
+  },
+  {
+    "Question": "\"Look inside yourself, Simba. You are more than what you have become.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Mufasa’s spirit, The Lion King",
+    "AnswerBonus": "This echoes Mufasa’s wisdom from beyond the grave."
+  },
+  {
+    "Question": "\"All right, Mr. DeMille, I’m ready for my close-up.\" Who delivers this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": true,
+    "Choices": {
+      "A": "Elsa",
+      "B": "Norma Desmond",
+      "C": "Cruella de Vil",
+      "D": "Queen of Hearts"
+    },
+    "Answer": "B",
+    "AnswerBonus": "Norma Desmond says this in *Sunset Boulevard*, often included in Disney cruise trivia crossover film rounds."
+  },
+  {
+    "Question": "\"The problem is not the problem. The problem is your attitude about the problem.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Jack Sparrow, Pirates of the Caribbean",
+    "AnswerBonus": "Jack’s quirky wisdom often makes more sense than it seems."
+  },
+  {
+    "Question": "\"Venture outside your comfort zone. The rewards are worth it.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Rapunzel, Tangled",
+    "AnswerBonus": "Rapunzel urges others to take risks as she explores the world."
+  },
+  {
+    "Question": "\"The greatest risk any of us will take is to be seen as we really are.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "The Emperor, Mulan",
+    "AnswerBonus": "This highlights Mulan’s courage in embracing her true self."
+  },
+  {
+    "Question": "\"You’ve got to put your past behind you.\" Who says this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Timon, The Lion King",
+    "AnswerBonus": "Timon explains Hakuna Matata to Simba."
+  },
+  {
+    "Question": "\"Some people are worth melting for.\" Which snowman delivers this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Olaf, Frozen",
+    "AnswerBonus": "Olaf says this to Anna when she’s freezing."
+  },
+  {
+    "Question": "\"Family means no one gets left behind or forgotten.\" Who teaches this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Lilo, Lilo & Stitch",
+    "AnswerBonus": "This Hawaiian value becomes the heart of the film."
+  },
+  {
+    "Question": "\"Our fate is within us. You only have to be brave enough to see it.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Merida, Brave",
+    "AnswerBonus": "Merida’s courage drives her to change her destiny."
+  },
+  {
+    "Question": "\"Don’t ever forget who you are.\" Who tells this to Simba?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Mufasa, The Lion King",
+    "AnswerBonus": "Mufasa instills this important lesson in Simba."
+  },
+  {
+    "Question": "\"I’m not crazy. My reality is just different than yours.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "The Cheshire Cat, Alice in Wonderland",
+    "AnswerBonus": "The Cheshire Cat’s cryptic wisdom reflects Wonderland’s nonsense logic."
+  },
+  {
+    "Question": "\"Today is a good day to try.\" Who says this optimistic line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Quasimodo, The Hunchback of Notre Dame",
+    "AnswerBonus": "Quasimodo shows determination to step out into the world."
+  },
+  {
+    "Question": "\"The very things that hold you down are going to lift you up.\" Who delivers this line?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Timothy Q. Mouse, Dumbo",
+    "AnswerBonus": "Timothy helps Dumbo see his ears as a blessing."
+  },
+  {
+    "Question": "\"I never look back, darling. It distracts from the now.\" Which fashion designer says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Edna Mode, The Incredibles",
+    "AnswerBonus": "Edna’s motto is as iconic as her wardrobe designs."
+  },
+  {
+    "Question": "\"To laugh at yourself is to love yourself.\" Who says this?",
+    "Category": "disney_movie_quotes",
+    "MultipleChoice": false,
+    "Answer": "Mickey Mouse",
+    "AnswerBonus": "Mickey encourages humility and joy through self-acceptance."
+  }
+]
+

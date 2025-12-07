@@ -1,0 +1,646 @@
+[
+  {
+    "Question": "In the MCU, what metal is Captain America’s shield primarily made of?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Adamantium", "B": "Vibranium", "C": "Uru", "D": "Titanium" },
+    "Answer": "B"
+  },
+  {
+    "Question": "Which Avenger says, \"I can do this all day\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Thor", "B": "Iron Man", "C": "Captain America", "D": "Hawkeye" },
+    "Answer": "C"
+  },
+  {
+    "Question": "What is the name of Thor’s hammer?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Gungnir", "B": "Stormbreaker", "C": "Hofund", "D": "Mjolnir" },
+    "Answer": "D"
+  },
+  {
+    "Question": "Which Infinity Stone did Vision have embedded in his forehead?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Mind Stone", "B": "Soul Stone", "C": "Time Stone", "D": "Power Stone" },
+    "Answer": "A"
+  },
+  {
+    "Question": "Who says, \"I am Iron Man\" to end the final battle in Avengers: Endgame?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Tony Stark",
+    "AnswerBonus": "A perfect callback to the closing line of the first Iron Man film."
+  },
+  {
+    "Question": "Black Panther’s suit is woven from which fictional material?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Adamantium mesh", "B": "Uru fiber", "C": "Vibranium weave", "D": "Carbon nanotube" },
+    "Answer": "C"
+  },
+  {
+    "Question": "In Guardians of the Galaxy, which song plays as Star-Lord dances in the opening scene on Morag?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Hooked on a Feeling", "B": "Come and Get Your Love", "C": "Mr. Blue Sky", "D": "Spirit in the Sky" },
+    "Answer": "B"
+  },
+  {
+    "Question": "Which Avenger lifts Thor’s hammer (briefly) at the Avengers’ party in Age of Ultron?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Steve Rogers", "B": "Bruce Banner", "C": "Clint Barton", "D": "Natasha Romanoff" },
+    "Answer": "A",
+    "AnswerBonus": "Cap only budges it then—but later fully wields it in Endgame."
+  },
+  {
+    "Question": "What nation is Wanda Maximoff originally from in the MCU?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Latveria", "B": "Sokovia", "C": "Genosha", "D": "Wakanda" },
+    "Answer": "B"
+  },
+  {
+    "Question": "Who says, \"We are Groot\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Groot", "B": "Rocket", "C": "Star-Lord", "D": "Drax" },
+    "Answer": "A"
+  },
+
+  {
+    "Question": "In Disneyland’s Haunted Mansion, whose portrait transforms into a skeleton with a thunderclap?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "The Bride", "B": "The Caretaker", "C": "The Aging Man", "D": "The Hatbox Ghost" },
+    "Answer": "C"
+  },
+  {
+    "Question": "What’s the famous promise about room availability given by the Ghost Host?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "\"No vacancy—forever!\"", "B": "\"999 happy haunts—but there's room for 1,000!\"", "C": "\"Reservations only—if you dare!\"", "D": "\"We never check out.\"" },
+    "Answer": "B"
+  },
+  {
+    "Question": "Which version of the attraction uses an actual elevator for the Stretching Room effect?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Magic Kingdom (Florida)", "B": "Tokyo Disneyland", "C": "Disneyland (California)", "D": "Hong Kong Disneyland" },
+    "Answer": "C"
+  },
+  {
+    "Question": "What musical instrument is played by the busts that appear to be singing in the graveyard scene?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Singing busts (a cappella/chorus)",
+    "AnswerBonus": "They’re a barbershop-style quintet performing \"Grim Grinning Ghosts.\""
+  },
+  {
+    "Question": "Which Parisian cousin of the Mansion has a darker Western storyline and is called Phantom Manor?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Disneyland Paris"
+  },
+  {
+    "Question": "What is the name of the trackless spiritual cousin in Hong Kong that replaces ghosts with enchanted artifacts?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Mystic Manor"
+  },
+  {
+    "Question": "Who is the spectral bride with a glowing heart in the U.S. Mansions?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Constance Hatchaway", "B": "Elizabeth Hightower", "C": "Hatbox Harriet", "D": "Melanie Ravenswood" },
+    "Answer": "A"
+  },
+  {
+    "Question": "What is the name of the song that plays throughout Haunted Mansion?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Grim Grinning Ghosts"
+  },
+  {
+    "Question": "Which character finally returned to Disneyland’s Mansion in 2015 after decades of absence?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "The Mummy", "B": "The Hatbox Ghost", "C": "The Opera Singer", "D": "The Mariner" },
+    "Answer": "B"
+  },
+  {
+    "Question": "In Magic Kingdom’s Mansion, what eerie effect appears on the corridor of doors?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Hands pushing through wallpaper", "B": "Footprints in dust", "C": "Floating candelabra", "D": "Mirror reflections" },
+    "Answer": "A"
+  },
+
+  {
+    "Question": "What was Walt Disney’s birthplace city?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Kansas City, Missouri", "B": "Chicago, Illinois", "C": "Marceline, Missouri", "D": "Burbank, California" },
+    "Answer": "B"
+  },
+  {
+    "Question": "Which small Missouri town did Walt often call his hometown and inspiration for Main Street, U.S.A.?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Marceline, Missouri"
+  },
+  {
+    "Question": "Before Mickey, which character did Walt Disney lose the rights to, prompting Mickey’s creation?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Oswald the Lucky Rabbit", "B": "Felix the Cat", "C": "Krazy Kat", "D": "Julius the Cat" },
+    "Answer": "A"
+  },
+  {
+    "Question": "What was Walt’s profession before founding his first studio?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Photographer", "B": "Newspaper cartoonist", "C": "Stage actor", "D": "Bank teller" },
+    "Answer": "B"
+  },
+  {
+    "Question": "Which innovation did Walt pioneer to create depth in animation backgrounds?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Rotoscoping", "B": "Motion capture", "C": "Multiplane camera", "D": "Stereoscopic cels" },
+    "Answer": "C"
+  },
+  {
+    "Question": "Which award did Walt Disney hold a record number of in his lifetime?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Academy Awards (Oscars)",
+    "AnswerBonus": "He earned 22 competitive Oscars and 4 honorary."
+  },
+  {
+    "Question": "What was the name of Walt’s first Los Angeles studio with his brother Roy?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Disney Brothers Studio"
+  },
+  {
+    "Question": "Which short introduced synchronized sound to Disney audiences in 1928?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Steamboat Willie", "B": "Plane Crazy", "C": "Gallopin’ Gaucho", "D": "The Opry House" },
+    "Answer": "A"
+  },
+  {
+    "Question": "What phrase is often attributed to Walt that captures his spirit of optimism: \"It’s kind of fun to do the _____.\"",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "unbelievable", "B": "impossible", "C": "unexpected", "D": "incredible" },
+    "Answer": "B"
+  },
+
+  {
+    "Question": "Which TV family says, \"D’oh!\" as a signature exclamation?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "The Griffins", "B": "The Simpsons", "C": "The Dunphys", "D": "The Belchers" },
+    "Answer": "B"
+  },
+  {
+    "Question": "Who declares, \"Winter is coming\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Jon Snow", "B": "Eddard Stark", "C": "Tyrion Lannister", "D": "Daenerys Targaryen" },
+    "Answer": "B",
+    "AnswerBonus": "Popular culture crossover lines sometimes appear in shipboard trivia."
+  },
+  {
+    "Question": "Which space-faring TV captain often says, \"Make it so\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "James T. Kirk", "B": "Jean-Luc Picard", "C": "Kathryn Janeway", "D": "Benjamin Sisko" },
+    "Answer": "B"
+  },
+  {
+    "Question": "Who says, \"Live long and prosper\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Spock", "B": "Data", "C": "Worf", "D": "Sulu" },
+    "Answer": "A"
+  },
+  {
+    "Question": "On \"The Mandalorian,\" what is the creed-affirming line Din Djarin repeats?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "\"This is the way.\"", "B": "\"For Mandalore!\"", "C": "\"I have spoken.\"", "D": "\"No disintegrations.\"" },
+    "Answer": "A"
+  },
+  {
+    "Question": "Which ABC sitcom character says, \"Clear eyes, full hearts, can’t lose\" (often quoted on Disney ships)?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Coach Taylor", "B": "Phil Dunphy", "C": "Danny Tanner", "D": "Ted Lasso" },
+    "Answer": "A"
+  },
+  {
+    "Question": "Who says, \"Suit up!\" on a long-running ensemble sitcom?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Barney Stinson", "B": "Chandler Bing", "C": "Jake Peralta", "D": "Michael Scott" },
+    "Answer": "A"
+  },
+  {
+    "Question": "Which character ends many statements with \"I have spoken\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Kuiil (The Mandalorian)", "B": "Moff Gideon", "C": "Obi-Wan Kenobi", "D": "Boba Fett" },
+    "Answer": "A"
+  },
+  {
+    "Question": "Which TV detective says, \"No soup for you!\" (often quoted in trivia nights)?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Monk", "B": "Columbo", "C": "Jerry Seinfeld (Soup Nazi episode)", "D": "Jake Peralta" },
+    "Answer": "C"
+  },
+  {
+    "Question": "Which animated TV hero declares, \"Yabba-dabba-doo!\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Homer Simpson", "B": "Fred Flintstone", "C": "Finn the Human", "D": "He-Man" },
+    "Answer": "B"
+  },
+
+  {
+    "Question": "Who says, \"May the Force be with you\" first in Star Wars: A New Hope?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Luke Skywalker", "B": "Obi-Wan Kenobi", "C": "Han Solo", "D": "General Dodonna" },
+    "Answer": "D",
+    "AnswerBonus": "Obi-Wan popularized it later, but Dodonna uses it in the Yavin briefing."
+  },
+  {
+    "Question": "Which adventure hero says, \"Snakes. Why’d it have to be snakes?\"",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Rick O’Connell", "B": "Indiana Jones", "C": "Nathan Drake", "D": "Lara Croft" },
+    "Answer": "B"
+  },
+  {
+    "Question": "Finish the line from The Princess Bride: \"Hello. My name is Inigo Montoya. You killed my father. _____\"",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "\"Prepare to die.\"", "B": "\"Face your fate.\"", "C": "\"Justice will come.\"", "D": "\"Now we duel.\"" },
+    "Answer": "A"
+  },
+  {
+    "Question": "In Pirates of the Caribbean, who says, \"Why is the rum gone?\"",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Elizabeth Swann", "B": "Jack Sparrow", "C": "Will Turner", "D": "Gibbs" },
+    "Answer": "B"
+  },
+  {
+    "Question": "Which Pixar character emphatically declares, \"I’m trash!\"",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Forky", "B": "Dory", "C": "Bing Bong", "D": "Remy" },
+    "Answer": "A"
+  },
+  {
+    "Question": "From The Lion King, who says, \"Long live the King\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Scar", "B": "Mufasa", "C": "Zazu", "D": "Shenzi" },
+    "Answer": "A"
+  },
+  {
+    "Question": "Which Marvel character says, \"Wakanda forever\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Okoye", "B": "Shuri", "C": "T’Challa", "D": "M’Baku" },
+    "Answer": "C"
+  },
+  {
+    "Question": "Which princess sings, \"I want adventure in the great wide somewhere\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Ariel", "B": "Belle", "C": "Rapunzel", "D": "Tiana" },
+    "Answer": "B"
+  },
+  {
+    "Question": "Which Jedi says, \"Hello there\" in a famous meme-worthy entrance?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Luke Skywalker", "B": "Qui-Gon Jinn", "C": "Obi-Wan Kenobi", "D": "Anakin Skywalker" },
+    "Answer": "C"
+  },
+  {
+    "Question": "Which Marvel hero is known as the Sorcerer Supreme?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Doctor Strange"
+  },
+  {
+    "Question": "In the MCU, who is Peter Parker’s best friend?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Ned Leeds", "B": "Harry Osborn", "C": "Flash Thompson", "D": "MJ" },
+    "Answer": "A"
+  },
+  {
+    "Question": "What is the name of Tony Stark’s AI assistant before F.R.I.D.A.Y.?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "J.A.R.V.I.S."
+  },
+  {
+    "Question": "Which Marvel movie introduced the character Valkyrie?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Thor: Ragnarok"
+  },
+  {
+    "Question": "What is the name of Black Panther’s younger sister and Wakanda’s top scientist?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Shuri"
+  },
+  {
+    "Question": "Which Marvel villain is also known as the 'Mad Titan'?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Thanos"
+  },
+  {
+    "Question": "What does S.H.I.E.L.D. stand for?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Strategic Homeland Intervention, Enforcement and Logistics Division"
+  },
+  {
+    "Question": "In Spider-Man: Homecoming, who plays Peter’s mentor role?",
+    "Category": "miscellaneous",
+    "MultipleChoice": true,
+    "Choices": { "A": "Nick Fury", "B": "Iron Man", "C": "Doctor Strange", "D": "Captain America" },
+    "Answer": "B"
+  },
+  {
+    "Question": "Which Marvel movie featured the first appearance of Spider-Man in the MCU?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Captain America: Civil War"
+  },
+  {
+    "Question": "In Avengers: Infinity War, who sacrifices themselves to obtain the Soul Stone?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Gamora"
+  },
+
+  {
+    "Question": "What year did the Haunted Mansion first open at Disneyland?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "1969"
+  },
+  {
+    "Question": "Who is the caretaker seen with a lantern and a dog in the Haunted Mansion’s graveyard?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "The Groundskeeper"
+  },
+  {
+    "Question": "What is the name of the raven that appears throughout the Haunted Mansion?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Un-named Raven (never given an official name)"
+  },
+  {
+    "Question": "Which Disney park’s Haunted Mansion includes the ghost of a mariner drowned at sea?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Magic Kingdom (Florida)"
+  },
+  {
+    "Question": "In Disneyland’s Mansion holiday overlay, which character takes over?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Jack Skellington (The Nightmare Before Christmas)"
+  },
+  {
+    "Question": "What is Constance Hatchaway’s signature weapon?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "A hatchet"
+  },
+  {
+    "Question": "Which Haunted Mansion version sits in Liberty Square?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Magic Kingdom (Walt Disney World)"
+  },
+  {
+    "Question": "What phrase does Madame Leota chant during the séance scene?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "“Serpents and spiders, tail of a rat… call in the spirits, wherever they’re at!”"
+  },
+  {
+    "Question": "Which Haunted Mansion has the storyline of the Ravenswood family curse?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Phantom Manor (Disneyland Paris)"
+  },
+  {
+    "Question": "What is the name of the singing bust voiced by Thurl Ravenscroft?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Uncle Theodore"
+  },
+
+  {
+    "Question": "What was Walt Disney’s first full-length animated film?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Snow White and the Seven Dwarfs"
+  },
+  {
+    "Question": "Walt Disney received a special Academy Award for Snow White. What was unique about it?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "One full-sized Oscar and seven miniature ones"
+  },
+  {
+    "Question": "What year was Walt Disney born?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "1901"
+  },
+  {
+    "Question": "What was Walt Disney’s favorite amusement park ride?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Carousels"
+  },
+  {
+    "Question": "Which character did Walt Disney say best represented himself?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Mickey Mouse"
+  },
+  {
+    "Question": "Where is Walt Disney buried?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Forest Lawn Memorial Park, Glendale, California"
+  },
+  {
+    "Question": "What short earned Disney his first Academy Award?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Flowers and Trees (1932)"
+  },
+  {
+    "Question": "What was the name of Walt Disney’s first successful character before Mickey?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Oswald the Lucky Rabbit"
+  },
+  {
+    "Question": "What nickname did Walt often use for his animators?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "The Nine Old Men"
+  },
+  {
+    "Question": "What was Walt Disney’s famous quote about Disneyland’s status?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "“Disneyland will never be completed. It will continue to grow as long as there is imagination left in the world.”"
+  },
+
+  {
+    "Question": "Which TV character often says, \"How you doin’?\"",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Joey Tribbiani (Friends)"
+  },
+  {
+    "Question": "Which animated TV character says, \"Eat my shorts!\"",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Bart Simpson"
+  },
+  {
+    "Question": "Which sitcom character famously asks, \"Did I do that?\"",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Steve Urkel (Family Matters)"
+  },
+  {
+    "Question": "Who says, \"Bazinga!\" on The Big Bang Theory?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Sheldon Cooper"
+  },
+  {
+    "Question": "Which TV family lives in Quahog, Rhode Island?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "The Griffins (Family Guy)"
+  },
+  {
+    "Question": "Which detective often says, \"Just one more thing...\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Columbo"
+  },
+  {
+    "Question": "Which catchphrase is associated with Homer Simpson?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "D’oh!"
+  },
+  {
+    "Question": "Which character says, \"You got it, dude!\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Michelle Tanner (Full House)"
+  },
+  {
+    "Question": "Which cartoon character shouts, \"By the power of Grayskull!\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "He-Man"
+  },
+  {
+    "Question": "Which TV comedy features Ron Swanson saying, \"I’m a simple man. I like pretty, dark-haired women and breakfast food.\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Parks and Recreation"
+  },
+
+  {
+    "Question": "Which Star Wars character says, \"Do or do not. There is no try.\"",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Yoda"
+  },
+  {
+    "Question": "Who shouts, \"This is Sparta!\" in 300?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "King Leonidas"
+  },
+  {
+    "Question": "Which Disney villain says, \"Magic mirror on the wall, who is the fairest one of all?\"",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "The Evil Queen (Snow White)"
+  },
+  {
+    "Question": "Which movie features the line, \"Life is like a box of chocolates\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Forrest Gump"
+  },
+  {
+    "Question": "Which wizard says, \"You shall not pass!\"",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Gandalf (The Lord of the Rings)"
+  },
+  {
+    "Question": "Which Disney film features the quote, \"Adventure is out there!\"",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Up"
+  },
+  {
+    "Question": "Which Pixar film has the line, \"Just keep swimming\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Finding Nemo"
+  },
+  {
+    "Question": "Which Marvel character says, \"With great power comes great responsibility\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Uncle Ben (Spider-Man)"
+  },
+  {
+    "Question": "Who says, \"You talking to me?\" in a famous mirror scene?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Travis Bickle (Taxi Driver)"
+  },
+  {
+    "Question": "Which animated film character says, \"To infinity and beyond!\"?",
+    "Category": "miscellaneous",
+    "MultipleChoice": false,
+    "Answer": "Buzz Lightyear"
+  }
+]
