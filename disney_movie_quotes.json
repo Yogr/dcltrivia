@@ -774,9 +774,9 @@
     "AnswerBonus": "Mickey reminds us that humor and self-acceptance go hand-in-hand.",
     "Choices": {
       "A": "Mickey Mouse",
-      "B": "Captain Mickey Mouse",
-      "C": "Captain Jack Sparrow",
-      "D": "Captain Minnie Mouse"
+      "B": "Pluto",
+      "C": "Timon",
+      "D": "Clarabelle"
     }
   },
   {
@@ -929,10 +929,10 @@
     "Answer": "C",
     "AnswerBonus": "The Captain of the Axiom decides humanity must return to Earth.",
     "Choices": {
-      "A": "Captain Mickey Mouse",
-      "B": "Captain Minnie Mouse",
-      "C": "Captain, WALL-E",
-      "D": "Captain Jack Sparrow"
+      "A": "EVE",
+      "B": "Carl Fredricksen",
+      "C": "WALL-E",
+      "D": "Jack Sparrow"
     }
   },
   {

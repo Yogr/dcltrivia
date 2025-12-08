@@ -508,8 +508,8 @@
     "AnswerBonus": "Captain Minnie Mouse was introduced in 2019. Minnie, donning a Captain’s uniform (with pants), now appears onboard to encourage girls to consider careers at sea.",
     "Choices": {
       "A": "Captain Minnie Mouse",
-      "B": "Captain Hook",
-      "C": "Captain Mickey Mouse",
+      "B": "Captain Daisie",
+      "C": "Captain Cinderella",
       "D": "Captain Jack Sparrow"
     }
   },
@@ -767,9 +767,9 @@
     "Answer": "A",
     "Choices": {
       "A": "Mickey Mouse",
-      "B": "Captain Jack Sparrow",
-      "C": "Captain Mickey Mouse",
-      "D": "Captain Minnie Mouse"
+      "B": "Jack Sparrow",
+      "C": "Goofy",
+      "D": "Minnie Mouse"
     }
   },
   {

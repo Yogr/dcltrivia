@@ -245,9 +245,9 @@
     "MultipleChoice": true,
     "Answer": "D",
     "Choices": {
-      "A": "Captain Jack Sparrow",
-      "B": "Captain Minnie Mouse",
-      "C": "Captain Mickey Mouse",
+      "A": "Goofy",
+      "B": "Minnie Mouse",
+      "C": "Donald Duck",
       "D": "Mickey Mouse"
     }
   },
@@ -546,9 +546,9 @@
     "Answer": "A",
     "Choices": {
       "A": "Minnie Mouse",
-      "B": "Captain Mickey Mouse",
-      "C": "Captain Minnie Mouse",
-      "D": "Captain Jack Sparrow"
+      "B": "Donald Duck",
+      "C": "Clarabelle Cow",
+      "D": "Daisy Duck"
     }
   },
   {
@@ -749,10 +749,10 @@
     "MultipleChoice": true,
     "Answer": "A",
     "Choices": {
-      "A": "Mickey Mouse (in Steamboat Willie, 1928)",
-      "B": "Captain Mickey Mouse",
-      "C": "Captain Minnie Mouse",
-      "D": "Captain Jack Sparrow"
+      "A": "Mickey Mouse",
+      "B": "Goofy",
+      "C": "Minnie Mouse",
+      "D": "Oswald the Lucky Rabbit"
     }
   },
   {
@@ -894,9 +894,9 @@
     "Answer": "A",
     "Choices": {
       "A": "Mickey Mouse",
-      "B": "Captain Mickey Mouse",
-      "C": "Captain Jack Sparrow",
-      "D": "Captain Minnie Mouse"
+      "B": "Oswald the Lucky Rabbit",
+      "C": "Mortimer Mouse",
+      "D": "Donald Duck"
     }
   },
   {
@@ -918,9 +918,9 @@
     "Answer": "A",
     "Choices": {
       "A": "Mickey Mouse",
-      "B": "Captain Mickey Mouse",
-      "C": "Captain Minnie Mouse",
-      "D": "Captain Jack Sparrow"
+      "B": "Oswald the Lucky Rabbit",
+      "C": "Minnie Mouse",
+      "D": "Donald Duck"
     }
   },
   {

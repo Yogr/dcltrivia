@@ -683,9 +683,9 @@
     "MultipleChoice": true,
     "Answer": "D",
     "Choices": {
-      "A": "Captain Minnie Mouse",
-      "B": "Captain Jack Sparrow",
-      "C": "Captain Mickey Mouse",
+      "A": "Spider Man: Homecoming",
+      "B": "The Avengers: Age of Ultron",
+      "C": "The Avengers: Infinity War",
       "D": "Captain America: Civil War"
     }
   },
@@ -875,10 +875,10 @@
     "MultipleChoice": true,
     "Answer": "C",
     "Choices": {
-      "A": "Captain Mickey Mouse",
-      "B": "Captain Jack Sparrow",
+      "A": "Donald Duck",
+      "B": "Goofy",
       "C": "Mickey Mouse",
-      "D": "Captain Minnie Mouse"
+      "D": "Minnie Mouse"
     }
   },
   {
@@ -942,18 +942,6 @@
     }
   },
   {
-    "Question": "Which TV character often says, \"How you doin’?\"",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "Joey Tribbiani (Friends)",
-      "B": "Chandler Bing (Friends)",
-      "C": "Ross Geller (Friends)",
-      "D": "Barney Stinson (HIMYM)"
-    }
-  },
-  {
     "Question": "Which animated TV character says, \"Eat my shorts!\"",
     "Category": "miscellaneous",
     "MultipleChoice": true,
@@ -963,42 +951,6 @@
       "B": "Homer Simpson",
       "C": "Eric Cartman",
       "D": "Peter Griffin"
-    }
-  },
-  {
-    "Question": "Which sitcom character famously asks, \"Did I do that?\"",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "Steve Urkel (Family Matters)",
-      "B": "Carlton Banks (Fresh Prince)",
-      "C": "Screech (Saved by the Bell)",
-      "D": "Balki (Perfect Strangers)"
-    }
-  },
-  {
-    "Question": "Who says, \"Bazinga!\" on The Big Bang Theory?",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "Sheldon Cooper",
-      "B": "Leonard Hofstadter",
-      "C": "Howard Wolowitz",
-      "D": "Raj Koothrappali"
-    }
-  },
-  {
-    "Question": "Which TV family lives in Quahog, Rhode Island?",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "The Griffins (Family Guy)",
-      "B": "The Simpsons",
-      "C": "The Belchers (Bob's Burgers)",
-      "D": "The Smiths (American Dad)"
     }
   },
   {
@@ -1014,54 +966,6 @@
     }
   },
   {
-    "Question": "Which catchphrase is associated with Homer Simpson?",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "D'oh!",
-      "B": "Woo-hoo!",
-      "C": "Ay caramba!",
-      "D": "Excellent!"
-    }
-  },
-  {
-    "Question": "Which character says, \"You got it, dude!\"?",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "Michelle Tanner (Full House)",
-      "B": "Stephanie Tanner (Full House)",
-      "C": "DJ Tanner (Full House)",
-      "D": "Uncle Jesse (Full House)"
-    }
-  },
-  {
-    "Question": "Which cartoon character shouts, \"By the power of Grayskull!\"?",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "He-Man",
-      "B": "She-Ra",
-      "C": "Skeletor",
-      "D": "Lion-O (Thundercats)"
-    }
-  },
-  {
-    "Question": "Which TV comedy features Ron Swanson saying, \"I’m a simple man. I like pretty, dark-haired women and breakfast food.\"?",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "Parks and Recreation",
-      "B": "The Office",
-      "C": "Brooklyn Nine-Nine",
-      "D": "30 Rock"
-    }
-  },
-  {
     "Question": "Which Star Wars character says, \"Do or do not. There is no try.\"",
     "Category": "miscellaneous",
     "MultipleChoice": true,
@@ -1074,18 +978,6 @@
     }
   },
   {
-    "Question": "Who shouts, \"This is Sparta!\" in 300?",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "King Leonidas",
-      "B": "Maximus (Gladiator)",
-      "C": "Achilles (Troy)",
-      "D": "Perseus (Clash of the Titans)"
-    }
-  },
-  {
     "Question": "Which Disney villain says, \"Magic mirror on the wall, who is the fairest one of all?\"",
     "Category": "miscellaneous",
     "MultipleChoice": true,
@@ -1095,30 +987,6 @@
       "B": "Maleficent (Sleeping Beauty)",
       "C": "Ursula (The Little Mermaid)",
       "D": "Mother Gothel (Tangled)"
-    }
-  },
-  {
-    "Question": "Which movie features the line, \"Life is like a box of chocolates\"?",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "Forrest Gump",
-      "B": "The Shawshank Redemption",
-      "C": "Cast Away",
-      "D": "Philadelphia"
-    }
-  },
-  {
-    "Question": "Which wizard says, \"You shall not pass!\"",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "Gandalf (The Lord of the Rings)",
-      "B": "Dumbledore (Harry Potter)",
-      "C": "Merlin (various adaptations)",
-      "D": "Doctor Strange (Marvel)"
     }
   },
   {
@@ -1155,18 +1023,6 @@
       "B": "Tony Stark (Iron Man)",
       "C": "Peter Parker (Spider-Man)",
       "D": "Aunt May (Spider-Man)"
-    }
-  },
-  {
-    "Question": "Who says, \"You talking to me?\" in a famous mirror scene?",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "Travis Bickle (Taxi Driver)",
-      "B": "Tony Montana (Scarface)",
-      "C": "Jake LaMotta (Raging Bull)",
-      "D": "Vito Corleone (The Godfather)"
     }
   },
   {
