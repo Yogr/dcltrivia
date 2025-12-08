@@ -100,10 +100,22 @@ function showPlayerInputs(count) {
             const btn = document.createElement('button');
             btn.type = 'button';
             btn.className = 'piece-btn';
-            btn.textContent = piece.icon;
             btn.dataset.pieceId = piece.id;
             btn.dataset.playerIndex = i;
             btn.addEventListener('click', () => selectPiece(i, piece));
+            
+            if (piece.isImage) {
+                const img = document.createElement('img');
+                img.src = piece.icon;
+                img.alt = piece.id;
+                img.style.width = '100%';
+                img.style.height = '100%';
+                img.style.objectFit = 'contain';
+                btn.appendChild(img);
+            } else {
+                btn.textContent = piece.icon;
+            }
+            
             pieceSelector.appendChild(btn);
         });
         

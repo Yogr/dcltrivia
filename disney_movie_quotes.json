@@ -247,20 +247,20 @@
     }
   },
   {
-    "Question": "\"Remember me, though I have to say goodbye.\" Which film features this line?",
+    "Question": "\"Remember me, though I have to say goodbye.\" Who delivers this line in Coco?",
     "Category": "disney_movie_quotes",
     "MultipleChoice": true,
     "Answer": "A",
     "AnswerBonus": "Héctor’s lullaby becomes the emotional heart of *Coco*.",
     "Choices": {
-      "A": "Coco (sung by Héctor)",
-      "B": "Miguel, Coco",
-      "C": "Ernesto de la Cruz, Coco",
-      "D": "Mama Coco, Coco"
+      "A": "Coco",
+      "B": "Miguel",
+      "C": "Ernesto de la Cruz",
+      "D": "Mama Coco"
     }
   },
   {
-    "Question": "\"My name is Inigo Montoya. You killed my father. Prepare to die.\" Which character says this?",
+    "Question": "\"My name is ____________. You killed my father. Prepare to die.\" Which character says this?",
     "Category": "disney_movie_quotes",
     "MultipleChoice": true,
     "Choices": {

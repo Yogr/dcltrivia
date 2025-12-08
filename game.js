@@ -59,27 +59,27 @@ async function handlePlayerMove(spaces) {
         updateCurrentPlayerDisplay();
     }
     
-    // Check if game is over
+    // Ask question if not at start (always ask, even on milestones and at finish)
+    if (newPosition > 0) {
+        const tile = getTileAtPosition(newPosition);
+        if (tile) {
+            // Add delay so players can see where they landed
+            await new Promise(resolve => setTimeout(resolve, 1000));
+            await askQuestion(tile.category);
+        } else {
+            // No tile at this position, just end turn
+            endTurn();
+        }
+    } else {
+        endTurn();
+    }
+    
+    // Check if game is over AFTER the question
     if (allPlayersFinished()) {
         setTimeout(() => {
             showResultsScreen();
         }, 2000);
         return;
-    }
-    
-    // Ask question if not at start and not finished and not on milestone
-    if (newPosition > 0 && !player.hasFinished) {
-        const tile = getTileAtPosition(newPosition);
-        if (tile && !tile.isMilestone) {
-            // Add delay so players can see where they landed
-            await new Promise(resolve => setTimeout(resolve, 1000));
-            await askQuestion(tile.category);
-        } else {
-            // On milestone, no question - just end turn
-            endTurn();
-        }
-    } else {
-        endTurn();
     }
 }
 

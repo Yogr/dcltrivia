@@ -5,7 +5,20 @@
 function updateCurrentPlayerDisplay() {
     const player = getCurrentPlayer();
     
-    document.getElementById('currentPlayerPiece').textContent = player.piece.icon;
+    const pieceElement = document.getElementById('currentPlayerPiece');
+    pieceElement.innerHTML = '';
+    if (player.piece.isImage) {
+        const img = document.createElement('img');
+        img.src = player.piece.icon;
+        img.alt = player.piece.id;
+        img.style.width = '100%';
+        img.style.height = '100%';
+        img.style.objectFit = 'contain';
+        pieceElement.appendChild(img);
+    } else {
+        pieceElement.textContent = player.piece.icon;
+    }
+    
     document.getElementById('currentPlayerName').textContent = player.name;
     document.getElementById('currentPlayerMoney').textContent = `$${player.money}`;
     
@@ -87,6 +100,7 @@ function showQuestionModal(category, question) {
             btn.className = 'answer-btn';
             btn.textContent = option.text;
             btn.dataset.value = option.value;
+            btn.dataset.iscorrect = option.isCorrect || false;
             btn.onclick = () => handleAnswerClick(question, option.value, category);
             btn.style.width = '100%';
             btn.style.display = 'block';
@@ -216,7 +230,7 @@ function handleAnswerClick(question, selectedValue, category) {
             btn.classList.add(isCorrect ? 'correct' : 'incorrect');
         }
         // Highlight correct answer if wrong was selected
-        if (!isCorrect && checkAnswer(question, btn.dataset.value)) {
+        if (!isCorrect && btn.dataset.iscorrect === 'true') {
             btn.classList.add('correct');
         }
     });
@@ -393,7 +407,23 @@ function showResultsScreen() {
         
         const pieceIcon = document.createElement('div');
         pieceIcon.style.fontSize = '2rem';
-        pieceIcon.textContent = player.piece.icon;
+        pieceIcon.style.width = '50px';
+        pieceIcon.style.height = '50px';
+        pieceIcon.style.display = 'flex';
+        pieceIcon.style.alignItems = 'center';
+        pieceIcon.style.justifyContent = 'center';
+        
+        if (player.piece.isImage) {
+            const img = document.createElement('img');
+            img.src = player.piece.icon;
+            img.alt = player.piece.id;
+            img.style.width = '100%';
+            img.style.height = '100%';
+            img.style.objectFit = 'contain';
+            pieceIcon.appendChild(img);
+        } else {
+            pieceIcon.textContent = player.piece.icon;
+        }
         
         const info = document.createElement('div');
         info.className = 'player-result-info';

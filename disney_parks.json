@@ -84,10 +84,10 @@
     "Answer": "C",
     "AnswerBonus": "Shows like \"Happily Ever After\" and \"Enchantment\" use the castle as a projection canvas.",
     "Choices": {
-      "A": "Disney Wonder",
-      "B": "Disney Dream",
-      "C": "Magic Kingdom (Walt Disney World)",
-      "D": "Disney Magic"
+      "A": "Hollywood Studios",
+      "B": "EPCOT",
+      "C": "Magic Kingdom",
+      "D": "Disneyland Paris"
     }
   },
   {
@@ -130,16 +130,16 @@
     "AnswerBonus": "Frontierland was part of the original Disneyland layout; Tomorrowland was added later in 1955 expansions."
   },
   {
-    "Question": "What was the first attraction of the Disney World park to welcome guests (i.e. first to open)?",
+    "Question": "What was the first attraction of the Disney World parks to welcome guests (i.e. first to open)?",
     "Category": "disney_parks",
     "MultipleChoice": true,
     "Answer": "C",
     "AnswerBonus": "The railroad and Main Street vehicles were operational on opening day, October 1, 1971.",
     "Choices": {
-      "A": "Disney Wonder",
-      "B": "Disney Dream",
-      "C": "Walt Disney World Railroad / Main Street Vehicles",
-      "D": "Disney Magic"
+      "A": "Mr Toad's Wild Ride",
+      "B": "Peter Pan's Flight",
+      "C": "Walt Disney World Railroad",
+      "D": "Jungle Cruise"
     }
   },
   {
@@ -214,7 +214,7 @@
     "Answer": "A",
     "AnswerBonus": "No World Showcase pavilion features Guy Fieri's menu — this is sometimes joked about on social media. (If you want a serious question, I can swap it.)",
     "Choices": {
-      "A": "Space 220 (not a pavilion) — trick question",
+      "A": "Space 220",
       "B": "American Pavilion",
       "C": "Canada Pavilion",
       "D": "Morocco Pavilion"
@@ -240,23 +240,10 @@
     "Answer": "A",
     "AnswerBonus": "The working term “Project Wild” was used during its early planning phases (common trivia lore).",
     "Choices": {
-      "A": "The Disney’s Wild Kingdom (or Project Wild)",
-      "B": "Disney Magic",
-      "C": "Disney Wonder",
-      "D": "Disney Dream"
-    }
-  },
-  {
-    "Question": "Which Disneyland attraction served as the inspiration for the design of the Disneyland Paris version of Space Mountain?",
-    "Category": "disney_parks",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "AnswerBonus": "Paris’ version adopted a more spiral-ready shell design influenced by its predecessors.",
-    "Choices": {
-      "A": "The original Disneyland’s Space Mountain (Tomorrowland)",
-      "B": "Disney Magic",
-      "C": "Disney Wonder",
-      "D": "Disney Dream"
+      "A": "Disney’s Wild Kingdom",
+      "B": "Disney’s Jungle Adventure",
+      "C": "Disney's Animal Adventure",
+      "D": "Disney's Safari Park"
     }
   },
   {
@@ -292,36 +279,10 @@
     "Answer": "A",
     "AnswerBonus": "Harmonious was one of the major nighttime spectaculars tied to EPCOT's 35th anniversary.",
     "Choices": {
-      "A": "Harmonious (or its current replacement depending on timeline)",
+      "A": "Harmonious",
       "B": "IllumiNations: Reflections of Earth",
       "C": "Epcot Forever",
       "D": "Spectacle of Magic"
-    }
-  },
-  {
-    "Question": "What is the name of the signature nighttime show at Epcot that features fireworks, fountains, and projection effects?",
-    "Category": "disney_parks",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "AnswerBonus": "Harmonious was one of the major nighttime spectaculars tied to EPCOT’s 35th anniversary.",
-    "Choices": {
-      "A": "Harmonious (or its current replacement depending on timeline)",
-      "B": "Alternative Option",
-      "C": "Another Option",
-      "D": "Different Option"
-    }
-  },
-  {
-    "Question": "Which Disneyland ride was one of Walt Disney’s first ideas after witnessing his daughters ride a merry-go-round at Griffith Park?",
-    "Category": "disney_parks",
-    "MultipleChoice": true,
-    "Answer": "D",
-    "AnswerBonus": "This led to the concept of Disneyland as a park where kids and adults could enjoy together. ",
-    "Choices": {
-      "A": "Disney Wonder",
-      "B": "Disney Dream",
-      "C": "Disney Magic",
-      "D": "Disneyland (the park) / the idea of a family park (not a particular ride)"
     }
   },
   {
@@ -364,19 +325,6 @@
     }
   },
   {
-    "Question": "Which Disneyland ride’s façade is designed to look like a fairytale castle but is only 77 feet tall?",
-    "Category": "disney_parks",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "AnswerBonus": "Forced perspective and color shading make it appear larger. ",
-    "Choices": {
-      "A": "Sleeping Beauty Castle",
-      "B": "Cinderella Castle",
-      "C": "Enchanted Castle",
-      "D": "Royal Palace"
-    }
-  },
-  {
     "Question": "When was the first daily operating Disneyland monorail inaugurated?",
     "Category": "disney_parks",
     "MultipleChoice": true,
@@ -396,7 +344,7 @@
     "Answer": "A",
     "AnswerBonus": "The Florida version uses a visual trick rather than a moving elevator. ",
     "Choices": {
-      "A": "Haunted Mansion (Magic Kingdom, Florida)",
+      "A": "Haunted Mansion",
       "B": "Tower of Terror",
       "C": "Phantom Manor",
       "D": "Mystic Manor"
@@ -407,7 +355,7 @@
     "Category": "disney_parks",
     "MultipleChoice": true,
     "Choices": {
-      "A": "Disneyland (California)",
+      "A": "Disneyland",
       "B": "Magic Kingdom",
       "C": "Tokyo Disneyland",
       "D": "Disneyland Paris"
@@ -422,23 +370,10 @@
     "Answer": "D",
     "AnswerBonus": "Rivers of Light was later replaced by new nighttime offerings, but it was a signature show on that river. ",
     "Choices": {
-      "A": "Disney Dream",
-      "B": "Disney Wonder",
-      "C": "Disney Magic",
+      "A": "Magic Kingdom",
+      "B": "Hong Kong Disneyland",
+      "C": "Hollywood Studios",
       "D": "Disney’s Animal Kingdom"
-    }
-  },
-  {
-    "Question": "Which Disneyland ride’s stretching room is just an illusion (no moving floors) unlike the real elevator in California’s Haunted Mansion?",
-    "Category": "disney_parks",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "AnswerBonus": "The Florida version uses a visual trick rather than a moving elevator. ",
-    "Choices": {
-      "A": "Haunted Mansion (Magic Kingdom, Florida)",
-      "B": "Tower of Terror",
-      "C": "Phantom Manor",
-      "D": "Mystic Manor"
     }
   },
   {
@@ -459,10 +394,10 @@
     "MultipleChoice": true,
     "Answer": "A",
     "Choices": {
-      "A": "Disney’s Animal Kingdom (Walt Disney World)",
-      "B": "Disney Magic",
-      "C": "Disney Wonder",
-      "D": "Disney Dream"
+      "A": "Disney’s Animal Kingdom",
+      "B": "Magic Kingdom",
+      "C": "EPCOT",
+      "D": "Disneyland"
     }
   },
   {
@@ -479,18 +414,6 @@
   },
   {
     "Question": "What is the official name of the exclusive members-only club located in Disneyland's New Orleans Square?",
-    "Category": "disney_parks",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "Club 33",
-      "B": "The Royal Circle",
-      "C": "Walt's Club",
-      "D": "The Diamond Lounge"
-    }
-  },
-  {
-    "Question": "What is the official name of the exclusive members-only club located in Disneyland’s New Orleans Square?",
     "Category": "disney_parks",
     "MultipleChoice": true,
     "Answer": "A",
@@ -531,10 +454,10 @@
     "MultipleChoice": true,
     "Answer": "B",
     "Choices": {
-      "A": "Disney Magic",
-      "B": "Disney’s Hollywood Studios (then MGM Studios)",
-      "C": "Disney Dream",
-      "D": "Disney Wonder"
+      "A": "Disneyland",
+      "B": "Hollywood Studios",
+      "C": "Disneyland Paris",
+      "D": "Tokyo DisneySea"
     }
   },
   {
@@ -543,10 +466,10 @@
     "MultipleChoice": true,
     "Answer": "D",
     "Choices": {
-      "A": "Disney Dream",
-      "B": "Disney Wonder",
-      "C": "Disney Magic",
-      "D": "Disneyland (California)"
+      "A": "Magic Kingdom",
+      "B": "Tokyo Disneyland",
+      "C": "Disneyland Paris",
+      "D": "Disneyland"
     }
   },
   {
@@ -567,10 +490,10 @@
     "MultipleChoice": true,
     "Answer": "D",
     "Choices": {
-      "A": "Disney Wonder",
-      "B": "Disney Magic",
-      "C": "Disney Dream",
-      "D": "Shanghai Disneyland (Enchanted Storybook Castle)"
+      "A": "Disneyland",
+      "B": "Magic Kingdom",
+      "C": "Hong Kong Disneyland",
+      "D": "Shanghai Disneyland"
     }
   },
   {
@@ -651,10 +574,10 @@
     "MultipleChoice": true,
     "Answer": "C",
     "Choices": {
-      "A": "Disney Dream",
-      "B": "Disney Magic",
+      "A": "Disneyland",
+      "B": "Disneyland Paris",
       "C": "Hong Kong Disneyland",
-      "D": "Disney Wonder"
+      "D": "Disneyland Tokyo"
     }
   },
   {
@@ -664,9 +587,9 @@
     "Answer": "A",
     "Choices": {
       "A": "Disneyland Paris",
-      "B": "Disney Magic",
-      "C": "Disney Dream",
-      "D": "Disney Wonder"
+      "B": "Disneyland",
+      "C": "Magic Kingdom",
+      "D": "Hong Kong Disneyland"
     }
   },
   {
@@ -723,9 +646,9 @@
     "MultipleChoice": true,
     "Answer": "D",
     "Choices": {
-      "A": "Disney Wonder",
-      "B": "Disney Dream",
-      "C": "Disney Magic",
+      "A": "Disney-Pixar Studios",
+      "B": "Disney Studios",
+      "C": "Disney Animation Studios",
       "D": "Disney-MGM Studios"
     }
   },
@@ -736,9 +659,9 @@
     "Answer": "A",
     "Choices": {
       "A": "Tokyo DisneySea",
-      "B": "Disney Magic",
-      "C": "Disney Wonder",
-      "D": "Disney Dream"
+      "B": "EPCOT",
+      "C": "Disneyland Paris",
+      "D": "Disneyland"
     }
   },
   {
@@ -759,10 +682,10 @@
     "MultipleChoice": true,
     "Answer": "B",
     "Choices": {
-      "A": "Disney Dream",
+      "A": "Disneyland",
       "B": "Tokyo DisneySea",
-      "C": "Disney Magic",
-      "D": "Disney Wonder"
+      "C": "Magic Kingdom",
+      "D": "Hollywood Studios"
     }
   },
   {
@@ -771,10 +694,10 @@
     "MultipleChoice": true,
     "Answer": "B",
     "Choices": {
-      "A": "Disney Magic",
+      "A": "Hong Kong Disneyland",
       "B": "Tokyo Disneyland",
-      "C": "Disney Wonder",
-      "D": "Disney Dream"
+      "C": "Disneyland Paris",
+      "D": "Magic Kingdom"
     }
   },
   {
@@ -795,7 +718,7 @@
     "MultipleChoice": true,
     "Answer": "A",
     "Choices": {
-      "A": "Space Mountain: De la Terre à la Lune (original version)",
+      "A": "Space Mountain",
       "B": "Big Thunder Mountain",
       "C": "Phantom Manor",
       "D": "Indiana Jones and the Temple of Peril"
@@ -843,10 +766,10 @@
     "MultipleChoice": true,
     "Answer": "B",
     "Choices": {
-      "A": "Disney Magic",
+      "A": "Magic Kingdom",
       "B": "Disney’s Animal Kingdom",
-      "C": "Disney Wonder",
-      "D": "Disney Dream"
+      "C": "Hollywood Studios",
+      "D": "Hong Kong Disneyland"
     }
   },
   {
@@ -892,21 +815,9 @@
     "Answer": "A",
     "Choices": {
       "A": "Walt Disney World Monorail",
-      "B": "Disney Magic",
-      "C": "Disney Wonder",
-      "D": "Disney Dream"
-    }
-  },
-  {
-    "Question": "Which Disney park has the exclusive ride Mystic Manor instead of Haunted Mansion?",
-    "Category": "disney_parks",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "Hong Kong Disneyland",
-      "B": "Disney Magic",
-      "C": "Disney Wonder",
-      "D": "Disney Dream"
+      "B": "The People Mover",
+      "C": "Big Thunder Mountain",
+      "D": "Seven-Dwarfs Mine Train"
     }
   },
   {
@@ -915,10 +826,10 @@
     "MultipleChoice": true,
     "Answer": "B",
     "Choices": {
-      "A": "Disney Magic",
+      "A": "Shanghai Disneyland",
       "B": "Hong Kong Disneyland",
-      "C": "Disney Dream",
-      "D": "Disney Wonder"
+      "C": "Tokyo Disneyland",
+      "D": "Beijing Disneyland"
     }
   },
   {
@@ -939,10 +850,10 @@
     "MultipleChoice": true,
     "Answer": "C",
     "Choices": {
-      "A": "Disney Magic",
-      "B": "Disney Dream",
+      "A": "Magic Kingdom",
+      "B": "Disneyland Paris",
       "C": "Disney California Adventure",
-      "D": "Disney Wonder"
+      "D": "Disneyland"
     }
   },
   {
@@ -987,7 +898,7 @@
     "MultipleChoice": true,
     "Answer": "A",
     "Choices": {
-      "A": "DinoLand U.S.A. attractions (like Dinosaur)",
+      "A": "Dinosaur",
       "B": "Expedition Everest",
       "C": "Kilimanjaro Safaris",
       "D": "Kali River Rapids"
@@ -1011,10 +922,10 @@
     "MultipleChoice": true,
     "Answer": "C",
     "Choices": {
-      "A": "Disney Magic",
-      "B": "Disney Dream",
-      "C": "Magic Kingdom (Walt Disney World)",
-      "D": "Disney Wonder"
+      "A": "Disneyland Paris",
+      "B": "Disneyland",
+      "C": "Magic Kingdom",
+      "D": "EPCOT"
     }
   },
   {

@@ -67,10 +67,10 @@ const CATEGORIES = {
 };
 
 const PLAYER_PIECES = [
-    { id: "star", icon: "⭐", color: "#FFD700" },
-    { id: "shell", icon: "🐚", color: "#FFB6C1" },
-    { id: "gem", icon: "💎", color: "#87CEEB" },
-    { id: "compass", icon: "🧭", color: "#98D8C8" }
+    { id: "gauntlet", icon: "icons/gauntlet.png", color: "#FFD700", isImage: true },
+    { id: "rose", icon: "icons/rose.png", color: "#FFB6C1", isImage: true },
+    { id: "slipper", icon: "icons/slipper.png", color: "#87CEEB", isImage: true },
+    { id: "ship", icon: "icons/ship.png", color: "#98D8C8", isImage: true }
 ];
 
 const MILESTONE_ICONS = ["🏠", "🏝️", "🗼", "🚢"];

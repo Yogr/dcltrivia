@@ -117,9 +117,9 @@ body {
    =================================== */
 .setup-container {
     background: rgba(255, 255, 255, 0.95);
-    border-radius: 24px;
-    padding: 40px;
-    max-width: 800px;
+    border-radius: 16px;
+    padding: 20px;
+    max-width: 700px;
     width: 100%;
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
     color: #1a1a2e;
@@ -127,59 +127,59 @@ body {
 
 .game-title {
     font-family: 'Baloo 2', cursive;
-    font-size: 3rem;
+    font-size: 2rem;
     text-align: center;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     font-weight: 800;
 }
 
 .game-subtitle {
     text-align: center;
-    font-size: 1.2rem;
+    font-size: 0.95rem;
     color: #666;
-    margin-bottom: 40px;
+    margin-bottom: 18px;
 }
 
 .setup-section {
-    margin-bottom: 30px;
+    margin-bottom: 15px;
 }
 
 .setup-section h2 {
     font-family: 'Baloo 2', cursive;
-    font-size: 1.8rem;
+    font-size: 1.3rem;
     color: #16213e;
-    margin-bottom: 15px;
+    margin-bottom: 10px;
 }
 
 /* Mode Selection */
 .mode-buttons {
     display: flex;
-    gap: 20px;
+    gap: 12px;
     flex-wrap: wrap;
 }
 
 .mode-btn {
     flex: 1;
-    min-width: 200px;
-    padding: 25px;
-    border: 3px solid #e0e0e0;
-    border-radius: 16px;
+    min-width: 180px;
+    padding: 18px;
+    border: 2px solid #e0e0e0;
+    border-radius: 12px;
     background: white;
     cursor: pointer;
     transition: all 0.3s ease;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 10px;
+    gap: 8px;
 }
 
 .mode-btn:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
     border-color: #667eea;
 }
 
@@ -190,34 +190,34 @@ body {
 }
 
 .mode-icon {
-    font-size: 3rem;
+    font-size: 2.5rem;
 }
 
 .mode-name {
     font-family: 'Baloo 2', cursive;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 700;
 }
 
 .mode-desc {
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     opacity: 0.8;
 }
 
 /* Player Count */
 .player-count-buttons {
     display: flex;
-    gap: 15px;
+    gap: 12px;
     justify-content: center;
 }
 
 .player-count-btn {
-    width: 80px;
-    height: 80px;
-    border: 3px solid #e0e0e0;
+    width: 65px;
+    height: 65px;
+    border: 2px solid #e0e0e0;
     border-radius: 50%;
     background: white;
-    font-size: 2rem;
+    font-size: 1.6rem;
     font-weight: 700;
     cursor: pointer;
     transition: all 0.3s ease;
@@ -238,17 +238,17 @@ body {
 /* Player Setup */
 .player-input-row {
     display: flex;
-    gap: 15px;
-    margin-bottom: 15px;
+    gap: 10px;
+    margin-bottom: 10px;
     align-items: center;
 }
 
 .player-input-row input {
     flex: 1;
-    padding: 12px 20px;
+    padding: 10px 15px;
     border: 2px solid #e0e0e0;
-    border-radius: 12px;
-    font-size: 1.1rem;
+    border-radius: 10px;
+    font-size: 1rem;
     font-family: 'Nunito', sans-serif;
 }
 
@@ -259,18 +259,19 @@ body {
 
 .piece-selector {
     display: flex;
-    gap: 10px;
+    gap: 8px;
 }
 
 .piece-btn {
-    width: 50px;
-    height: 50px;
+    width: 45px;
+    height: 45px;
     border: 2px solid #e0e0e0;
-    border-radius: 12px;
+    border-radius: 10px;
     background: white;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     cursor: pointer;
     transition: all 0.3s ease;
+    padding: 4px;
 }
 
 .piece-btn:hover {
@@ -292,17 +293,17 @@ body {
 /* Start Button */
 .start-btn {
     width: 100%;
-    padding: 20px;
+    padding: 15px;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
     border: none;
-    border-radius: 16px;
-    font-size: 1.5rem;
+    border-radius: 12px;
+    font-size: 1.3rem;
     font-family: 'Baloo 2', cursive;
     font-weight: 700;
     cursor: pointer;
     transition: all 0.3s ease;
-    margin-top: 30px;
+    margin-top: 20px;
 }
 
 .start-btn:hover {
@@ -313,7 +314,7 @@ body {
 .error-message {
     color: #e74c3c;
     text-align: center;
-    margin-top: 15px;
+    margin-top: 10px;
     font-weight: 600;
 }
 
@@ -334,23 +335,23 @@ body {
     justify-content: space-between;
     align-items: center;
     background: rgba(255, 255, 255, 0.95);
-    border-radius: 20px;
-    padding: 20px 30px;
-    margin-bottom: 20px;
+    border-radius: 16px;
+    padding: 12px 20px;
+    margin-bottom: 12px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
     flex-wrap: wrap;
-    gap: 20px;
+    gap: 12px;
 }
 
 .current-player-display {
     display: flex;
     align-items: center;
-    gap: 15px;
+    gap: 10px;
 }
 
 .player-avatar {
-    width: 70px;
-    height: 70px;
+    width: 55px;
+    height: 55px;
     border-radius: 50%;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     display: flex;
@@ -360,7 +361,7 @@ body {
 }
 
 .player-piece-icon {
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 .player-info {
@@ -369,12 +370,12 @@ body {
 
 .player-name {
     font-family: 'Baloo 2', cursive;
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     font-weight: 700;
 }
 
 .player-money {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: #FFD700;
     font-weight: 700;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
@@ -382,7 +383,7 @@ body {
 
 .gems-display {
     display: flex;
-    gap: 15px;
+    gap: 10px;
     flex-wrap: wrap;
 }
 
@@ -390,17 +391,17 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 5px;
+    gap: 3px;
 }
 
 .gem-icon {
-    width: 40px;
-    height: 40px;
-    border-radius: 8px;
+    width: 32px;
+    height: 32px;
+    border-radius: 6px;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.2);
     position: relative;
 }
@@ -528,35 +529,35 @@ body {
    =================================== */
 .bottom-panel {
     background: rgba(255, 255, 255, 0.95);
-    border-radius: 20px;
-    padding: 20px 30px;
+    border-radius: 16px;
+    padding: 12px 20px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 15px;
+    gap: 10px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
 }
 
 .game-status {
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     color: #16213e;
     font-weight: 600;
     text-align: center;
 }
 
 .dice-btn {
-    padding: 20px 50px;
+    padding: 14px 35px;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
     border: none;
-    border-radius: 16px;
-    font-size: 1.5rem;
+    border-radius: 12px;
+    font-size: 1.2rem;
     font-weight: 700;
     cursor: pointer;
     transition: all 0.3s ease;
     display: flex;
     align-items: center;
-    gap: 15px;
+    gap: 10px;
 }
 
 .dice-btn:hover {
@@ -612,8 +613,8 @@ body {
 
 .modal-content {
     background: white;
-    border-radius: 24px;
-    padding: 40px;
+    border-radius: 20px;
+    padding: 25px;
     max-width: 700px;
     width: 90%;
     max-height: 90vh;
@@ -636,20 +637,20 @@ body {
 /* Question Modal */
 .question-category {
     font-family: 'Baloo 2', cursive;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     font-weight: 700;
-    padding: 15px 25px;
-    border-radius: 12px;
+    padding: 10px 20px;
+    border-radius: 10px;
     text-align: center;
-    margin-bottom: 25px;
+    margin-bottom: 15px;
     color: white;
 }
 
 .question-text {
-    font-size: 1.4rem;
+    font-size: 1.2rem;
     color: #16213e;
-    margin-bottom: 30px;
-    line-height: 1.6;
+    margin-bottom: 20px;
+    line-height: 1.5;
     text-align: center;
 }
 
@@ -657,16 +658,16 @@ body {
     display: flex;
     flex-direction: column;
     flex-wrap: nowrap;
-    gap: 15px;
+    gap: 10px;
     width: 100%;
 }
 
 .answer-btn {
-    padding: 20px;
-    border: 3px solid #e0e0e0;
-    border-radius: 12px;
+    padding: 14px;
+    border: 2px solid #e0e0e0;
+    border-radius: 10px;
     background: white;
-    font-size: 1.2rem;
+    font-size: 1.05rem;
     cursor: pointer;
     transition: all 0.3s ease;
     text-align: left;
@@ -674,7 +675,7 @@ body {
     font-weight: 600;
     width: 100% !important;
     display: block !important;
-    margin-bottom: 15px !important;
+    margin-bottom: 10px !important;
 }
 
 .answer-btn:hover:not(:disabled) {
@@ -917,9 +918,9 @@ body {
    =================================== */
 .results-container {
     background: rgba(255, 255, 255, 0.95);
-    border-radius: 24px;
-    padding: 50px;
-    max-width: 900px;
+    border-radius: 20px;
+    padding: 30px;
+    max-width: 700px;
     width: 100%;
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.4);
     color: #1a1a2e;
@@ -927,45 +928,45 @@ body {
 
 .results-title {
     font-family: 'Baloo 2', cursive;
-    font-size: 3rem;
+    font-size: 2.2rem;
     text-align: center;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 .results-ship {
-    font-size: 5rem;
+    font-size: 3.5rem;
     text-align: center;
     animation: float 3s ease-in-out infinite;
 }
 
 @keyframes float {
     0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-20px); }
+    50% { transform: translateY(-15px); }
 }
 
 .results-subtitle {
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     color: #666;
-    margin-bottom: 40px;
+    margin-bottom: 25px;
 }
 
 .leaderboard {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .leaderboard-item {
     display: flex;
     align-items: center;
-    gap: 20px;
-    padding: 20px;
+    gap: 12px;
+    padding: 12px 15px;
     background: white;
-    border-radius: 12px;
-    margin-bottom: 15px;
+    border-radius: 10px;
+    margin-bottom: 10px;
     box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -976,15 +977,15 @@ body {
 }
 
 .rank {
-    font-size: 2rem;
+    font-size: 1.6rem;
     font-weight: 700;
     color: #16213e;
-    min-width: 60px;
+    min-width: 50px;
     text-align: center;
 }
 
 .rank-icon {
-    font-size: 2.5rem;
+    font-size: 2rem;
 }
 
 .player-result-info {
@@ -992,38 +993,38 @@ body {
 }
 
 .player-result-name {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 700;
-    margin-bottom: 5px;
+    margin-bottom: 3px;
 }
 
 .player-result-money {
-    font-size: 1.8rem;
+    font-size: 1.4rem;
     color: #16213e;
     font-weight: 700;
 }
 
 .player-result-gems {
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     color: #666;
-    margin-top: 5px;
+    margin-top: 3px;
 }
 
 .results-buttons {
     display: flex;
-    gap: 15px;
+    gap: 10px;
     flex-wrap: wrap;
 }
 
 .results-btn {
     flex: 1;
-    min-width: 200px;
-    padding: 18px;
+    min-width: 180px;
+    padding: 12px;
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
     border: none;
-    border-radius: 12px;
-    font-size: 1.2rem;
+    border-radius: 10px;
+    font-size: 1.05rem;
     font-weight: 700;
     cursor: pointer;
     transition: all 0.3s ease;

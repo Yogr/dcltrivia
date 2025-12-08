@@ -133,7 +133,18 @@ function renderPlayerPiece(player) {
     const pieceElement = document.createElement('div');
     pieceElement.className = 'player-piece';
     pieceElement.id = `player-piece-${player.id}`;
-    pieceElement.textContent = player.piece.icon;
+    
+    if (player.piece.isImage) {
+        const img = document.createElement('img');
+        img.src = player.piece.icon;
+        img.alt = player.piece.id;
+        img.style.width = '100%';
+        img.style.height = '100%';
+        img.style.objectFit = 'contain';
+        pieceElement.appendChild(img);
+    } else {
+        pieceElement.textContent = player.piece.icon;
+    }
     
     // Position at current tile
     const tile = gameState.boardTiles[player.position];

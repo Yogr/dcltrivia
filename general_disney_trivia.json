@@ -252,12 +252,12 @@
     }
   },
   {
-    "Question": "Which Disney animated classic was the first to be released in full Technicolor?",
+    "Question": "Which Disney animated film was the first to be released in full Technicolor?",
     "Category": "general_disney_trivia",
     "MultipleChoice": true,
     "Answer": "A",
     "Choices": {
-      "A": "Flowers and Trees (1932 short)",
+      "A": "Flowers and Trees",
       "B": "Snow White and the Seven Dwarfs",
       "C": "The Three Little Pigs",
       "D": "Steamboat Willie"
@@ -989,10 +989,10 @@
     "MultipleChoice": true,
     "Answer": "D",
     "Choices": {
-      "A": "Disney Dream",
-      "B": "Disney Wonder",
-      "C": "Disney Magic",
-      "D": "Disneyland (1954)"
+      "A": "The Walt Hour",
+      "B": "Disney World",
+      "C": "The Mickey Mouse Club",
+      "D": "Disneyland"
     }
   },
   {

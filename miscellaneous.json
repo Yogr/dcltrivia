@@ -150,9 +150,9 @@
     "Category": "miscellaneous",
     "MultipleChoice": true,
     "Choices": {
-      "A": "Magic Kingdom (Florida)",
+      "A": "Magic Kingdom",
       "B": "Tokyo Disneyland",
-      "C": "Disneyland (California)",
+      "C": "Disneyland",
       "D": "Hong Kong Disneyland"
     },
     "Answer": "C"
@@ -164,7 +164,7 @@
     "Answer": "A",
     "AnswerBonus": "They’re a barbershop-style quintet performing \"Grim Grinning Ghosts.\"",
     "Choices": {
-      "A": "Singing busts (a cappella/chorus)",
+      "A": "Singing busts",
       "B": "None - they're silent statues",
       "C": "Pipe organ",
       "D": "Harpsichord"
@@ -309,7 +309,7 @@
     "Answer": "A",
     "AnswerBonus": "He earned 22 competitive Oscars and 4 honorary.",
     "Choices": {
-      "A": "Academy Awards (Oscars)",
+      "A": "Academy Awards",
       "B": "Grammy Awards",
       "C": "Emmy Awards",
       "D": "Golden Globes"
@@ -441,36 +441,12 @@
     "Category": "miscellaneous",
     "MultipleChoice": true,
     "Choices": {
-      "A": "Kuiil (The Mandalorian)",
+      "A": "Kuiil",
       "B": "Moff Gideon",
       "C": "Obi-Wan Kenobi",
       "D": "Boba Fett"
     },
     "Answer": "A"
-  },
-  {
-    "Question": "Which TV detective says, \"No soup for you!\" (often quoted in trivia nights)?",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Choices": {
-      "A": "Monk",
-      "B": "Columbo",
-      "C": "Jerry Seinfeld (Soup Nazi episode)",
-      "D": "Jake Peralta"
-    },
-    "Answer": "C"
-  },
-  {
-    "Question": "Which animated TV hero declares, \"Yabba-dabba-doo!\"?",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Choices": {
-      "A": "Homer Simpson",
-      "B": "Fred Flintstone",
-      "C": "Finn the Human",
-      "D": "He-Man"
-    },
-    "Answer": "B"
   },
   {
     "Question": "Who says, \"May the Force be with you\" first in Star Wars: A New Hope?",
@@ -731,7 +707,7 @@
     "MultipleChoice": true,
     "Answer": "A",
     "Choices": {
-      "A": "Un-named Raven (never given an official name)",
+      "A": "Un-named Raven",
       "B": "Edgar",
       "C": "Poe",
       "D": "Nevermore"
@@ -743,8 +719,8 @@
     "MultipleChoice": true,
     "Answer": "A",
     "Choices": {
-      "A": "Magic Kingdom (Florida)",
-      "B": "Disneyland (California)",
+      "A": "Magic Kingdom",
+      "B": "Disneyland",
       "C": "Tokyo Disneyland",
       "D": "Disneyland Paris"
     }
@@ -755,10 +731,10 @@
     "MultipleChoice": true,
     "Answer": "A",
     "Choices": {
-      "A": "Jack Skellington (The Nightmare Before Christmas)",
-      "B": "Sally (The Nightmare Before Christmas)",
-      "C": "Oogie Boogie (The Nightmare Before Christmas)",
-      "D": "Zero (The Nightmare Before Christmas)"
+      "A": "Jack Skellington",
+      "B": "Sally",
+      "C": "Oogie Boogie",
+      "D": "Zero"
     }
   },
   {
@@ -779,9 +755,9 @@
     "MultipleChoice": true,
     "Answer": "C",
     "Choices": {
-      "A": "Disneyland (California)",
+      "A": "Disneyland",
       "B": "Tokyo Disneyland",
-      "C": "Magic Kingdom (Walt Disney World)",
+      "C": "Magic Kingdom",
       "D": "Disneyland Paris"
     }
   },
@@ -795,18 +771,6 @@
       "B": "\"Spirits arise and gather near, show yourselves to those who fear\"",
       "C": "\"Ghosts and ghouls, come out to play, haunt these halls both night and day\"",
       "D": "\"From the grave they rise tonight, specters dancing in the light\""
-    }
-  },
-  {
-    "Question": "Which Haunted Mansion has the storyline of the Ravenswood family curse?",
-    "Category": "miscellaneous",
-    "MultipleChoice": true,
-    "Answer": "D",
-    "Choices": {
-      "A": "Disney Dream",
-      "B": "Disney Wonder",
-      "C": "Disney Magic",
-      "D": "Phantom Manor (Disneyland Paris)"
     }
   },
   {

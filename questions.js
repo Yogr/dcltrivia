@@ -111,14 +111,17 @@ function getRandomQuestion(category) {
 
 function generateAnswerOptions(question) {
     if (question.MultipleChoice && question.Choices) {
-        // Multiple choice question with provided choices
+        // Multiple choice question with provided choices - SHUFFLE THEM
         const choices = question.Choices;
-        return [
-            { text: choices.A, value: 'A' },
-            { text: choices.B, value: 'B' },
-            { text: choices.C, value: 'C' },
-            { text: choices.D, value: 'D' }
+        const optionsArray = [
+            { text: choices.A, value: 'A', isCorrect: question.Answer === 'A' },
+            { text: choices.B, value: 'B', isCorrect: question.Answer === 'B' },
+            { text: choices.C, value: 'C', isCorrect: question.Answer === 'C' },
+            { text: choices.D, value: 'D', isCorrect: question.Answer === 'D' }
         ];
+        
+        // Shuffle the options
+        return shuffleArray(optionsArray);
     } else {
         // Open-ended question - generate plausible wrong answers
         const correctAnswer = question.Answer;

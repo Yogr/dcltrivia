@@ -483,10 +483,10 @@
     "Answer": "B",
     "AnswerBonus": "The Disney Dream and Fantasy have the Midship Detective Agency game, where guests use clue cards to interact with animated artwork and solve mysteries (like locating stolen dalmatians or missing art).",
     "Choices": {
-      "A": "Disney Wonder",
+      "A": "Disney Wonder and Disney Magic",
       "B": "Disney Dream and Disney Fantasy",
-      "C": "Disney Dream",
-      "D": "Disney Magic"
+      "C": "Disney Dream and Disney Wish",
+      "D": "Disney Wish and Disney Treasure"
     }
   },
   {
@@ -689,15 +689,15 @@
     }
   },
   {
-    "Question": "On which ship can guests dine at Enchanted Garden, inspired by the gardens of Versailles?",
+    "Question": "On which ships can guests dine at Enchanted Garden, inspired by the gardens of Versailles?",
     "Category": "disney_cruise_line",
     "MultipleChoice": true,
     "Answer": "B",
     "Choices": {
-      "A": "Disney Dream",
+      "A": "Disney Dream and Disney Magic",
       "B": "Disney Dream and Disney Fantasy",
-      "C": "Disney Magic",
-      "D": "Disney Wonder"
+      "C": "Disney Magic and Disney Wonder",
+      "D": "Disney Wish and Disney Treasure"
     }
   },
   {
@@ -722,18 +722,6 @@
       "B": "Royal Court",
       "C": "Animator's Palate",
       "D": "Enchanted Garden"
-    }
-  },
-  {
-    "Question": "On the Disney Wish, which dining room is designed to look like the castle ballroom from Beauty and the Beast?",
-    "Category": "disney_cruise_line",
-    "MultipleChoice": true,
-    "Answer": "A",
-    "Choices": {
-      "A": "1923 Restaurant",
-      "B": "Enchanted Garden",
-      "C": "Animator's Palate",
-      "D": "Royal Court"
     }
   },
   {
@@ -977,15 +965,15 @@
     }
   },
   {
-    "Question": "On which Disney Cruise Line ship can guests enjoy the adult-exclusive French restaurant Remy?",
+    "Question": "On which Disney Cruise Line ship(s) can guests enjoy the adult-exclusive French restaurant Remy?",
     "Category": "disney_cruise_line",
     "MultipleChoice": true,
     "Answer": "A",
     "Choices": {
       "A": "Disney Dream and Disney Fantasy",
-      "B": "Disney Magic",
-      "C": "Disney Wonder",
-      "D": "Disney Dream"
+      "B": "Disney Magic and Disney Wonder",
+      "C": "Disney Wish and Disney Treasure",
+      "D": "Disney Fantasy"
     }
   },
   {
@@ -1218,7 +1206,7 @@
     "AnswerBonus": "The AquaDuck debuted on Disney Dream in 2011 and then on Disney Fantasy in 2012."
   },
   {
-    "Question": "What is the name of the water-coaster style slide aboard Disney Treasure and Disney Destiny?",
+    "Question": "What is the name of the water-coaster style slide aboard Disney Wish, Treasure and Destiny?",
     "Category": "disney_cruise_line",
     "MultipleChoice": true,
     "Choices": {
@@ -1597,7 +1585,7 @@
     "Answer": "A",
     "AnswerBonus": "The Tower Suite aboard Disney Destiny is Iron Man–themed and includes four bedrooms and a spiral staircase. ",
     "Choices": {
-      "A": "Tower Suite (Iron Man–themed)",
+      "A": "Tower Suite",
       "B": "Avengers Suite",
       "C": "Captain America Suite",
       "D": "Stark Penthouse"
@@ -1714,7 +1702,7 @@
     "Answer": "A",
     "AnswerBonus": "Disney Treasure’s \"Skipper Society\" bar/lounge draws inspiration from Jungle Cruise. ",
     "Choices": {
-      "A": "Skipper Society (Jungle Cruise–themed bar/lounge)",
+      "A": "Skipper Society",
       "B": "Alternative Option",
       "C": "Another Option",
       "D": "Different Option"
@@ -1741,8 +1729,8 @@
     "AnswerBonus": "The AquaMouse on Disney Treasure features a water-coaster journey through a temple in search of treasure in the \"Curse of the Golden Egg\" short. ",
     "Choices": {
       "A": "AquaDuck",
-      "B": "AquaMouse (Curse of the Golden Egg)",
-      "C": "AquaMouse",
+      "B": "AquaMouse (Disney Treasure)",
+      "C": "AquaMouse (Disney Wish)",
       "D": "AquaDunk"
     }
   },
@@ -1831,7 +1819,7 @@
     "Answer": "A",
     "AnswerBonus": "Disney Destiny’s Haunted Mansion Parlor will be available for weddings starting May 14, 2026. ",
     "Choices": {
-      "A": "Disney Destiny (Haunted Mansion Parlor)",
+      "A": "Disney Destiny",
       "B": "Disney Magic",
       "C": "Disney Wonder",
       "D": "Disney Dream"
