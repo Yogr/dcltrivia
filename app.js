@@ -48,6 +48,9 @@ function setupEventListeners() {
 function selectMode(mode) {
     selectedMode = mode;
     
+    // Play button click sound
+    SoundManager.playSound('buttonClick');
+    
     // Update UI
     document.querySelectorAll('.mode-btn').forEach(btn => {
         btn.classList.remove('selected');
@@ -59,6 +62,9 @@ function selectMode(mode) {
 
 function selectPlayerCount(count) {
     selectedPlayerCount = count;
+    
+    // Play button click sound
+    SoundManager.playSound('buttonClick');
     
     // Update UI
     document.querySelectorAll('.player-count-btn').forEach(btn => {
@@ -117,6 +123,9 @@ function selectPiece(playerIndex, piece) {
     );
     
     if (alreadySelected) return;
+    
+    // Play button click sound
+    SoundManager.playSound('buttonClick');
     
     // Update configuration
     playerConfigurations[playerIndex].piece = piece;
@@ -181,6 +190,12 @@ async function startGame() {
     if (!selectedMode || !selectedPlayerCount || playerConfigurations.length === 0) {
         return;
     }
+    
+    // Play game start sound
+    SoundManager.playSound('gameStart');
+    
+    // Start background music
+    SoundManager.playBackgroundMusic();
     
     // Initialize game state
     initializeGameState(selectedMode, playerConfigurations);

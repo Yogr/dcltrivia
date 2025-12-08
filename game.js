@@ -11,6 +11,9 @@ async function handleDiceRoll() {
     const diceBtn = document.getElementById('diceBtn');
     diceBtn.disabled = true;
     
+    // Play dice roll sound
+    SoundManager.playSound('diceRoll');
+    
     // Animate dice roll
     const diceIcon = diceBtn.querySelector('.dice-icon');
     let rolls = 0;

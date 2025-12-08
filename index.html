@@ -10,6 +10,9 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!-- Sound Toggle Button (appears on all screens) -->
+    <button id="soundToggle" class="sound-toggle" aria-label="Toggle Sound" onclick="SoundManager.toggle()">🔇</button>
+    
     <div id="app">
         <!-- Background stars -->
         <div class="stars" id="stars"></div>
@@ -147,6 +150,7 @@
     </div>
 
     <!-- Load scripts in dependency order -->
+    <script src="sounds.js"></script>
     <script src="config.js"></script>
     <script src="state.js"></script>
     <script src="board.js"></script>

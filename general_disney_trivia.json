@@ -1097,7 +1097,7 @@
     "MultipleChoice": true,
     "Answer": "A",
     "Choices": {
-      "A": "1928 (Steamboat Willie)",
+      "A": "1928",
       "B": "1927",
       "C": "1929",
       "D": "1930"
@@ -1110,8 +1110,8 @@
     "Answer": "D",
     "Choices": {
       "A": "Captain Jack Sparrow",
-      "B": "Captain Minnie Mouse",
-      "C": "Captain Mickey Mouse",
+      "B": "Minnie Mouse",
+      "C": "Pete the Cat",
       "D": "Mickey Mouse"
     }
   },
@@ -1132,11 +1132,12 @@
     "Category": "general_disney_trivia",
     "MultipleChoice": true,
     "Answer": "D",
+    "AnswerBonus": "First spoke in 'Hot Dogs!' in The Karnival Kid, 1929",
     "Choices": {
-      "A": "Captain Jack Sparrow",
-      "B": "Captain Minnie Mouse",
-      "C": "Captain Mickey Mouse",
-      "D": "Mickey Mouse ('Hot Dogs!' in The Karnival Kid, 1929)"
+      "A": "Mortimer Mouse",
+      "B": "Minnie Mouse",
+      "C": "Pete the Cate",
+      "D": "Mickey Mouse"
     }
   },
   {
@@ -1169,10 +1170,10 @@
     "MultipleChoice": true,
     "Answer": "A",
     "Choices": {
-      "A": "Rapunzel (Pascal in Tangled)",
-      "B": "Moana (Pua the pig)",
-      "C": "Jasmine (Rajah the tiger)",
-      "D": "Mulan (Mushu the dragon)"
+      "A": "Rapunzel",
+      "B": "Moana",
+      "C": "Jasmine",
+      "D": "Mulan"
     }
   },
   {

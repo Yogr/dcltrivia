@@ -6,10 +6,10 @@
     "Answer": "A",
     "AnswerBonus": "Jack's quirky wisdom often makes more sense than it seems.",
     "Choices": {
-      "A": "Jack Sparrow, Pirates of the Caribbean",
-      "B": "Will Turner, Pirates of the Caribbean",
-      "C": "Elizabeth Swann, Pirates of the Caribbean",
-      "D": "Barbossa, Pirates of the Caribbean"
+      "A": "Jack Sparrow",
+      "B": "Will Turner",
+      "C": "Elizabeth Swann",
+      "D": "Barbossa"
     }
   },
   {
@@ -19,10 +19,10 @@
     "Answer": "A",
     "AnswerBonus": "Bruce is a great white shark leading a support group for sharks trying not to eat fish.",
     "Choices": {
-      "A": "Bruce, Finding Nemo",
-      "B": "Marlin, Finding Nemo",
-      "C": "Dory, Finding Nemo",
-      "D": "Crush, Finding Nemo"
+      "A": "Bruce",
+      "B": "Marlin",
+      "C": "Dory",
+      "D": "Crush"
     }
   },
   {
@@ -32,10 +32,10 @@
     "Answer": "A",
     "AnswerBonus": "Mary Poppins encourages the Banks children to find joy even in chores.",
     "Choices": {
-      "A": "Mary Poppins, Mary Poppins",
-      "B": "Bert, Mary Poppins",
-      "C": "Mrs. Banks, Mary Poppins",
-      "D": "Mr. Banks, Mary Poppins"
+      "A": "Mary Poppins",
+      "B": "Bert",
+      "C": "Mrs. Banks",
+      "D": "Mr. Banks"
     }
   },
   {
@@ -45,10 +45,10 @@
     "Answer": "A",
     "AnswerBonus": "Ellie inspires Carl with her adventurous spirit in Pixar’s *Up*.",
     "Choices": {
-      "A": "Ellie (young), Up",
-      "B": "Carl, Up",
-      "C": "Russell, Up",
-      "D": "Dug, Up"
+      "A": "Ellie (young)",
+      "B": "Carl",
+      "C": "Russell",
+      "D": "Dug"
     }
   },
   {
@@ -58,10 +58,10 @@
     "Answer": "A",
     "AnswerBonus": "Woody often pulls this phrase from his voice box in *Toy Story*.",
     "Choices": {
-      "A": "Woody, Toy Story",
-      "B": "Buzz Lightyear, Toy Story",
-      "C": "Jessie, Toy Story",
-      "D": "Rex, Toy Story"
+      "A": "Woody",
+      "B": "Buzz Lightyear",
+      "C": "Jessie",
+      "D": "Rex"
     }
   },
   {
@@ -71,10 +71,10 @@
     "Answer": "A",
     "AnswerBonus": "The Emperor praises Mulan’s bravery after she saves China.",
     "Choices": {
-      "A": "The Emperor of China, Mulan",
-      "B": "Mushu, Mulan",
-      "C": "Li Shang, Mulan",
-      "D": "Fa Zhou, Mulan"
+      "A": "The Emperor of China",
+      "B": "Mushu",
+      "C": "Li Shang",
+      "D": "Fa Zhou"
     }
   },
   {
@@ -84,10 +84,10 @@
     "Answer": "A",
     "AnswerBonus": "Young Anna sings this line while trying to coax Elsa out of her room.",
     "Choices": {
-      "A": "Anna, Frozen",
-      "B": "Elsa, Frozen",
-      "C": "Kristoff, Frozen",
-      "D": "Olaf, Frozen"
+      "A": "Anna",
+      "B": "Elsa",
+      "C": "Kristoff",
+      "D": "Olaf"
     }
   },
   {
@@ -97,10 +97,10 @@
     "Answer": "A",
     "AnswerBonus": "Dory’s optimistic attitude helps Marlin push forward to find Nemo.",
     "Choices": {
-      "A": "Dory, Finding Nemo",
-      "B": "Marlin, Finding Nemo",
-      "C": "Nemo, Finding Nemo",
-      "D": "Gill, Finding Nemo"
+      "A": "Dory",
+      "B": "Marlin",
+      "C": "Nemo",
+      "D": "Gill"
     }
   },
   {
@@ -123,10 +123,10 @@
     "Answer": "A",
     "AnswerBonus": "Olaf shows his loyalty and love for Anna during this heartfelt moment.",
     "Choices": {
-      "A": "Olaf, Frozen",
-      "B": "Anna, Frozen",
-      "C": "Kristoff, Frozen",
-      "D": "Elsa, Frozen"
+      "A": "Olaf",
+      "B": "Anna",
+      "C": "Kristoff",
+      "D": "Elsa"
     }
   },
   {
@@ -149,10 +149,10 @@
     "Answer": "A",
     "AnswerBonus": "Woody yells this at Buzz when Buzz believes he is a real space ranger.",
     "Choices": {
-      "A": "Woody, Toy Story",
-      "B": "Buzz Lightyear, Toy Story",
-      "C": "Andy, Toy Story",
-      "D": "Mr. Potato Head, Toy Story"
+      "A": "Woody",
+      "B": "Buzz Lightyear",
+      "C": "Andy",
+      "D": "Mr. Potato Head"
     }
   },
   {
@@ -162,10 +162,10 @@
     "Answer": "A",
     "AnswerBonus": "Edna insists that superhero costumes should never have capes due to safety hazards.",
     "Choices": {
-      "A": "Edna Mode, The Incredibles",
-      "B": "Mr. Incredible, The Incredibles",
-      "C": "Elastigirl, The Incredibles",
-      "D": "Syndrome, The Incredibles"
+      "A": "Edna Mode",
+      "B": "Mr. Incredible",
+      "C": "Elastigirl",
+      "D": "Syndrome"
     }
   },
   {
@@ -188,10 +188,10 @@
     "Answer": "A",
     "AnswerBonus": "Though he only says three words, Rocket explains Groot’s meanings to others.",
     "Choices": {
-      "A": "Groot, Guardians of the Galaxy",
-      "B": "Rocket, Guardians of the Galaxy",
-      "C": "Star-Lord, Guardians of the Galaxy",
-      "D": "Drax, Guardians of the Galaxy"
+      "A": "Groot",
+      "B": "Rocket",
+      "C": "Star-Lord",
+      "D": "Drax"
     }
   },
   {
@@ -201,10 +201,10 @@
     "Answer": "A",
     "AnswerBonus": "Scar says this as he lets Mufasa fall to his death.",
     "Choices": {
-      "A": "Scar, The Lion King",
-      "B": "Jafar, Aladdin",
-      "C": "Hades, Hercules",
-      "D": "Ursula, The Little Mermaid"
+      "A": "Scar",
+      "B": "Jafar",
+      "C": "Hades",
+      "D": "Ursula"
     }
   },
   {
@@ -214,10 +214,10 @@
     "Answer": "A",
     "AnswerBonus": "Edna is full of quirky one-liners about fashion and philosophy.",
     "Choices": {
-      "A": "Edna Mode, The Incredibles",
-      "B": "Elastigirl, The Incredibles",
-      "C": "Syndrome, The Incredibles",
-      "D": "Frozone, The Incredibles"
+      "A": "Edna Mode",
+      "B": "Elastigirl",
+      "C": "Syndrome",
+      "D": "Frozone"
     }
   },
   {
@@ -227,10 +227,10 @@
     "Answer": "A",
     "AnswerBonus": "Merida emphasizes courage and free will in her story.",
     "Choices": {
-      "A": "Merida, Brave",
-      "B": "Queen Elinor, Brave",
-      "C": "Moana, Moana",
-      "D": "Mulan, Mulan"
+      "A": "Merida",
+      "B": "Queen Elinor",
+      "C": "Moana",
+      "D": "Mulan"
     }
   },
   {
@@ -240,10 +240,10 @@
     "Answer": "A",
     "AnswerBonus": "Elsa declares her independence in the iconic song “Let It Go.”",
     "Choices": {
-      "A": "Elsa, Frozen",
-      "B": "Anna, Frozen",
-      "C": "Olaf, Frozen",
-      "D": "Kristoff, Frozen"
+      "A": "Elsa",
+      "B": "Anna",
+      "C": "Olaf",
+      "D": "Kristoff"
     }
   },
   {
@@ -292,10 +292,10 @@
     "Answer": "A",
     "AnswerBonus": "Jasmine asserts her independence against suitors and tradition.",
     "Choices": {
-      "A": "Princess Jasmine, Aladdin",
-      "B": "Ariel, The Little Mermaid",
+      "A": "Princess Jasmine",
+      "B": "Ariel",
       "C": "Belle, Beauty and the Beast",
-      "D": "Mulan, Mulan"
+      "D": "Mulan"
     }
   },
   {
@@ -318,10 +318,10 @@
     "Answer": "A",
     "AnswerBonus": "Buzz’s catchphrase embodies his heroic, space ranger persona.",
     "Choices": {
-      "A": "Buzz Lightyear, Toy Story",
-      "B": "Woody, Toy Story",
-      "C": "Zurg, Toy Story",
-      "D": "Andy, Toy Story"
+      "A": "Buzz Lightyear",
+      "B": "Woody",
+      "C": "Zurg",
+      "D": "Andy"
     }
   },
   {
@@ -331,10 +331,10 @@
     "Answer": "A",
     "AnswerBonus": "Grandmother Tala guides Moana to trust in the ocean’s wisdom.",
     "Choices": {
-      "A": "Grandmother Tala, Moana",
-      "B": "Moana, Moana",
-      "C": "Maui, Moana",
-      "D": "Chief Tui, Moana"
+      "A": "Grandmother Tala",
+      "B": "Moana",
+      "C": "Maui",
+      "D": "Chief Tui"
     }
   },
   {
@@ -344,10 +344,10 @@
     "Answer": "A",
     "AnswerBonus": "Marie, the sassy white kitten, declares this in *The Aristocats*.",
     "Choices": {
-      "A": "Marie, The Aristocats",
-      "B": "Duchess, The Aristocats",
-      "C": "Toulouse, The Aristocats",
-      "D": "Berlioz, The Aristocats"
+      "A": "Marie",
+      "B": "Duchess",
+      "C": "Toulouse",
+      "D": "Berlioz"
     }
   },
   {
@@ -357,10 +357,10 @@
     "Answer": "A",
     "AnswerBonus": "Tiana’s determination sets her apart as one of Disney’s most hardworking heroines.",
     "Choices": {
-      "A": "Tiana, The Princess and the Frog",
-      "B": "Naveen, The Princess and the Frog",
-      "C": "Charlotte, The Princess and the Frog",
-      "D": "Eudora, The Princess and the Frog"
+      "A": "Tiana",
+      "B": "Naveen",
+      "C": "Charlotte",
+      "D": "Eudora"
     }
   },
   {
@@ -370,10 +370,10 @@
     "Answer": "A",
     "AnswerBonus": "Anton Ego admits this truth after Remy wins him over with a meal.",
     "Choices": {
-      "A": "Anton Ego, Ratatouille",
-      "B": "Gusteau, Ratatouille",
-      "C": "Remy, Ratatouille",
-      "D": "Linguini, Ratatouille"
+      "A": "Anton Ego",
+      "B": "Gusteau",
+      "C": "Remy",
+      "D": "Linguini"
     }
   },
   {
@@ -383,10 +383,10 @@
     "Answer": "A",
     "AnswerBonus": "The Blue Fairy reminds Pinocchio of the consequences of lying.",
     "Choices": {
-      "A": "The Blue Fairy, Pinocchio",
-      "B": "Jiminy Cricket, Pinocchio",
-      "C": "Geppetto, Pinocchio",
-      "D": "Pinocchio, Pinocchio"
+      "A": "The Blue Fairy",
+      "B": "Jiminy Cricket",
+      "C": "Geppetto",
+      "D": "Pinocchio"
     }
   },
   {
@@ -396,10 +396,10 @@
     "Answer": "A",
     "AnswerBonus": "Forky struggles with his identity as both trash and toy.",
     "Choices": {
-      "A": "Forky, Toy Story 4",
-      "B": "Woody, Toy Story 4",
-      "C": "Bonnie, Toy Story 4",
-      "D": "Gabby Gabby, Toy Story 4"
+      "A": "Forky ",
+      "B": "Woody ",
+      "C": "Bonnie ",
+      "D": "Gabby Gabby "
     }
   },
   {
@@ -410,9 +410,9 @@
     "AnswerBonus": "The song, written and sung by Randy Newman, became the anthem of *Toy Story*.",
     "Choices": {
       "A": "Randy Newman (theme for Toy Story)",
-      "B": "Woody, Toy Story",
-      "C": "Buzz Lightyear, Toy Story",
-      "D": "Tom Hanks, Toy Story"
+      "B": "Woody",
+      "C": "Buzz Lightyear",
+      "D": "Tom Hanks"
     }
   },
   {
@@ -422,10 +422,10 @@
     "Answer": "A",
     "AnswerBonus": "Christopher Robin offers this encouragement to Pooh.",
     "Choices": {
-      "A": "Christopher Robin, Winnie the Pooh",
-      "B": "Winnie the Pooh, Winnie the Pooh",
-      "C": "Piglet, Winnie the Pooh",
-      "D": "Eeyore, Winnie the Pooh"
+      "A": "Christopher Robin",
+      "B": "Winnie the Pooh",
+      "C": "Piglet",
+      "D": "Eeyore"
     }
   },
   {
@@ -435,10 +435,10 @@
     "Answer": "A",
     "AnswerBonus": "Chef Gusteau’s motto guides Remy to chase his dreams.",
     "Choices": {
-      "A": "Gusteau, Ratatouille",
-      "B": "Remy, Ratatouille",
-      "C": "Linguini, Ratatouille",
-      "D": "Colette, Ratatouille"
+      "A": "Gusteau",
+      "B": "Remy",
+      "C": "Linguini",
+      "D": "Colette"
     }
   },
   {
@@ -446,12 +446,12 @@
     "Category": "disney_movie_quotes",
     "MultipleChoice": true,
     "Answer": "A",
-    "AnswerBonus": "Though not classic Disney, Star Wars is now under the Disney umbrella.",
+    "AnswerBonus": "Though not classic Disney is now under the Disney umbrella.",
     "Choices": {
-      "A": "Yoda, Star Wars: The Empire Strikes Back",
-      "B": "Obi-Wan Kenobi, Star Wars",
-      "C": "Luke Skywalker, Star Wars",
-      "D": "Mace Windu, Star Wars"
+      "A": "Yoda",
+      "B": "Obi-Wan Kenobi",
+      "C": "Luke Skywalker",
+      "D": "Mace Windu"
     }
   },
   {
@@ -461,10 +461,10 @@
     "Answer": "A",
     "AnswerBonus": "The White Rabbit rushes through Wonderland, always in a hurry.",
     "Choices": {
-      "A": "The White Rabbit, Alice in Wonderland",
-      "B": "Alice, Alice in Wonderland",
-      "C": "Mad Hatter, Alice in Wonderland",
-      "D": "Cheshire Cat, Alice in Wonderland"
+      "A": "The White Rabbit",
+      "B": "Alice",
+      "C": "Mad Hatter",
+      "D": "Cheshire Cat"
     }
   },
   {
@@ -500,10 +500,10 @@
     "Answer": "A",
     "AnswerBonus": "Mushu, voiced by Eddie Murphy, delivers this hilarious line.",
     "Choices": {
-      "A": "Mushu, Mulan",
-      "B": "Mulan, Mulan",
-      "C": "Li Shang, Mulan",
-      "D": "The Emperor, Mulan"
+      "A": "Mushu",
+      "B": "Mulan",
+      "C": "Li Shang",
+      "D": "The Emperor"
     }
   },
   {
@@ -526,10 +526,10 @@
     "Answer": "A",
     "AnswerBonus": "Alice embraces imagination in her whimsical adventures.",
     "Choices": {
-      "A": "Alice, Alice in Wonderland",
-      "B": "White Rabbit, Alice in Wonderland",
-      "C": "Mad Hatter, Alice in Wonderland",
-      "D": "Queen of Hearts, Alice in Wonderland"
+      "A": "Alice",
+      "B": "White Rabbit",
+      "C": "Mad Hatter",
+      "D": "Queen of Hearts"
     }
   },
   {
@@ -539,10 +539,10 @@
     "Answer": "A",
     "AnswerBonus": "Piglet embraces his uniqueness in the Hundred Acre Wood.",
     "Choices": {
-      "A": "Piglet, Winnie the Pooh",
-      "B": "Winnie the Pooh, Winnie the Pooh",
-      "C": "Eeyore, Winnie the Pooh",
-      "D": "Tigger, Winnie the Pooh"
+      "A": "Piglet",
+      "B": "Winnie the Pooh",
+      "C": "Eeyore",
+      "D": "Tigger"
     }
   },
   {
@@ -552,10 +552,10 @@
     "Answer": "A",
     "AnswerBonus": "One of the cathedral gargoyles encourages Quasimodo to seize life.",
     "Choices": {
-      "A": "Laverne, The Hunchback of Notre Dame",
-      "B": "Quasimodo, The Hunchback of Notre Dame",
-      "C": "Hugo, The Hunchback of Notre Dame",
-      "D": "Victor, The Hunchback of Notre Dame"
+      "A": "Laverne",
+      "B": "Quasimodo",
+      "C": "Hugo",
+      "D": "Victor"
     }
   },
   {
@@ -591,10 +591,10 @@
     "Answer": "A",
     "AnswerBonus": "Timothy encourages Dumbo to believe in his ears as a gift.",
     "Choices": {
-      "A": "Timothy Q. Mouse, Dumbo",
-      "B": "Dumbo, Dumbo",
-      "C": "Mrs. Jumbo, Dumbo",
-      "D": "The Ringmaster, Dumbo"
+      "A": "Timothy Q. Mouse",
+      "B": "Dumbo",
+      "C": "Mrs. Jumbo",
+      "D": "The Ringmaster"
     }
   },
   {
@@ -604,10 +604,10 @@
     "Answer": "A",
     "AnswerBonus": "Sebastian tries to convince Ariel that life under the sea is better.",
     "Choices": {
-      "A": "Sebastian, The Little Mermaid",
-      "B": "Ariel, The Little Mermaid",
-      "C": "Flounder, The Little Mermaid",
-      "D": "King Triton, The Little Mermaid"
+      "A": "Sebastian",
+      "B": "Ariel",
+      "C": "Flounder",
+      "D": "King Triton"
     }
   },
   {
@@ -656,10 +656,10 @@
     "Answer": "A",
     "AnswerBonus": "Aladdin says this to encourage perseverance even in hard times.",
     "Choices": {
-      "A": "Aladdin, Aladdin",
-      "B": "Genie, Aladdin",
-      "C": "Jasmine, Aladdin",
-      "D": "Abu, Aladdin"
+      "A": "Aladdin",
+      "B": "Genie",
+      "C": "Jasmine",
+      "D": "Abu"
     }
   },
   {
@@ -669,10 +669,10 @@
     "Answer": "A",
     "AnswerBonus": "Mufasa teaches Simba about responsibility and leadership.",
     "Choices": {
-      "A": "Mufasa, The Lion King",
-      "B": "Simba, The Lion King",
-      "C": "Scar, The Lion King",
-      "D": "Rafiki, The Lion King"
+      "A": "Mufasa",
+      "B": "Simba",
+      "C": "Scar",
+      "D": "Rafiki"
     }
   },
   {
@@ -682,10 +682,10 @@
     "Answer": "A",
     "AnswerBonus": "Pooh says this often when things don’t go his way.",
     "Choices": {
-      "A": "Winnie the Pooh, Winnie the Pooh",
-      "B": "Eeyore, Winnie the Pooh",
-      "C": "Piglet, Winnie the Pooh",
-      "D": "Tigger, Winnie the Pooh"
+      "A": "Winnie the Pooh",
+      "B": "Eeyore",
+      "C": "Piglet",
+      "D": "Tigger"
     }
   },
   {
@@ -708,10 +708,10 @@
     "Answer": "A",
     "AnswerBonus": "Kristoff shows his devotion to Anna with this heartfelt line.",
     "Choices": {
-      "A": "Kristoff, Frozen",
-      "B": "Anna, Frozen",
-      "C": "Elsa, Frozen",
-      "D": "Hans, Frozen"
+      "A": "Kristoff",
+      "B": "Anna",
+      "C": "Elsa",
+      "D": "Hans"
     }
   },
   {
@@ -721,10 +721,10 @@
     "Answer": "A",
     "AnswerBonus": "Dumbo embraces his talent despite ridicule from others.",
     "Choices": {
-      "A": "Dumbo, Dumbo",
-      "B": "Timothy Q. Mouse, Dumbo",
-      "C": "Mrs. Jumbo, Dumbo",
-      "D": "The Crows, Dumbo"
+      "A": "Dumbo",
+      "B": "Timothy Q. Mouse",
+      "C": "Mrs. Jumbo",
+      "D": "The Crows"
     }
   },
   {
@@ -734,10 +734,10 @@
     "Answer": "A",
     "AnswerBonus": "Merida rejects fate and emphasizes personal choice.",
     "Choices": {
-      "A": "Merida, Brave",
-      "B": "Queen Elinor, Brave",
-      "C": "Mulan, Mulan",
-      "D": "Tiana, The Princess and the Frog"
+      "A": "Merida",
+      "B": "Queen Elinor",
+      "C": "Mulan",
+      "D": "Tiana"
     }
   },
   {
@@ -747,10 +747,10 @@
     "Answer": "A",
     "AnswerBonus": "Remy embraces the uncertainty of life to pursue his passion for cooking.",
     "Choices": {
-      "A": "Remy, Ratatouille",
-      "B": "Linguini, Ratatouille",
-      "C": "Gusteau, Ratatouille",
-      "D": "Colette, Ratatouille"
+      "A": "Remy",
+      "B": "Linguini",
+      "C": "Gusteau",
+      "D": "Colette"
     }
   },
   {
@@ -760,10 +760,10 @@
     "Answer": "A",
     "AnswerBonus": "Mufasa's spirit urges Simba to reclaim his rightful place as king.",
     "Choices": {
-      "A": "Mufasa's spirit, The Lion King",
-      "B": "Rafiki, The Lion King",
-      "C": "Nala, The Lion King",
-      "D": "Sarabi, The Lion King"
+      "A": "Mufasa's spirit",
+      "B": "Rafiki",
+      "C": "Nala",
+      "D": "Sarabi"
     }
   },
   {
@@ -786,10 +786,10 @@
     "Answer": "A",
     "AnswerBonus": "Oaken runs the Trading Post and Sauna where Anna buys winter gear.",
     "Choices": {
-      "A": "Oaken, Frozen",
-      "B": "Kristoff, Frozen",
-      "C": "Hans, Frozen",
-      "D": "The Duke of Weselton, Frozen"
+      "A": "Oaken",
+      "B": "Kristoff",
+      "C": "Hans",
+      "D": "The Duke of Weselton"
     }
   },
   {
@@ -825,10 +825,10 @@
     "Answer": "A",
     "AnswerBonus": "Doc Hudson teaches Lightning McQueen about the true art of racing.",
     "Choices": {
-      "A": "Doc Hudson, Cars",
-      "B": "Lightning McQueen, Cars",
-      "C": "Mater, Cars",
-      "D": "Sally, Cars"
+      "A": "Doc Hudson",
+      "B": "Lightning McQueen",
+      "C": "Mater",
+      "D": "Sally"
     }
   },
   {
@@ -838,10 +838,10 @@
     "Answer": "A",
     "AnswerBonus": "Rapunzel longs to see the floating lanterns in *Tangled*.",
     "Choices": {
-      "A": "Rapunzel, Tangled",
-      "B": "Flynn Rider, Tangled",
-      "C": "Mother Gothel, Tangled",
-      "D": "Pascal, Tangled"
+      "A": "Rapunzel",
+      "B": "Flynn Rider",
+      "C": "Mother Gothel",
+      "D": "Pascal"
     }
   },
   {
@@ -864,10 +864,10 @@
     "Answer": "A",
     "AnswerBonus": "Jack Sparrow values freedom and adventure more than riches.",
     "Choices": {
-      "A": "Jack Sparrow, Pirates of the Caribbean",
-      "B": "Will Turner, Pirates of the Caribbean",
-      "C": "Barbossa, Pirates of the Caribbean",
-      "D": "Davy Jones, Pirates of the Caribbean"
+      "A": "Jack Sparrow",
+      "B": "Will Turner",
+      "C": "Barbossa",
+      "D": "Davy Jones"
     }
   },
   {
@@ -890,10 +890,10 @@
     "Answer": "A",
     "AnswerBonus": "Jasmine sings this in the duet “A Whole New World.”",
     "Choices": {
-      "A": "Jasmine, Aladdin",
-      "B": "Aladdin, Aladdin",
-      "C": "Genie, Aladdin",
-      "D": "Carpet, Aladdin"
+      "A": "Jasmine",
+      "B": "Aladdin",
+      "C": "Genie",
+      "D": "Carpet"
     }
   },
   {
@@ -903,10 +903,10 @@
     "Answer": "A",
     "AnswerBonus": "Helen Parr advises her children to keep their superhero identities secret.",
     "Choices": {
-      "A": "Elastigirl, The Incredibles",
-      "B": "Mr. Incredible, The Incredibles",
-      "C": "Edna Mode, The Incredibles",
-      "D": "Violet, The Incredibles"
+      "A": "Elastigirl",
+      "B": "Mr. Incredible",
+      "C": "Edna Mode",
+      "D": "Violet"
     }
   },
   {
@@ -916,10 +916,10 @@
     "Answer": "A",
     "AnswerBonus": "Rafiki guides Simba to stop dwelling on guilt and move forward.",
     "Choices": {
-      "A": "Rafiki, The Lion King",
-      "B": "Mufasa, The Lion King",
-      "C": "Timon, The Lion King",
-      "D": "Sarabi, The Lion King"
+      "A": "Rafiki",
+      "B": "Mufasa",
+      "C": "Timon",
+      "D": "Sarabi"
     }
   },
   {
@@ -968,10 +968,10 @@
     "Answer": "A",
     "AnswerBonus": "The gargoyle Laverne urges Quasimodo to live his life to the fullest.",
     "Choices": {
-      "A": "Laverne, The Hunchback of Notre Dame",
-      "B": "Hugo, The Hunchback of Notre Dame",
-      "C": "Victor, The Hunchback of Notre Dame",
-      "D": "Quasimodo, The Hunchback of Notre Dame"
+      "A": "Laverne",
+      "B": "Hugo",
+      "C": "Victor",
+      "D": "Quasimodo"
     }
   },
   {
@@ -981,10 +981,10 @@
     "Answer": "A",
     "AnswerBonus": "Mufasa's ghost reminds Simba of his true identity and duty.",
     "Choices": {
-      "A": "Mufasa's spirit, The Lion King",
-      "B": "Rafiki, The Lion King",
-      "C": "Sarabi, The Lion King",
-      "D": "Nala, The Lion King"
+      "A": "Mufasa's spirit",
+      "B": "Rafiki",
+      "C": "Sarabi",
+      "D": "Nala"
     }
   },
   {
@@ -994,10 +994,10 @@
     "Answer": "A",
     "AnswerBonus": "Mr. Potato Head yells this at Hamm during a game.",
     "Choices": {
-      "A": "Mr. Potato Head, Toy Story",
-      "B": "Woody, Toy Story",
-      "C": "Hamm, Toy Story",
-      "D": "Rex, Toy Story"
+      "A": "Mr. Potato Head",
+      "B": "Woody",
+      "C": "Hamm",
+      "D": "Rex"
     }
   },
   {
@@ -1020,10 +1020,10 @@
     "Answer": "A",
     "AnswerBonus": "Lightning says this as his pre-race ritual.",
     "Choices": {
-      "A": "Lightning McQueen, Cars",
-      "B": "Mater, Cars",
-      "C": "Doc Hudson, Cars",
-      "D": "Chick Hicks, Cars"
+      "A": "Lightning McQueen",
+      "B": "Mater",
+      "C": "Doc Hudson",
+      "D": "Chick Hicks"
     }
   },
   {
@@ -1046,10 +1046,10 @@
     "Answer": "A",
     "AnswerBonus": "Moana declares this as she confronts Te Kā.",
     "Choices": {
-      "A": "Moana, Moana",
-      "B": "Maui, Moana",
-      "C": "Grandmother Tala, Moana",
-      "D": "Chief Tui, Moana"
+      "A": "Moana",
+      "B": "Maui",
+      "C": "Grandmother Tala",
+      "D": "Chief Tui"
     }
   },
   {
@@ -1059,10 +1059,10 @@
     "Answer": "A",
     "AnswerBonus": "Ursula convinces Ariel to give up her voice for legs.",
     "Choices": {
-      "A": "Ursula, The Little Mermaid",
-      "B": "Ariel, The Little Mermaid",
-      "C": "King Triton, The Little Mermaid",
-      "D": "Sebastian, The Little Mermaid"
+      "A": "Ursula",
+      "B": "Ariel",
+      "C": "King Triton",
+      "D": "Sebastian"
     }
   },
   {
@@ -1098,10 +1098,10 @@
     "Answer": "A",
     "AnswerBonus": "Rapunzel urges others to take risks as she explores the world.",
     "Choices": {
-      "A": "Rapunzel, Tangled",
-      "B": "Flynn Rider, Tangled",
-      "C": "Mother Gothel, Tangled",
-      "D": "Maximus, Tangled"
+      "A": "Rapunzel",
+      "B": "Flynn Rider",
+      "C": "Mother Gothel",
+      "D": "Maximus"
     }
   },
   {
@@ -1111,10 +1111,10 @@
     "Answer": "A",
     "AnswerBonus": "This highlights Mulan's courage in embracing her true self.",
     "Choices": {
-      "A": "The Emperor, Mulan",
-      "B": "Mulan, Mulan",
-      "C": "Li Shang, Mulan",
-      "D": "Mushu, Mulan"
+      "A": "The Emperor",
+      "B": "Mulan",
+      "C": "Li Shang",
+      "D": "Mushu"
     }
   },
   {
@@ -1124,10 +1124,10 @@
     "Answer": "A",
     "AnswerBonus": "Timon explains Hakuna Matata to Simba.",
     "Choices": {
-      "A": "Timon, The Lion King",
-      "B": "Pumbaa, The Lion King",
-      "C": "Rafiki, The Lion King",
-      "D": "Simba, The Lion King"
+      "A": "Timon",
+      "B": "Pumbaa",
+      "C": "Rafiki",
+      "D": "Simba"
     }
   },
   {
@@ -1137,10 +1137,10 @@
     "Answer": "A",
     "AnswerBonus": "Olaf says this to Anna when she's freezing.",
     "Choices": {
-      "A": "Olaf, Frozen",
-      "B": "Anna, Frozen",
-      "C": "Kristoff, Frozen",
-      "D": "Marshmallow, Frozen"
+      "A": "Olaf",
+      "B": "Anna",
+      "C": "Kristoff",
+      "D": "Marshmallow"
     }
   },
   {
@@ -1163,10 +1163,10 @@
     "Answer": "A",
     "AnswerBonus": "Merida's courage drives her to change her destiny.",
     "Choices": {
-      "A": "Merida, Brave",
-      "B": "Queen Elinor, Brave",
-      "C": "King Fergus, Brave",
-      "D": "The Witch, Brave"
+      "A": "Merida",
+      "B": "Queen Elinor",
+      "C": "King Fergus",
+      "D": "The Witch"
     }
   },
   {
@@ -1176,10 +1176,10 @@
     "Answer": "A",
     "AnswerBonus": "Mufasa instills this important lesson in Simba.",
     "Choices": {
-      "A": "Mufasa, The Lion King",
-      "B": "Rafiki, The Lion King",
-      "C": "Sarabi, The Lion King",
-      "D": "Nala, The Lion King"
+      "A": "Mufasa",
+      "B": "Rafiki",
+      "C": "Sarabi",
+      "D": "Nala"
     }
   },
   {
@@ -1189,10 +1189,10 @@
     "Answer": "A",
     "AnswerBonus": "The Cheshire Cat's cryptic wisdom reflects Wonderland's nonsense logic.",
     "Choices": {
-      "A": "The Cheshire Cat, Alice in Wonderland",
-      "B": "Alice, Alice in Wonderland",
-      "C": "Mad Hatter, Alice in Wonderland",
-      "D": "March Hare, Alice in Wonderland"
+      "A": "The Cheshire Cat",
+      "B": "Alice",
+      "C": "Mad Hatter",
+      "D": "March Hare"
     }
   },
   {
@@ -1202,10 +1202,10 @@
     "Answer": "A",
     "AnswerBonus": "Quasimodo shows determination to step out into the world.",
     "Choices": {
-      "A": "Quasimodo, The Hunchback of Notre Dame",
-      "B": "Esmeralda, The Hunchback of Notre Dame",
-      "C": "Phoebus, The Hunchback of Notre Dame",
-      "D": "Laverne, The Hunchback of Notre Dame"
+      "A": "Quasimodo",
+      "B": "Esmeralda",
+      "C": "Phoebus",
+      "D": "Laverne"
     }
   },
   {
@@ -1215,10 +1215,10 @@
     "Answer": "A",
     "AnswerBonus": "Timothy helps Dumbo see his ears as a blessing.",
     "Choices": {
-      "A": "Timothy Q. Mouse, Dumbo",
-      "B": "Dumbo, Dumbo",
-      "C": "The Ringmaster, Dumbo",
-      "D": "Mrs. Jumbo, Dumbo"
+      "A": "Timothy Q. Mouse",
+      "B": "Dumbo",
+      "C": "The Ringmaster",
+      "D": "Mrs. Jumbo"
     }
   },
   {
@@ -1228,10 +1228,10 @@
     "Answer": "A",
     "AnswerBonus": "Edna's motto is as iconic as her wardrobe designs.",
     "Choices": {
-      "A": "Edna Mode, The Incredibles",
+      "A": "Edna Mode",
       "B": "Cruella de Vil, 101 Dalmatians",
-      "C": "Elastigirl, The Incredibles",
-      "D": "Violet, The Incredibles"
+      "C": "Elastigirl",
+      "D": "Violet"
     }
   },
   {
@@ -1241,10 +1241,10 @@
     "Answer": "A",
     "AnswerBonus": "This echoes Mufasa's wisdom from beyond the grave.",
     "Choices": {
-      "A": "Mufasa's spirit, The Lion King",
-      "B": "Rafiki, The Lion King",
-      "C": "Nala, The Lion King",
-      "D": "Zazu, The Lion King"
+      "A": "Mufasa's spirit",
+      "B": "Rafiki",
+      "C": "Nala",
+      "D": "Zazu"
     }
   }
 ]

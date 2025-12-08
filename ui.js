@@ -236,14 +236,24 @@ function showQuestionResult(isCorrect, question, category) {
     const resultBonus = document.getElementById('resultBonus');
     
     if (isCorrect) {
+        // Play correct answer sound
+        SoundManager.playSound('correctAnswer');
+        
         resultIcon.textContent = '✅';
         resultText.textContent = 'Correct! You earned a gem! 💎';
         
         // Award gem
         const player = getCurrentPlayer();
         awardGem(player, category);
+        
+        // Play gem earned sound after a brief delay
+        setTimeout(() => SoundManager.playSound('gemEarned'), 500);
+        
         updateCurrentPlayerDisplay();
     } else {
+        // Play incorrect answer sound
+        SoundManager.playSound('incorrectAnswer');
+        
         resultIcon.textContent = '❌';
         resultText.textContent = 'Incorrect';
     }
@@ -268,6 +278,9 @@ function showCashInModal() {
     const player = getCurrentPlayer();
     const modal = document.getElementById('cashInModal');
     const optionsContainer = document.getElementById('cashInOptions');
+    
+    // Play cash in sound
+    SoundManager.playSound('cashIn');
     
     optionsContainer.innerHTML = '';
     
@@ -350,6 +363,9 @@ function closeCashInModal() {
 function showResultsScreen() {
     const rankedPlayers = finalizeScores();
     
+    // Play victory sound
+    SoundManager.playSound('victory');
+    
     document.getElementById('gameScreen').classList.remove('active');
     document.getElementById('resultsScreen').classList.add('active');
     
@@ -409,6 +425,9 @@ function showResultsScreen() {
 
 function showMilestoneRewardPopup(player, milestoneNum) {
     return new Promise((resolve) => {
+        // Play milestone sound
+        SoundManager.playSound('milestone');
+        
         const modal = document.getElementById('questionModal');
         const categoryHeader = document.getElementById('questionCategory');
         const questionText = document.getElementById('questionText');

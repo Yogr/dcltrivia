@@ -176,6 +176,9 @@ async function movePlayerPiece(player, fromPos, toPos) {
             // Update player position for camera tracking
             player.position = pos;
             
+            // Play movement sound
+            SoundManager.playSound('movePiece');
+            
             pieceElement.classList.add('moving');
             pieceElement.style.left = (tile.x + offset.x) + 'px';
             pieceElement.style.top = (tile.y + offset.y) + 'px';
