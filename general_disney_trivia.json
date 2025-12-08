@@ -2,8 +2,14 @@
   {
     "Question": "What was the first full-length animated feature film created by Walt Disney?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Snow White and the Seven Dwarfs"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Snow White and the Seven Dwarfs",
+      "B": "Pinocchio",
+      "C": "Fantasia",
+      "D": "Bambi"
+    }
   },
   {
     "Question": "What year was The Walt Disney Company originally founded?",
@@ -20,601 +26,1201 @@
   {
     "Question": "Who provided the original voice for Mickey Mouse?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Walt Disney"
+    "MultipleChoice": true,
+    "Answer": "B",
+    "Choices": {
+      "A": "Disney Dream",
+      "B": "Walt Disney",
+      "C": "Disney Magic",
+      "D": "Disney Wonder"
+    }
   },
   {
     "Question": "Which Disney animated film was the first to be nominated for Best Picture at the Academy Awards?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Beauty and the Beast (1991)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Beauty and the Beast (1991)",
+      "B": "The Lion King",
+      "C": "Aladdin",
+      "D": "Up"
+    }
   },
   {
     "Question": "What was the last film Walt Disney personally oversaw before his death in 1966?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Jungle Book"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Jungle Book",
+      "B": "Mary Poppins",
+      "C": "The Aristocats",
+      "D": "Winnie the Pooh"
+    }
   },
   {
     "Question": "What was the name of Disney’s first synchronized sound cartoon short?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Steamboat Willie"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Steamboat Willie",
+      "B": "Plane Crazy",
+      "C": "The Gallopin' Gaucho",
+      "D": "Mickey's Follies"
+    }
   },
   {
     "Question": "Which early Disney character was the predecessor to Mickey Mouse?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Oswald the Lucky Rabbit"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Oswald the Lucky Rabbit",
+      "B": "Felix the Cat",
+      "C": "Mortimer Mouse",
+      "D": "Julius the Cat"
+    }
   },
   {
     "Question": "What year did Disneyland open in Anaheim, California?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "1955"
+    "MultipleChoice": true,
+    "Answer": "C",
+    "Choices": {
+      "A": "1956",
+      "B": "1953",
+      "C": "1955",
+      "D": "1954"
+    }
   },
   {
     "Question": "Which Disney movie introduced the first African-American Disney princess?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Princess and the Frog"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Princess and the Frog",
+      "B": "Moana",
+      "C": "Pocahontas",
+      "D": "Mulan"
+    }
   },
   {
     "Question": "What short film featured the debut of Donald Duck?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Wise Little Hen (1934)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Wise Little Hen (1934)",
+      "B": "Steamboat Willie",
+      "C": "Mickey's Follies",
+      "D": "The Band Concert"
+    }
   },
   {
     "Question": "Which Disney animated film was the first to use CGI extensively alongside hand-drawn animation?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Beauty and the Beast (1991)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Beauty and the Beast (1991)",
+      "B": "The Lion King",
+      "C": "Aladdin",
+      "D": "The Little Mermaid"
+    }
   },
   {
     "Question": "What was Walt Disney’s middle name?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Elias"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Elias",
+      "B": "Walter",
+      "C": "Roy",
+      "D": "James"
+    }
   },
   {
     "Question": "Which Disney film introduced the song 'When You Wish Upon a Star'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Pinocchio"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Pinocchio",
+      "B": "Fantasia",
+      "C": "Snow White and the Seven Dwarfs",
+      "D": "Cinderella"
+    }
   },
   {
     "Question": "Who was Disney’s first villain in a full-length animated feature?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Evil Queen (Snow White)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Evil Queen (Snow White)",
+      "B": "Maleficent",
+      "C": "Ursula",
+      "D": "Cruella de Vil"
+    }
   },
   {
     "Question": "Which Disney movie was the first to win an Academy Award for Best Animated Feature?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Shrek (Trick question – Disney’s first win came with Finding Nemo under Pixar)"
+    "MultipleChoice": true,
+    "Answer": "B",
+    "Choices": {
+      "A": "Disney Magic",
+      "B": "Shrek (Trick question – Disney’s first win came with Finding Nemo under Pixar)",
+      "C": "Disney Wonder",
+      "D": "Disney Dream"
+    }
   },
   {
     "Question": "What was the name of Walt Disney’s first studio?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Laugh-O-Gram Studio"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Laugh-O-Gram Studio",
+      "B": "Disney Brothers Studio",
+      "C": "Walt Disney Productions",
+      "D": "Hyperion Studios"
+    }
   },
   {
     "Question": "Which Disney film featured the first use of multiplane camera technology?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Snow White and the Seven Dwarfs"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Snow White and the Seven Dwarfs",
+      "B": "Pinocchio",
+      "C": "Fantasia",
+      "D": "Bambi"
+    }
   },
   {
     "Question": "What year did Walt Disney World open in Florida?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "1971"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "1971",
+      "B": "1969",
+      "C": "1972",
+      "D": "1970"
+    }
   },
   {
     "Question": "What is the name of Mickey Mouse’s pet dog?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Pluto"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Pluto",
+      "B": "Goofy",
+      "C": "Fido",
+      "D": "Rover"
+    }
   },
   {
     "Question": "Which Disney movie is set in the fictional kingdom of Arendelle?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Frozen"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Frozen",
+      "B": "Tangled",
+      "C": "Brave",
+      "D": "Moana"
+    }
   },
   {
     "Question": "Which Disney character was the first to get a star on the Hollywood Walk of Fame?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Mickey Mouse"
+    "MultipleChoice": true,
+    "Answer": "D",
+    "Choices": {
+      "A": "Captain Jack Sparrow",
+      "B": "Captain Minnie Mouse",
+      "C": "Captain Mickey Mouse",
+      "D": "Mickey Mouse"
+    }
   },
   {
     "Question": "Which Disney animated classic was the first to be released in full Technicolor?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Flowers and Trees (1932 short)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Flowers and Trees (1932 short)",
+      "B": "Snow White and the Seven Dwarfs",
+      "C": "The Three Little Pigs",
+      "D": "Steamboat Willie"
+    }
   },
   {
     "Question": "Who was the first Disney princess ever created?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Snow White"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Snow White",
+      "B": "Cinderella",
+      "C": "Aurora",
+      "D": "Belle"
+    }
   },
   {
     "Question": "Which Disney villain is known for the line 'Off with their heads!'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Queen of Hearts (Alice in Wonderland)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Queen of Hearts (Alice in Wonderland)",
+      "B": "Evil Queen (Snow White)",
+      "C": "Maleficent (Sleeping Beauty)",
+      "D": "Ursula (The Little Mermaid)"
+    }
   },
   {
     "Question": "Which Disney movie was the first to earn over $1 billion at the box office?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Toy Story 3"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Toy Story 3",
+      "B": "Frozen",
+      "C": "The Lion King",
+      "D": "Finding Nemo"
+    }
   },
   {
     "Question": "In what year did Mickey Mouse first appear?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "1928"
+    "MultipleChoice": true,
+    "Answer": "D",
+    "Choices": {
+      "A": "1926",
+      "B": "1929",
+      "C": "1927",
+      "D": "1928"
+    }
   },
   {
     "Question": "Which Disney movie featured the song 'A Whole New World'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Aladdin"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Aladdin",
+      "B": "The Lion King",
+      "C": "Beauty and the Beast",
+      "D": "Pocahontas"
+    }
   },
   {
     "Question": "What was the first Disney feature-length film to be fully computer-animated?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Toy Story (1995)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Toy Story (1995)",
+      "B": "A Bug's Life",
+      "C": "Monsters, Inc.",
+      "D": "Finding Nemo"
+    }
   },
   {
     "Question": "What is the name of the sorcerer in 'Fantasia' who owns the hat Mickey borrows?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Yen Sid"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Yen Sid",
+      "B": "Merlin",
+      "C": "Gandalf",
+      "D": "Albus Dumbledore"
+    }
   },
   {
     "Question": "Which Disney character is known for saying 'Hakuna Matata'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Timon and Pumbaa (The Lion King)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Timon and Pumbaa (The Lion King)",
+      "B": "Simba (The Lion King)",
+      "C": "Mufasa (The Lion King)",
+      "D": "Rafiki (The Lion King)"
+    }
   },
   {
     "Question": "Which Disney movie introduced the first fully CGI-animated hair (with individual strands)?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Tangled"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Tangled",
+      "B": "Frozen",
+      "C": "Brave",
+      "D": "Moana"
+    }
   },
   {
     "Question": "What was the first Disney animated film to be set in South America?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Saludos Amigos"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Saludos Amigos",
+      "B": "The Three Caballeros",
+      "C": "Encanto",
+      "D": "Up"
+    }
   },
   {
     "Question": "Who composed the score for The Lion King?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Hans Zimmer"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Hans Zimmer",
+      "B": "John Williams",
+      "C": "Alan Menken",
+      "D": "Danny Elfman"
+    }
   },
   {
     "Question": "What was Disney’s first live-action film?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Treasure Island (1950)"
+    "MultipleChoice": true,
+    "Answer": "D",
+    "Choices": {
+      "A": "Nassau",
+      "B": "Lighthouse Point",
+      "C": "Castaway Cay",
+      "D": "Treasure Island (1950)"
+    }
   },
   {
     "Question": "Which Disney animated film introduced the character Maleficent?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Sleeping Beauty"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Sleeping Beauty",
+      "B": "Cinderella",
+      "C": "Snow White and the Seven Dwarfs",
+      "D": "Alice in Wonderland"
+    }
   },
   {
     "Question": "Which 1940 film featured the 'Sorcerer’s Apprentice' segment?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Fantasia"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Fantasia",
+      "B": "Pinocchio",
+      "C": "Snow White and the Seven Dwarfs",
+      "D": "Bambi"
+    }
   },
   {
     "Question": "What does EPCOT stand for in Walt Disney World’s EPCOT park?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Experimental Prototype Community of Tomorrow"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Experimental Prototype Community of Tomorrow",
+      "B": "Every Person Comes Over Tomorrow",
+      "C": "Exploration Park and Center of Tomorrow",
+      "D": "European Pavilion Community of Tourism"
+    }
   },
   {
     "Question": "Which Disney princess has a raccoon sidekick named Meeko?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Pocahontas"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Pocahontas",
+      "B": "Mulan",
+      "C": "Moana",
+      "D": "Merida"
+    }
   },
   {
     "Question": "Which Disney movie introduced the character Scar?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Lion King"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Lion King",
+      "B": "The Jungle Book",
+      "C": "Tarzan",
+      "D": "Aladdin"
+    }
   },
   {
     "Question": "What is the name of the villain in 'The Black Cauldron'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Horned King"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Horned King",
+      "B": "Maleficent",
+      "C": "Chernabog",
+      "D": "The Evil Queen"
+    }
   },
   {
     "Question": "Which Disney animated film featured the first fully computer-generated background imagery?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Great Mouse Detective"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Great Mouse Detective",
+      "B": "The Black Cauldron",
+      "C": "Oliver & Company",
+      "D": "The Little Mermaid"
+    }
   },
   {
     "Question": "Which Disney character sings 'The Bare Necessities'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Baloo (The Jungle Book)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Baloo (The Jungle Book)",
+      "B": "Mowgli (The Jungle Book)",
+      "C": "King Louie (The Jungle Book)",
+      "D": "Bagheera (The Jungle Book)"
+    }
   },
   {
     "Question": "Which Disney movie was the first to use widescreen CinemaScope technology?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Lady and the Tramp"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Lady and the Tramp",
+      "B": "Sleeping Beauty",
+      "C": "Peter Pan",
+      "D": "Alice in Wonderland"
+    }
   },
   {
     "Question": "Who are the three good fairies in Sleeping Beauty?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Flora, Fauna, and Merryweather"
-  },
-  {
-    "Question": "What year did Disney acquire Pixar Animation Studios?",
-    "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "2006"
-  },
-  {
-    "Question": "What is the name of Mickey Mouse’s longtime girlfriend?",
-    "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Minnie Mouse"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Flora, Fauna, and Merryweather",
+      "B": "Faith, Hope, and Charity",
+      "C": "Grace, Beauty, and Wonder",
+      "D": "Rose, Lily, and Violet"
+    }
   },
   {
     "Question": "Which Disney movie features the character Kuzco?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Emperor’s New Groove"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Emperor's New Groove",
+      "B": "Hercules",
+      "C": "Atlantis",
+      "D": "Treasure Planet"
+    }
+  },
+  {
+    "Question": "What is the name of Mickey Mouse’s longtime girlfriend?",
+    "Category": "general_disney_trivia",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Minnie Mouse",
+      "B": "Captain Mickey Mouse",
+      "C": "Captain Minnie Mouse",
+      "D": "Captain Jack Sparrow"
+    }
+  },
+  {
+    "Question": "Which Disney movie features the character Kuzco?",
+    "Category": "general_disney_trivia",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Emperor’s New Groove",
+      "B": "Alternative Option",
+      "C": "Another Option",
+      "D": "Different Option"
+    }
   },
   {
     "Question": "Which Disney character sings 'Colors of the Wind'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Pocahontas"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Pocahontas",
+      "B": "Mulan",
+      "C": "Moana",
+      "D": "Ariel"
+    }
   },
   {
     "Question": "What year was Disney’s first television show, 'The Mickey Mouse Club,' premiered?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "1955"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "1955",
+      "B": "1954",
+      "C": "1956",
+      "D": "1953"
+    }
   },
   {
     "Question": "Which Disney movie was the first to feature Walt Disney’s name in the title?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Walt Disney’s Snow White and the Seven Dwarfs"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Walt Disney’s Snow White and the Seven Dwarfs",
+      "B": "Disney Magic",
+      "C": "Disney Wonder",
+      "D": "Disney Dream"
+    }
   },
   {
     "Question": "Which classic Disney short introduced Chip and Dale?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Private Pluto (1943)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Private Pluto (1943)",
+      "B": "Squatter's Rights (1946)",
+      "C": "Chip an' Dale (1947)",
+      "D": "The Three Caballeros"
+    }
   },
   {
     "Question": "Which Disney animated feature is the only one where the title character never speaks?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Dumbo"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Dumbo",
+      "B": "Bambi",
+      "C": "The Little Mermaid",
+      "D": "Sleeping Beauty"
+    }
   },
   {
     "Question": "Which Disney movie introduced the villain Hades?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Hercules"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Hercules",
+      "B": "The Little Mermaid",
+      "C": "Aladdin",
+      "D": "The Lion King"
+    }
   },
   {
     "Question": "What year was Disney’s Fantasia originally released?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "1940"
+    "MultipleChoice": true,
+    "Answer": "D",
+    "Choices": {
+      "A": "1941",
+      "B": "1938",
+      "C": "1939",
+      "D": "1940"
+    }
   },
   {
     "Question": "Which Disney princess is the only one based on a real historical person?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Pocahontas"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Pocahontas",
+      "B": "Mulan",
+      "C": "Moana",
+      "D": "Merida"
+    }
   },
   {
     "Question": "What is the name of Walt Disney’s brother and business partner?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Roy O. Disney"
+    "MultipleChoice": true,
+    "Answer": "C",
+    "Choices": {
+      "A": "Disney Dream",
+      "B": "Disney Wonder",
+      "C": "Roy O. Disney",
+      "D": "Disney Magic"
+    }
   },
   {
     "Question": "What year was The Walt Disney Company renamed from 'Disney Brothers Cartoon Studio'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "1926"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "1926",
+      "B": "1925",
+      "C": "1927",
+      "D": "1924"
+    }
   },
   {
     "Question": "Which Disney movie introduced the first Disney villain song?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Snow White and the Seven Dwarfs ('Queen's Chant')"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Snow White and the Seven Dwarfs ('Queen's Chant')",
+      "B": "Sleeping Beauty",
+      "C": "The Little Mermaid",
+      "D": "Beauty and the Beast"
+    }
   },
   {
     "Question": "Which Disney movie featured the first original song to win an Academy Award?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "'When You Wish Upon a Star' from Pinocchio"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "'When You Wish Upon a Star' from Pinocchio",
+      "B": "'Some Day My Prince Will Come' from Snow White",
+      "C": "'A Dream is a Wish' from Cinderella",
+      "D": "'Zip-a-Dee-Doo-Dah' from Song of the South"
+    }
   },
   {
-    "Question": "Which Disney film’s soundtrack was the first to win a Grammy Award for Album of the Year?",
+    "Question": "Which Disney film's soundtrack was the first to win a Grammy Award for Album of the Year?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Mary Poppins"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Mary Poppins",
+      "B": "The Lion King",
+      "C": "Beauty and the Beast",
+      "D": "Frozen"
+    }
   },
   {
     "Question": "What year did Disney release its first 3D animated feature film?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Chicken Little (2005)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Chicken Little (2005)",
+      "B": "Meet the Robinsons (2007)",
+      "C": "Bolt (2008)",
+      "D": "Dinosaur (2000)"
+    }
   },
   {
     "Question": "Which Disney film introduced the song 'Let It Go'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Frozen"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Frozen",
+      "B": "Frozen II",
+      "C": "Tangled",
+      "D": "Moana"
+    }
   },
   {
     "Question": "Which character was Disney’s first talking animal?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Mickey Mouse (in Steamboat Willie, 1928)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Mickey Mouse (in Steamboat Willie, 1928)",
+      "B": "Captain Mickey Mouse",
+      "C": "Captain Minnie Mouse",
+      "D": "Captain Jack Sparrow"
+    }
   },
   {
     "Question": "Which Disney movie was the first to feature the Xerox animation process?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "One Hundred and One Dalmatians"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "One Hundred and One Dalmatians",
+      "B": "The Jungle Book",
+      "C": "The Aristocats",
+      "D": "Sleeping Beauty"
+    }
   },
   {
     "Question": "What was the first Disney film to be released on DVD?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Mulan (1999)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Mulan (1999)",
+      "B": "The Lion King (1994)",
+      "C": "Beauty and the Beast (1991)",
+      "D": "Aladdin (1992)"
+    }
   },
   {
     "Question": "Which Disney princess is barefoot for most of her film?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Pocahontas"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Pocahontas",
+      "B": "Moana",
+      "C": "Rapunzel",
+      "D": "Ariel"
+    }
   },
   {
     "Question": "Which Disney animated feature is the longest in runtime?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Fantasia (1940)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Fantasia (1940)",
+      "B": "Sleeping Beauty",
+      "C": "The Lion King",
+      "D": "Pinocchio"
+    }
   },
   {
     "Question": "Which Disney character is known for saying 'Ohana means family'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Stitch (Lilo & Stitch)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Stitch (Lilo & Stitch)",
+      "B": "Lilo (Lilo & Stitch)",
+      "C": "Nani (Lilo & Stitch)",
+      "D": "Jumba (Lilo & Stitch)"
+    }
   },
   {
     "Question": "What is the name of the Disney film that combined live-action with animation in 1964?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Mary Poppins"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Mary Poppins",
+      "B": "Song of the South",
+      "C": "Pete's Dragon",
+      "D": "Bedknobs and Broomsticks"
+    }
   },
   {
     "Question": "Which Disney villain is the only one to never appear on screen in their movie?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Man (Bambi)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Man (Bambi)",
+      "B": "The Hunter (Bambi)",
+      "C": "Shere Khan (The Jungle Book)",
+      "D": "Mor'du (Brave)"
+    }
   },
   {
     "Question": "What was the first Pixar movie produced after Disney acquired Pixar?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Cars (2006)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Cars (2006)",
+      "B": "Ratatouille (2007)",
+      "C": "WALL-E (2008)",
+      "D": "Up (2009)"
+    }
   },
   {
     "Question": "What year did Mickey Mouse get his first official color appearance?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "1935 (in 'The Band Concert')"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "1935 (in 'The Band Concert')",
+      "B": "1928 (in 'Steamboat Willie')",
+      "C": "1932 (in 'Flowers and Trees')",
+      "D": "1940 (in 'Fantasia')"
+    }
   },
   {
     "Question": "Which Disney princess was the first to have a speaking role?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Snow White"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Snow White",
+      "B": "Cinderella",
+      "C": "Aurora",
+      "D": "Belle"
+    }
   },
   {
     "Question": "Which Disney movie was the first to use Dolby Digital sound?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Fantasia 2000"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Fantasia 2000",
+      "B": "Toy Story",
+      "C": "The Lion King",
+      "D": "Beauty and the Beast"
+    }
   },
   {
     "Question": "Which Disney character appeared in the most films and shorts?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Mickey Mouse"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Mickey Mouse",
+      "B": "Captain Mickey Mouse",
+      "C": "Captain Jack Sparrow",
+      "D": "Captain Minnie Mouse"
+    }
   },
   {
     "Question": "Which Disney film had the working title 'King of the Jungle'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Lion King"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Lion King",
+      "B": "The Jungle Book",
+      "C": "Tarzan",
+      "D": "The Emperor's New Groove"
+    }
   },
   {
     "Question": "Which Disney character was inspired by silent film star Charlie Chaplin?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Mickey Mouse"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Mickey Mouse",
+      "B": "Captain Mickey Mouse",
+      "C": "Captain Minnie Mouse",
+      "D": "Captain Jack Sparrow"
+    }
   },
   {
     "Question": "Which Disney princess is the only one with hazel eyes?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Belle"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Belle",
+      "B": "Ariel",
+      "C": "Cinderella",
+      "D": "Snow White"
+    }
   },
   {
     "Question": "Which Disney movie was the first to win an Oscar for Best Animated Feature?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Shrek (Note: DreamWorks) — Disney’s first win was 'Finding Nemo'"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Shrek (Note: DreamWorks) — Disney’s first win was 'Finding Nemo'",
+      "B": "Disney Magic",
+      "C": "Disney Wonder",
+      "D": "Disney Dream"
+    }
   },
   {
     "Question": "Which Disney animated film had the first soundtrack album ever released?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Snow White and the Seven Dwarfs"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Snow White and the Seven Dwarfs",
+      "B": "Pinocchio",
+      "C": "Fantasia",
+      "D": "Bambi"
+    }
   },
   {
     "Question": "Which Disney film features the character Kronk?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Emperor’s New Groove"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Emperor's New Groove",
+      "B": "Hercules",
+      "C": "Atlantis",
+      "D": "Brother Bear"
+    }
   },
   {
     "Question": "What year did Disney’s Animal Kingdom open?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "1998"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "1998",
+      "B": "1996",
+      "C": "1997",
+      "D": "1999"
+    }
   },
   {
     "Question": "What was Walt Disney’s first television program?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Disneyland (1954)"
+    "MultipleChoice": true,
+    "Answer": "D",
+    "Choices": {
+      "A": "Disney Dream",
+      "B": "Disney Wonder",
+      "C": "Disney Magic",
+      "D": "Disneyland (1954)"
+    }
   },
   {
     "Question": "Which Disney princess has the least amount of screen time in her own movie?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Aurora (Sleeping Beauty)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Aurora (Sleeping Beauty)",
+      "B": "Snow White",
+      "C": "Cinderella",
+      "D": "Jasmine"
+    }
   },
   {
     "Question": "Which Disney movie featured the first use of stereo sound?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Fantasia"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Fantasia",
+      "B": "Snow White and the Seven Dwarfs",
+      "C": "Pinocchio",
+      "D": "Bambi"
+    }
   },
   {
     "Question": "Which Disney animated classic was the first to use end credits?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Black Cauldron"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Black Cauldron",
+      "B": "The Great Mouse Detective",
+      "C": "Oliver & Company",
+      "D": "The Little Mermaid"
+    }
   },
   {
     "Question": "Which Disney character has a horse named Maximus?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Rapunzel (Tangled)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Rapunzel (Tangled)",
+      "B": "Merida (Brave)",
+      "C": "Mulan (Mulan)",
+      "D": "Moana (Moana)"
+    }
   },
   {
     "Question": "Which Disney movie was the first to gross over $500 million worldwide?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Lion King (1994)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Lion King (1994)",
+      "B": "Aladdin (1992)",
+      "C": "Beauty and the Beast (1991)",
+      "D": "Toy Story (1995)"
+    }
   },
   {
     "Question": "Which Disney princess is the only one to have brothers?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Merida (Brave)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Merida (Brave)",
+      "B": "Ariel (The Little Mermaid)",
+      "C": "Anna (Frozen)",
+      "D": "Moana (Moana)"
+    }
   },
   {
     "Question": "What year did Disney acquire Marvel Entertainment?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "2009"
+    "MultipleChoice": true,
+    "Answer": "B",
+    "Choices": {
+      "A": "2007",
+      "B": "2009",
+      "C": "2010",
+      "D": "2008"
+    }
   },
   {
     "Question": "Which Disney animated film was the first to feature a celebrity voice actor in a leading role?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Aladdin (Robin Williams as Genie)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Aladdin (Robin Williams as Genie)",
+      "B": "The Lion King (James Earl Jones)",
+      "C": "Beauty and the Beast (Angela Lansbury)",
+      "D": "The Jungle Book (Phil Harris)"
+    }
   },
   {
     "Question": "What year did Disney release its first sound cartoon short?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "1928 (Steamboat Willie)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "1928 (Steamboat Willie)",
+      "B": "1927",
+      "C": "1929",
+      "D": "1930"
+    }
   },
   {
     "Question": "Which Disney character’s original name was Mortimer?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Mickey Mouse"
+    "MultipleChoice": true,
+    "Answer": "D",
+    "Choices": {
+      "A": "Captain Jack Sparrow",
+      "B": "Captain Minnie Mouse",
+      "C": "Captain Mickey Mouse",
+      "D": "Mickey Mouse"
+    }
   },
   {
     "Question": "Which Disney movie was the first animated film to receive a PG rating?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Black Cauldron"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Black Cauldron",
+      "B": "The Great Mouse Detective",
+      "C": "The Rescuers",
+      "D": "Oliver & Company"
+    }
   },
   {
     "Question": "Which Disney character was the first to speak on screen?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Mickey Mouse ('Hot Dogs!' in The Karnival Kid, 1929)"
+    "MultipleChoice": true,
+    "Answer": "D",
+    "Choices": {
+      "A": "Captain Jack Sparrow",
+      "B": "Captain Minnie Mouse",
+      "C": "Captain Mickey Mouse",
+      "D": "Mickey Mouse ('Hot Dogs!' in The Karnival Kid, 1929)"
+    }
   },
   {
     "Question": "Which Disney movie introduced the song 'Circle of Life'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Lion King"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Lion King",
+      "B": "The Jungle Book",
+      "C": "Tarzan",
+      "D": "Brother Bear"
+    }
   },
   {
     "Question": "What was Disney’s first animated sequel released theatrically?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "The Rescuers Down Under (1990)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Rescuers Down Under (1990)",
+      "B": "The Lion King II: Simba's Pride",
+      "C": "Return to Neverland",
+      "D": "Aladdin and the King of Thieves"
+    }
   },
   {
     "Question": "Which Disney princess has a chameleon as a companion?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Rapunzel (Pascal in Tangled)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Rapunzel (Pascal in Tangled)",
+      "B": "Moana (Pua the pig)",
+      "C": "Jasmine (Rajah the tiger)",
+      "D": "Mulan (Mushu the dragon)"
+    }
   },
   {
     "Question": "Which Disney movie was the first to feature Pixar’s signature short before the film?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Toy Story (with 'Luxo Jr.')"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Toy Story (with 'Luxo Jr.')",
+      "B": "A Bug's Life (with 'Geri's Game')",
+      "C": "Monsters, Inc. (with 'For the Birds')",
+      "D": "Finding Nemo (with 'Knick Knack')"
+    }
   },
   {
     "Question": "Which Disney character is known for his catchphrase 'To infinity and beyond!'?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Buzz Lightyear"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Buzz Lightyear",
+      "B": "Woody",
+      "C": "Lightning McQueen",
+      "D": "Mr. Incredible"
+    }
   },
   {
     "Question": "Which Disney animated film is set in Colombia?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Encanto"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Encanto",
+      "B": "Coco",
+      "C": "Up",
+      "D": "Moana"
+    }
   },
   {
     "Question": "Which Disney movie features the villain Shan Yu?",
     "Category": "general_disney_trivia",
-    "MultipleChoice": false,
-    "Answer": "Mulan"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Mulan",
+      "B": "The Emperor's New Groove",
+      "C": "Hercules",
+      "D": "Pocahontas"
+    }
   }
 ]

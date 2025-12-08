@@ -1,23 +1,29 @@
 [
   {
-    "Question": "What year did Walt Disney World officially open?",
-    "Category": "disney_parks",
-    "MultipleChoice": true,
-    "Choices": {
-      "A": "1968",
-      "B": "1971",
-      "C": "1974",
-      "D": "1977"
-    },
-    "Answer": "B",
-    "AnswerBonus": "Roy O. Disney dedicated the Magic Kingdom on October 1, 1971."
-  },
-  {
     "Question": "At Disneyland, what is the name of the small apartment above the Fire Station on Main Street, U.S.A.?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Walt’s Apartment",
-    "AnswerBonus": "The lamp remains lit as a tribute to Walt Disney’s spirit in the park."
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "The lamp remains lit as a tribute to Walt Disney's spirit in the park.",
+    "Choices": {
+      "A": "Walt's Apartment",
+      "B": "The Dreamer's Suite",
+      "C": "Roy's Office",
+      "D": "The Founder's Quarters"
+    }
+  },
+  {
+    "Question": "What is the name of the hidden underground tunnel system beneath Magic Kingdom called?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "Because the park is built \"on the second floor,\" cast members use these tunnels to stay out of guest sight. ",
+    "Choices": {
+      "A": "Utilidoors",
+      "B": "Service Corridors",
+      "C": "Underground Passages",
+      "D": "Cast Tunnels"
+    }
   },
   {
     "Question": "Which Disney park was the first to open outside the United States?",
@@ -43,21 +49,20 @@
       "D": "200 ft"
     },
     "Answer": "C",
-    "AnswerBonus": "Though its water-level height is 183 ft, from moat to spire it totals 189 ft. :contentReference[oaicite:0]{index=0}"
-  },
-  {
-    "Question": "What is the name of the hidden underground tunnel system beneath Magic Kingdom called?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Utilidors",
-    "AnswerBonus": "Because the park is built “on the second floor,” cast members use these tunnels to stay out of guest sight. :contentReference[oaicite:1]{index=1}"
+    "AnswerBonus": "Though its water-level height is 183 ft, from moat to spire it totals 189 ft. "
   },
   {
     "Question": "Which ride is the only attraction found in every Disney theme park worldwide (as of 2025)?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Dumbo the Flying Elephant",
-    "AnswerBonus": "Dumbo can be found in all six Disney resort theme-park systems globally. :contentReference[oaicite:2]{index=2}"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "Dumbo can be found in all six Disney resort theme-park systems globally. ",
+    "Choices": {
+      "A": "Dumbo the Flying Elephant",
+      "B": "It's a Small World",
+      "C": "Carousel",
+      "D": "Mad Tea Party"
+    }
   },
   {
     "Question": "The Tree of Life, the iconic centerpiece of Disney’s Animal Kingdom, features how many carved animal images on its trunk and roots?",
@@ -70,21 +75,33 @@
       "D": "400"
     },
     "Answer": "C",
-    "AnswerBonus": "There are 337 carvings of real and extinct animals in the Tree of Life. :contentReference[oaicite:3]{index=3}"
+    "AnswerBonus": "There are 337 carvings of real and extinct animals in the Tree of Life. "
   },
   {
     "Question": "Which Disney park’s signature nighttime show projects onto Cinderella Castle using projection-mapping technology?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Magic Kingdom (Walt Disney World)",
-    "AnswerBonus": "Shows like \"Happily Ever After\" and \"Enchantment\" use the castle as a projection canvas."
+    "MultipleChoice": true,
+    "Answer": "C",
+    "AnswerBonus": "Shows like \"Happily Ever After\" and \"Enchantment\" use the castle as a projection canvas.",
+    "Choices": {
+      "A": "Disney Wonder",
+      "B": "Disney Dream",
+      "C": "Magic Kingdom (Walt Disney World)",
+      "D": "Disney Magic"
+    }
   },
   {
     "Question": "In the Liberty Square area of Magic Kingdom, how many lanterns hang from the Liberty Tree, representing the original colonies?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "13",
-    "AnswerBonus": "They represent the 13 original American colonies. :contentReference[oaicite:4]{index=4}"
+    "MultipleChoice": true,
+    "Answer": "C",
+    "AnswerBonus": "They represent the 13 original American colonies. ",
+    "Choices": {
+      "A": "11",
+      "B": "12",
+      "C": "13",
+      "D": "14"
+    }
   },
   {
     "Question": "Which Disneyland-era monorail is the first daily operating monorail in the Western Hemisphere, and what year did it begin service?",
@@ -97,7 +114,7 @@
       "D": "1963"
     },
     "Answer": "B",
-    "AnswerBonus": "Disneyland’s monorail began daily service June 14, 1959. :contentReference[oaicite:5]{index=5}"
+    "AnswerBonus": "Disneyland’s monorail began daily service June 14, 1959. "
   },
   {
     "Question": "What was Disneyland’s original land before Tomorrowland was constructed?",
@@ -115,168 +132,275 @@
   {
     "Question": "What was the first attraction of the Disney World park to welcome guests (i.e. first to open)?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Walt Disney World Railroad / Main Street Vehicles",
-    "AnswerBonus": "The railroad and Main Street vehicles were operational on opening day, October 1, 1971."
+    "MultipleChoice": true,
+    "Answer": "C",
+    "AnswerBonus": "The railroad and Main Street vehicles were operational on opening day, October 1, 1971.",
+    "Choices": {
+      "A": "Disney Wonder",
+      "B": "Disney Dream",
+      "C": "Walt Disney World Railroad / Main Street Vehicles",
+      "D": "Disney Magic"
+    }
   },
   {
     "Question": "What is the oldest operating attraction in Magic Kingdom at Walt Disney World?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Prince Charming Regal Carrousel",
-    "AnswerBonus": "It is the oldest continually operating ride at Magic Kingdom. :contentReference[oaicite:6]{index=6}"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "It is the oldest continually operating ride at Magic Kingdom. ",
+    "Choices": {
+      "A": "Prince Charming Regal Carrousel",
+      "B": "Jungle Cruise",
+      "C": "Haunted Mansion",
+      "D": "It's a Small World"
+    }
   },
   {
-    "Question": "Which former ride’s ride vehicles and track were reused to build the Frozen Ever After attraction at Epcot?",
+    "Question": "Which former ride's ride vehicles and track were reused to build the Frozen Ever After attraction at Epcot?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Maelstrom",
-    "AnswerBonus": "Many ride elements from Maelstrom were repurposed for Frozen Ever After. :contentReference[oaicite:7]{index=7}"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "Many ride elements from Maelstrom were repurposed for Frozen Ever After. ",
+    "Choices": {
+      "A": "Maelstrom",
+      "B": "Viking Voyage",
+      "C": "Norway Adventure",
+      "D": "Fjord Journey"
+    }
   },
   {
-    "Question": "Disneyland’s Haunted Mansion in California has a different feature than its counterpart in Florida. What is unique about the stretching room at Disneyland?",
+    "Question": "Disneyland's Haunted Mansion in California has a different feature than its counterpart in Florida. What is unique about the stretching room at Disneyland?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "It is an actual elevator that descends",
-    "AnswerBonus": "Disneyland’s stretching room physically moves downward for effect, unlike Magic Kingdom’s illusion method. :contentReference[oaicite:8]{index=8}"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "Disneyland's stretching room physically moves downward for effect, unlike Magic Kingdom's illusion method. ",
+    "Choices": {
+      "A": "It is an actual elevator that descends",
+      "B": "The ceiling rises up",
+      "C": "The walls compress inward",
+      "D": "It rotates as it stretches"
+    }
   },
   {
     "Question": "Which Disneyland castle is 77 ft tall but made to appear larger through forced perspective?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Sleeping Beauty Castle",
-    "AnswerBonus": "The castle uses lighter colors and narrowing architectural scale to create a grander illusion. :contentReference[oaicite:9]{index=9}"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "The castle uses lighter colors and narrowing architectural scale to create a grander illusion. ",
+    "Choices": {
+      "A": "Sleeping Beauty Castle",
+      "B": "Cinderella Castle",
+      "C": "Aurora's Palace",
+      "D": "Princess Tower"
+    }
   },
   {
-    "Question": "How many leaves are on the Tree of Life at Disney’s Animal Kingdom?",
+    "Question": "How many leaves are on the Tree of Life at Disney's Animal Kingdom?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Over 100,000",
-    "AnswerBonus": "The tree features about 102,000 artificial leaves. :contentReference[oaicite:10]{index=10}"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "The tree features about 102,000 artificial leaves. ",
+    "Choices": {
+      "A": "Over 100,000",
+      "B": "About 50,000",
+      "C": "Around 75,000",
+      "D": "Nearly 25,000"
+    }
   },
   {
-    "Question": "Which pavilion in Epcot’s World Showcase features Guy Fieri’s recipes, soda floats, and experimental foods?",
+    "Question": "Which pavilion in Epcot's World Showcase features Guy Fieri's recipes, soda floats, and experimental foods?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Space 220 (not a pavilion) — trick question",
-    "AnswerBonus": "No World Showcase pavilion features Guy Fieri’s menu — this is sometimes joked about on social media. (If you want a serious question, I can swap it.)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "No World Showcase pavilion features Guy Fieri's menu — this is sometimes joked about on social media. (If you want a serious question, I can swap it.)",
+    "Choices": {
+      "A": "Space 220 (not a pavilion) — trick question",
+      "B": "American Pavilion",
+      "C": "Canada Pavilion",
+      "D": "Morocco Pavilion"
+    }
   },
   {
-    "Question": "Which Disney water park opened on June 1, 1989, and features Mount Mayday and the “Miss Tilly” shrimp boat?",
+    "Question": "Which Disney water park opened on June 1, 1989, and features Mount Mayday and the \"Miss Tilly\" shrimp boat?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Typhoon Lagoon",
-    "AnswerBonus": "‘Miss Tilly’ erupts a 50-ft geyser every half hour. :contentReference[oaicite:11]{index=11}"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "'Miss Tilly' erupts a 50-ft geyser every half hour. ",
+    "Choices": {
+      "A": "Typhoon Lagoon",
+      "B": "Blizzard Beach",
+      "C": "Volcano Bay",
+      "D": "River Country"
+    }
   },
   {
     "Question": "What was the original name of the project that became Disney’s Animal Kingdom prior to its public announcement?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "The Disney’s Wild Kingdom (or Project Wild)",
-    "AnswerBonus": "The working term “Project Wild” was used during its early planning phases (common trivia lore)."
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "The working term “Project Wild” was used during its early planning phases (common trivia lore).",
+    "Choices": {
+      "A": "The Disney’s Wild Kingdom (or Project Wild)",
+      "B": "Disney Magic",
+      "C": "Disney Wonder",
+      "D": "Disney Dream"
+    }
   },
   {
     "Question": "Which Disneyland attraction served as the inspiration for the design of the Disneyland Paris version of Space Mountain?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "The original Disneyland’s Space Mountain (Tomorrowland)",
-    "AnswerBonus": "Paris’ version adopted a more spiral-ready shell design influenced by its predecessors."
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "Paris’ version adopted a more spiral-ready shell design influenced by its predecessors.",
+    "Choices": {
+      "A": "The original Disneyland’s Space Mountain (Tomorrowland)",
+      "B": "Disney Magic",
+      "C": "Disney Wonder",
+      "D": "Disney Dream"
+    }
   },
   {
     "Question": "How many steam locomotives power the Walt Disney World Railroad, and how old are they roughly (built between which years)?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Four locomotives, built between 1916 and 1928",
-    "AnswerBonus": "All four are over 100 years old. :contentReference[oaicite:12]{index=12}"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "All four are over 100 years old. ",
+    "Choices": {
+      "A": "Four locomotives, built between 1916 and 1928",
+      "B": "Three locomotives, built between 1920 and 1935",
+      "C": "Five locomotives, built between 1910 and 1925",
+      "D": "Six locomotives, built between 1900 and 1915"
+    }
   },
   {
     "Question": "Which Magic Kingdom land is designed to be historically accurate so that it contains no restrooms within its boundaries (they are instead placed beyond its threshold)?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Liberty Square",
-    "AnswerBonus": "Restrooms are cleverly situated in adjacent lands to preserve theme integrity. :contentReference[oaicite:13]{index=13}"
-  },
-  {
-    "Question": "Which Disney park in Florida is the smallest by acreage?",
-    "Category": "disney_parks",
     "MultipleChoice": true,
-    "Choices": {
-      "A": "Magic Kingdom",
-      "B": "Epcot",
-      "C": "Disney’s Hollywood Studios",
-      "D": "Animal Kingdom"
-    },
     "Answer": "A",
-    "AnswerBonus": "Magic Kingdom is the smallest of the four Walt Disney World parks by land size. :contentReference[oaicite:14]{index=14}"
+    "AnswerBonus": "Restrooms are cleverly situated in adjacent lands to preserve theme integrity. ",
+    "Choices": {
+      "A": "Liberty Square",
+      "B": "Frontierland",
+      "C": "Main Street U.S.A.",
+      "D": "Adventureland"
+    }
   },
   {
     "Question": "What is the name of the signature nighttime show at Epcot that features fireworks, fountains, and projection effects?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Harmonious (or its current replacement depending on timeline)",
-    "AnswerBonus": "Harmonious was one of the major nighttime spectaculars tied to EPCOT’s 35th anniversary."
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "Harmonious was one of the major nighttime spectaculars tied to EPCOT's 35th anniversary.",
+    "Choices": {
+      "A": "Harmonious (or its current replacement depending on timeline)",
+      "B": "IllumiNations: Reflections of Earth",
+      "C": "Epcot Forever",
+      "D": "Spectacle of Magic"
+    }
+  },
+  {
+    "Question": "What is the name of the signature nighttime show at Epcot that features fireworks, fountains, and projection effects?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "Harmonious was one of the major nighttime spectaculars tied to EPCOT’s 35th anniversary.",
+    "Choices": {
+      "A": "Harmonious (or its current replacement depending on timeline)",
+      "B": "Alternative Option",
+      "C": "Another Option",
+      "D": "Different Option"
+    }
   },
   {
     "Question": "Which Disneyland ride was one of Walt Disney’s first ideas after witnessing his daughters ride a merry-go-round at Griffith Park?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Disneyland (the park) / the idea of a family park (not a particular ride)",
-    "AnswerBonus": "This led to the concept of Disneyland as a park where kids and adults could enjoy together. :contentReference[oaicite:15]{index=15}"
+    "MultipleChoice": true,
+    "Answer": "D",
+    "AnswerBonus": "This led to the concept of Disneyland as a park where kids and adults could enjoy together. ",
+    "Choices": {
+      "A": "Disney Wonder",
+      "B": "Disney Dream",
+      "C": "Disney Magic",
+      "D": "Disneyland (the park) / the idea of a family park (not a particular ride)"
+    }
   },
   {
     "Question": "How many original Disney theme parks are there globally (counting Tokyo, Paris, Hong Kong, Shanghai, Disneyland (CA), and Disney World)?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Six",
-    "AnswerBonus": "These include Disneyland (CA), Magic Kingdom (FL), Tokyo, Paris, Hong Kong, and Shanghai."
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "These include Disneyland (CA), Magic Kingdom (FL), Tokyo, Paris, Hong Kong, and Shanghai.",
+    "Choices": {
+      "A": "Six",
+      "B": "Five",
+      "C": "Seven",
+      "D": "Eight"
+    }
   },
   {
-    "Question": "What is the French Pavilion’s signature restaurant at Epcot, once called Bistro de Paris?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Monsieur Paul",
-    "AnswerBonus": "Monsieur Paul overlooks World Showcase Lagoon and is a fine-dining experience. :contentReference[oaicite:16]{index=16}"
-  },
-  {
-    "Question": "Which Disneyland attraction was originally built for the 1964–65 New York World’s Fair before being relocated?",
+    "Question": "What is the French Pavilion's signature restaurant at Epcot, once called Bistro de Paris?",
     "Category": "disney_parks",
     "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "Monsieur Paul overlooks World Showcase Lagoon and is a fine-dining experience. ",
     "Choices": {
-      "A": "It’s a Small World",
-      "B": "Carousel of Progress",
-      "C": "Great Moments With Mr. Lincoln",
-      "D": "both A and B"
-    },
-    "Answer": "D",
-    "AnswerBonus": "Both *It’s a Small World* and *Carousel of Progress* debuted at the World’s Fair before moving to Disney parks. :contentReference[oaicite:17]{index=17}"
+      "A": "Monsieur Paul",
+      "B": "Les Chefs de France",
+      "C": "La Maison du Vin",
+      "D": "Le Cellier"
+    }
+  },
+  {
+    "Question": "Which Disneyland ride's façade is designed to look like a fairytale castle but is only 77 feet tall?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "Forced perspective and color shading make it appear larger. ",
+    "Choices": {
+      "A": "Sleeping Beauty Castle",
+      "B": "Cinderella Castle",
+      "C": "Princess Palace",
+      "D": "Enchanted Castle"
+    }
   },
   {
     "Question": "Which Disneyland ride’s façade is designed to look like a fairytale castle but is only 77 feet tall?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Sleeping Beauty Castle",
-    "AnswerBonus": "Forced perspective and color shading make it appear larger. :contentReference[oaicite:18]{index=18}"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "Forced perspective and color shading make it appear larger. ",
+    "Choices": {
+      "A": "Sleeping Beauty Castle",
+      "B": "Cinderella Castle",
+      "C": "Enchanted Castle",
+      "D": "Royal Palace"
+    }
   },
   {
     "Question": "When was the first daily operating Disneyland monorail inaugurated?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "June 14, 1959",
-    "AnswerBonus": "It was the first daily operating monorail in the Western Hemisphere. :contentReference[oaicite:19]{index=19}"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "It was the first daily operating monorail in the Western Hemisphere. ",
+    "Choices": {
+      "A": "June 14, 1959",
+      "B": "July 17, 1955",
+      "C": "October 1, 1971",
+      "D": "April 15, 1983"
+    }
   },
   {
-    "Question": "What is the name of the attraction where a giant “shrimp boat” (Miss Tilly) is embedded in the mountain and erupts a geyser?",
+    "Question": "Which Disneyland ride's stretching room is just an illusion (no moving floors) unlike the real elevator in California's Haunted Mansion?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Typhoon Lagoon",
-    "AnswerBonus": "Miss Tilly erupts every 30 minutes in the park’s wave pool area. :contentReference[oaicite:20]{index=20}"
-  },
-  {
-    "Question": "At Disneyland, what is hidden in the topiary in the rockwork on Tom Sawyer Island that guests rarely notice?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "A map / hidden Mickeys",
-    "AnswerBonus": "There is rumored hidden Morse code in rock formations and various hidden Mickeys."
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "The Florida version uses a visual trick rather than a moving elevator. ",
+    "Choices": {
+      "A": "Haunted Mansion (Magic Kingdom, Florida)",
+      "B": "Tower of Terror",
+      "C": "Phantom Manor",
+      "D": "Mystic Manor"
+    }
   },
   {
     "Question": "Which Disney park’s opening day attraction lineup included the Jungle Cruise, Autopia, and Mark Twain Riverboat?",
@@ -294,16 +418,28 @@
   {
     "Question": "Which Disney park features a nightly show called 'Rivers of Light' (or its successor) on the Discovery River?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Disney’s Animal Kingdom",
-    "AnswerBonus": "Rivers of Light was later replaced by new nighttime offerings, but it was a signature show on that river. :contentReference[oaicite:21]{index=21}"
+    "MultipleChoice": true,
+    "Answer": "D",
+    "AnswerBonus": "Rivers of Light was later replaced by new nighttime offerings, but it was a signature show on that river. ",
+    "Choices": {
+      "A": "Disney Dream",
+      "B": "Disney Wonder",
+      "C": "Disney Magic",
+      "D": "Disney’s Animal Kingdom"
+    }
   },
   {
     "Question": "Which Disneyland ride’s stretching room is just an illusion (no moving floors) unlike the real elevator in California’s Haunted Mansion?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Haunted Mansion (Magic Kingdom, Florida)",
-    "AnswerBonus": "The Florida version uses a visual trick rather than a moving elevator. :contentReference[oaicite:22]{index=22}"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "AnswerBonus": "The Florida version uses a visual trick rather than a moving elevator. ",
+    "Choices": {
+      "A": "Haunted Mansion (Magic Kingdom, Florida)",
+      "B": "Tower of Terror",
+      "C": "Phantom Manor",
+      "D": "Mystic Manor"
+    }
   },
   {
     "Question": "What year did Disneyland in California first open its gates to the public?",
@@ -320,295 +456,577 @@
   {
     "Question": "Which Disney park is the largest in the world by area?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Disney’s Animal Kingdom (Walt Disney World)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Disney’s Animal Kingdom (Walt Disney World)",
+      "B": "Disney Magic",
+      "C": "Disney Wonder",
+      "D": "Disney Dream"
+    }
   },
   {
     "Question": "Which iconic Disneyland ride was originally sponsored by the United States Steel Corporation?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Matterhorn Bobsleds"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Matterhorn Bobsleds",
+      "B": "Space Mountain",
+      "C": "Big Thunder Mountain Railroad",
+      "D": "Autopia"
+    }
   },
   {
-    "Question": "Which country’s castle inspired Cinderella Castle at Walt Disney World?",
+    "Question": "What is the official name of the exclusive members-only club located in Disneyland's New Orleans Square?",
     "Category": "disney_parks",
     "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Club 33",
+      "B": "The Royal Circle",
+      "C": "Walt's Club",
+      "D": "The Diamond Lounge"
+    }
+  },
+  {
+    "Question": "What is the official name of the exclusive members-only club located in Disneyland’s New Orleans Square?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Club 33",
+      "B": "The Royal Circle",
+      "C": "Walt's Club",
+      "D": "The Diamond Lounge"
+    }
+  },
+  {
+    "Question": "Which Epcot pavilion features a replica of Stave Church?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Norway Pavilion",
+      "B": "Germany Pavilion",
+      "C": "Canada Pavilion",
+      "D": "United Kingdom Pavilion"
+    }
+  },
+  {
+    "Question": "Which pavilion in Epcot houses the ride 'Gran Fiesta Tour Starring The Three Caballeros'?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Mexico Pavilion",
+      "B": "Morocco Pavilion",
+      "C": "Spain Pavilion",
+      "D": "Brazil Pavilion"
+    }
+  },
+  {
+    "Question": "Which Disney park was the first to introduce the ride Tower of Terror?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "B",
+    "Choices": {
+      "A": "Disney Magic",
+      "B": "Disney’s Hollywood Studios (then MGM Studios)",
+      "C": "Disney Dream",
+      "D": "Disney Wonder"
+    }
+  },
+  {
+    "Question": "Which Disney park contains the only Disney castle dedicated to Sleeping Beauty?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "D",
+    "Choices": {
+      "A": "Disney Dream",
+      "B": "Disney Wonder",
+      "C": "Disney Magic",
+      "D": "Disneyland (California)"
+    }
+  },
+  {
+    "Question": "Which Epcot pavilion is home to the 'Voices of Liberty' a cappella group?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "American Adventure Pavilion",
+      "B": "Canada Pavilion",
+      "C": "United Kingdom Pavilion",
+      "D": "France Pavilion"
+    }
+  },
+  {
+    "Question": "Which park has a castle that combines elements of all Disney princesses?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "D",
+    "Choices": {
+      "A": "Disney Wonder",
+      "B": "Disney Magic",
+      "C": "Disney Dream",
+      "D": "Shanghai Disneyland (Enchanted Storybook Castle)"
+    }
+  },
+  {
+    "Question": "Which Magic Kingdom attraction is famous for the phrase 'Dead men tell no tales'?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Pirates of the Caribbean",
+      "B": "Haunted Mansion",
+      "C": "Jungle Cruise",
+      "D": "Tom Sawyer Island"
+    }
+  },
+  {
+    "Question": "Which ride replaced Maelstrom in Epcot's Norway pavilion?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Frozen Ever After",
+      "B": "Viking Voyage",
+      "C": "Nordic Adventure",
+      "D": "Northern Lights Journey"
+    }
+  },
+  {
+    "Question": "What is the name of the nighttime parade at Disneyland famous for glowing lights and electronic music?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Main Street Electrical Parade",
+      "B": "SpectroMagic",
+      "C": "Paint the Night",
+      "D": "Festival of Fantasy"
+    }
+  },
+  {
+    "Question": "What is the name of the roller coaster inside Epcot's France pavilion, themed to Pixar's Ratatouille?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Remy's Ratatouille Adventure",
+      "B": "Gusteau's Great Escape",
+      "C": "Paris Kitchen Quest",
+      "D": "Chef's Challenge"
+    }
+  },
+  {
+    "Question": "What was the first roller coaster at Disneyland to use steel tubular track?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Matterhorn Bobsleds",
+      "B": "Space Mountain",
+      "C": "Big Thunder Mountain",
+      "D": "Indiana Jones Adventure"
+    }
+  },
+  {
+    "Question": "What is the name of the exclusive suite located inside Cinderella Castle at Walt Disney World?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Cinderella Castle Suite",
+      "B": "Royal Chambers",
+      "C": "Princess Tower Suite",
+      "D": "Castle Dream Room"
+    }
+  },
+  {
+    "Question": "Which Disney park introduced Mystic Manor, a unique spin on the Haunted Mansion concept?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "C",
+    "Choices": {
+      "A": "Disney Dream",
+      "B": "Disney Magic",
+      "C": "Hong Kong Disneyland",
+      "D": "Disney Wonder"
+    }
+  },
+  {
+    "Question": "Which Disney park features Phantom Manor instead of the traditional Haunted Mansion?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Disneyland Paris",
+      "B": "Disney Magic",
+      "C": "Disney Dream",
+      "D": "Disney Wonder"
+    }
+  },
+  {
+    "Question": "Which futuristic ride at Epcot lets guests design a virtual concept car before riding?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Test Track",
+      "B": "Mission: SPACE",
+      "C": "World of Motion",
+      "D": "Spaceship Earth"
+    }
+  },
+  {
+    "Question": "What is the tallest structure at Walt Disney World's Magic Kingdom?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Cinderella Castle",
+      "B": "Space Mountain",
+      "C": "Tower of Terror",
+      "D": "Expedition Everest"
+    }
+  },
+  {
+    "Question": "Which pavilion in Epcot's World Showcase features a replica of the Temple of Heaven?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "China Pavilion",
+      "B": "Japan Pavilion",
+      "C": "Morocco Pavilion",
+      "D": "Thailand Pavilion"
+    }
+  },
+  {
+    "Question": "Which country's castle inspired Sleeping Beauty Castle in Disneyland Paris?",
+    "Category": "disney_parks",
+    "MultipleChoice": true,
+    "Answer": "A",
     "Choices": {
       "A": "France",
       "B": "Germany",
       "C": "Spain",
       "D": "Austria"
-    },
-    "Answer": "B"
-  },
-  {
-    "Question": "What is the official name of the exclusive members-only club located in Disneyland’s New Orleans Square?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Club 33"
-  },
-  {
-    "Question": "Which Epcot pavilion features a replica of Stave Church?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Norway Pavilion"
-  },
-  {
-    "Question": "Which pavilion in Epcot houses the ride 'Gran Fiesta Tour Starring The Three Caballeros'?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Mexico Pavilion"
-  },
-  {
-    "Question": "Which Disney park was the first to introduce the ride Tower of Terror?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Disney’s Hollywood Studios (then MGM Studios)"
-  },
-  {
-    "Question": "Which Disney park contains the only Disney castle dedicated to Sleeping Beauty?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Disneyland (California)"
-  },
-  {
-    "Question": "Which Epcot pavilion is home to the 'Voices of Liberty' a cappella group?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "American Adventure Pavilion"
-  },
-  {
-    "Question": "Which park has a castle that combines elements of all Disney princesses?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Shanghai Disneyland (Enchanted Storybook Castle)"
-  },
-  {
-    "Question": "Which Magic Kingdom attraction is famous for the phrase 'Dead men tell no tales'?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Pirates of the Caribbean"
-  },
-  {
-    "Question": "Which ride replaced Maelstrom in Epcot’s Norway pavilion?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Frozen Ever After"
-  },
-  {
-    "Question": "What is the name of the nighttime parade at Disneyland famous for glowing lights and electronic music?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Main Street Electrical Parade"
-  },
-  {
-    "Question": "What is the name of the roller coaster inside Epcot’s France pavilion, themed to Pixar’s Ratatouille?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Remy’s Ratatouille Adventure"
-  },
-  {
-    "Question": "What was the first roller coaster at Disneyland to use steel tubular track?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Matterhorn Bobsleds"
-  },
-  {
-    "Question": "What is the name of the exclusive suite located inside Cinderella Castle at Walt Disney World?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Cinderella Castle Suite"
-  },
-  {
-    "Question": "Which Disney park introduced Mystic Manor, a unique spin on the Haunted Mansion concept?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Hong Kong Disneyland"
-  },
-  {
-    "Question": "Which Disney park features Phantom Manor instead of the traditional Haunted Mansion?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Disneyland Paris"
-  },
-  {
-    "Question": "Which futuristic ride at Epcot lets guests design a virtual concept car before riding?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Test Track"
-  },
-  {
-    "Question": "What is the tallest structure at Walt Disney World’s Magic Kingdom?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Cinderella Castle"
-  },
-  {
-    "Question": "Which Disney park has the Tron Lightcycle Run attraction?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Shanghai Disneyland (also Magic Kingdom as of 2023)"
-  },
-  {
-    "Question": "Which pavilion in Epcot’s World Showcase features a replica of the Temple of Heaven?",
-    "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "China Pavilion"
+    }
   },
   {
     "Question": "What was the original name of Disney’s Hollywood Studios when it opened in 1989?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Disney-MGM Studios"
+    "MultipleChoice": true,
+    "Answer": "D",
+    "Choices": {
+      "A": "Disney Wonder",
+      "B": "Disney Dream",
+      "C": "Disney Magic",
+      "D": "Disney-MGM Studios"
+    }
   },
   {
     "Question": "Which Disney park features the ride Journey to the Center of the Earth?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Tokyo DisneySea"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Tokyo DisneySea",
+      "B": "Disney Magic",
+      "C": "Disney Wonder",
+      "D": "Disney Dream"
+    }
   },
   {
     "Question": "Which country’s castle inspired Sleeping Beauty Castle in Disneyland Paris?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "France"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "France",
+      "B": "Germany",
+      "C": "Austria",
+      "D": "Switzerland"
+    }
   },
   {
     "Question": "Which Disney park has the exclusive attraction Sinbad’s Storybook Voyage?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Tokyo DisneySea"
+    "MultipleChoice": true,
+    "Answer": "B",
+    "Choices": {
+      "A": "Disney Dream",
+      "B": "Tokyo DisneySea",
+      "C": "Disney Magic",
+      "D": "Disney Wonder"
+    }
   },
   {
     "Question": "Which Disney park features Cinderella’s Fairy Tale Hall walk-through attraction?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Tokyo Disneyland"
+    "MultipleChoice": true,
+    "Answer": "B",
+    "Choices": {
+      "A": "Disney Magic",
+      "B": "Tokyo Disneyland",
+      "C": "Disney Wonder",
+      "D": "Disney Dream"
+    }
   },
   {
     "Question": "Which pavilion in Epcot is home to 'O Canada!', the Circle-Vision 360° film?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Canada Pavilion"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Canada Pavilion",
+      "B": "American Pavilion",
+      "C": "China Pavilion",
+      "D": "France Pavilion"
+    }
   },
   {
     "Question": "Which Disneyland Paris ride is housed inside a Jules Verne-inspired mountain?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Space Mountain: De la Terre à la Lune (original version)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Space Mountain: De la Terre à la Lune (original version)",
+      "B": "Big Thunder Mountain",
+      "C": "Phantom Manor",
+      "D": "Indiana Jones and the Temple of Peril"
+    }
   },
   {
     "Question": "Which Walt Disney World attraction uses over 300 Audio-Animatronic figures to tell American history?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "The American Adventure"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The American Adventure",
+      "B": "Hall of Presidents",
+      "C": "Carousel of Progress",
+      "D": "Liberty Belle Riverboat"
+    }
   },
   {
     "Question": "Which ride in Disneyland features the Hatbox Ghost, a fan-favorite character?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Haunted Mansion"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Haunted Mansion",
+      "B": "Phantom Manor",
+      "C": "Tower of Terror",
+      "D": "Pirates of the Caribbean"
+    }
   },
   {
     "Question": "Which pavilion in Epcot features the Mitsukoshi Department Store?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Japan Pavilion"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Japan Pavilion",
+      "B": "China Pavilion",
+      "C": "Morocco Pavilion",
+      "D": "United Kingdom Pavilion"
+    }
   },
   {
     "Question": "Which Disney park is home to Expedition Everest, the roller coaster with the Yeti animatronic?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Disney’s Animal Kingdom"
+    "MultipleChoice": true,
+    "Answer": "B",
+    "Choices": {
+      "A": "Disney Magic",
+      "B": "Disney’s Animal Kingdom",
+      "C": "Disney Wonder",
+      "D": "Disney Dream"
+    }
   },
   {
     "Question": "Which attraction at Magic Kingdom features 999 happy haunts?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "The Haunted Mansion"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Haunted Mansion",
+      "B": "Tower of Terror",
+      "C": "Phantom Manor",
+      "D": "Pirates of the Caribbean"
+    }
   },
   {
     "Question": "Which Epcot pavilion has a ride themed to Soarin’ over landmarks?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "The Land Pavilion"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "The Land Pavilion",
+      "B": "The Seas Pavilion",
+      "C": "Imagination Pavilion",
+      "D": "Spaceship Earth"
+    }
   },
   {
     "Question": "What is the name of the fireworks and water show at Disney California Adventure?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "World of Color"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "World of Color",
+      "B": "Fantasmic!",
+      "C": "Happily Ever After",
+      "D": "Illuminations"
+    }
   },
   {
     "Question": "Which attraction is famous for the line 'Please stand clear of the doors. Por favor manténganse alejado de las puertas'?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Walt Disney World Monorail"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Walt Disney World Monorail",
+      "B": "Disney Magic",
+      "C": "Disney Wonder",
+      "D": "Disney Dream"
+    }
   },
   {
     "Question": "Which Disney park has the exclusive ride Mystic Manor instead of Haunted Mansion?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Hong Kong Disneyland"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Hong Kong Disneyland",
+      "B": "Disney Magic",
+      "C": "Disney Wonder",
+      "D": "Disney Dream"
+    }
   },
   {
     "Question": "What was the first Disney park to open in China?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Hong Kong Disneyland"
+    "MultipleChoice": true,
+    "Answer": "B",
+    "Choices": {
+      "A": "Disney Magic",
+      "B": "Hong Kong Disneyland",
+      "C": "Disney Dream",
+      "D": "Disney Wonder"
+    }
   },
   {
     "Question": "Which Magic Kingdom attraction takes guests through scenes of American life across decades?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Carousel of Progress"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Carousel of Progress",
+      "B": "Hall of Presidents",
+      "C": "The American Adventure",
+      "D": "Great Moments with Mr. Lincoln"
+    }
   },
   {
     "Question": "Which Disney park features Cars Land?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Disney California Adventure"
+    "MultipleChoice": true,
+    "Answer": "C",
+    "Choices": {
+      "A": "Disney Magic",
+      "B": "Disney Dream",
+      "C": "Disney California Adventure",
+      "D": "Disney Wonder"
+    }
   },
   {
     "Question": "Which Epcot pavilion features a full-scale replica of the Doge’s Palace from Venice?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Italy Pavilion"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Italy Pavilion",
+      "B": "France Pavilion",
+      "C": "United Kingdom Pavilion",
+      "D": "Morocco Pavilion"
+    }
   },
   {
     "Question": "Which attraction lets guests shrink down to the size of a rat in Paris?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Remy’s Ratatouille Adventure"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Remy's Ratatouille Adventure",
+      "B": "Gusteau's Kitchen Quest",
+      "C": "Paris Chef Challenge",
+      "D": "Le Petit Chef"
+    }
   },
   {
     "Question": "Which Disneyland Paris attraction has a dragon animatronic under its castle?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "La Tanière du Dragon (Dragon’s Lair)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "La Tanière du Dragon (Dragon's Lair)",
+      "B": "Sleeping Beauty's Gallery",
+      "C": "Castle Dungeon",
+      "D": "The Dragon Keep"
+    }
   },
   {
     "Question": "Which attraction at Disney’s Animal Kingdom was originally sponsored by McDonald’s?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "DinoLand U.S.A. attractions (like Dinosaur)"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "DinoLand U.S.A. attractions (like Dinosaur)",
+      "B": "Expedition Everest",
+      "C": "Kilimanjaro Safaris",
+      "D": "Kali River Rapids"
+    }
   },
   {
     "Question": "Which pavilion in Epcot contains a model railway garden near the entrance?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Germany Pavilion"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Germany Pavilion",
+      "B": "United Kingdom Pavilion",
+      "C": "France Pavilion",
+      "D": "Canada Pavilion"
+    }
   },
   {
     "Question": "Which Disney park features a castle with mosaics telling Cinderella’s story?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Magic Kingdom (Walt Disney World)"
+    "MultipleChoice": true,
+    "Answer": "C",
+    "Choices": {
+      "A": "Disney Magic",
+      "B": "Disney Dream",
+      "C": "Magic Kingdom (Walt Disney World)",
+      "D": "Disney Wonder"
+    }
   },
   {
     "Question": "Which attraction at Disneyland Paris is themed after Jules Verne’s 'Twenty Thousand Leagues Under the Sea'?",
     "Category": "disney_parks",
-    "MultipleChoice": false,
-    "Answer": "Les Mystères du Nautilus"
+    "MultipleChoice": true,
+    "Answer": "A",
+    "Choices": {
+      "A": "Les Mystères du Nautilus",
+      "B": "Journey to the Center of the Earth",
+      "C": "20,000 Leagues Under the Sea",
+      "D": "Submarine Voyage"
+    }
   }
 ]

@@ -103,14 +103,11 @@ function centerCameraOnCurrentPlayer() {
     const progressPercent = player.position / GAME_CONFIG[gameState.mode].totalTiles;
     const zoomLevel = 1.5 - (progressPercent * 0.3); // 1.5 to 1.2x zoom (decreases)
     
-    // Calculate translation to center on player
-    // With 180deg rotation, we need to adjust the math
-    const targetX = tile.x * zoomLevel;
-    const targetY = tile.y * zoomLevel;
-    
-    // Center in wrapper, accounting for rotation
-    const translateX = (wrapperWidth / 2) - targetX;
-    const translateY = (wrapperHeight / 2.5) - targetY; // Slight bias to show path ahead
+    // Calculate translation to center on player's CURRENT position
+    // Since scale comes before translate in the transform, we need to account for scaling
+    // To center the player, we move the board so the player tile is in the center of the viewport
+    const translateX = ((wrapperWidth / 2) - tile.x) / zoomLevel;
+    const translateY = ((wrapperHeight / 2) - tile.y) / zoomLevel;
     
     // Apply transform with smooth transition - rotated 180deg to flip view
     boardContainer.style.transition = 'transform 0.8s ease-out';
@@ -176,25 +173,19 @@ async function movePlayerPiece(player, fromPos, toPos) {
         if (tile) {
             const offset = calculatePieceOffset(player.id);
             
-            // Update player position temporarily for camera tracking
-            const oldPos = player.position;
+            // Update player position for camera tracking
             player.position = pos;
             
             pieceElement.classList.add('moving');
             pieceElement.style.left = (tile.x + offset.x) + 'px';
             pieceElement.style.top = (tile.y + offset.y) + 'px';
             
-            // Camera follows piece smoothly
+            // Camera follows piece smoothly - FIXED to track current position
             centerCameraOnCurrentPlayer();
             
             // Wait for animation
             await new Promise(resolve => setTimeout(resolve, 300));
             pieceElement.classList.remove('moving');
-            
-            // Restore final position for last iteration
-            if (pos !== toPos) {
-                player.position = oldPos;
-            }
         }
     }
     

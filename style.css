@@ -623,7 +623,9 @@ body {
 .answer-buttons {
     display: flex;
     flex-direction: column;
+    flex-wrap: nowrap;
     gap: 15px;
+    width: 100%;
 }
 
 .answer-btn {
@@ -637,6 +639,9 @@ body {
     text-align: left;
     color: #16213e;
     font-weight: 600;
+    width: 100% !important;
+    display: block !important;
+    margin-bottom: 15px !important;
 }
 
 .answer-btn:hover:not(:disabled) {

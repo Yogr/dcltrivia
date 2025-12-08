@@ -23,6 +23,7 @@ async function loadAllQuestions() {
     results.forEach(({ categoryKey, questions }) => {
         // Parse answers and add to pool
         questions.forEach(q => {
+            console.log('Is multiple choice?:', q.MultipleChoice);
             if (!q.MultipleChoice) {
                 const parsed = parseAnswer(q.Answer);
                 q.acceptedAnswers = parsed;

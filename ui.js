@@ -77,12 +77,22 @@ function showQuestionModal(category, question) {
         const options = generateAnswerOptions(question);
         
         options.forEach((option, index) => {
+            // Create a wrapper div for each button to force new row
+            const rowDiv = document.createElement('div');
+            rowDiv.style.width = '100%';
+            rowDiv.style.display = 'block';
+            rowDiv.style.marginBottom = '15px';
+            
             const btn = document.createElement('button');
             btn.className = 'answer-btn';
             btn.textContent = option.text;
             btn.dataset.value = option.value;
             btn.onclick = () => handleAnswerClick(question, option.value, category);
-            answerButtons.appendChild(btn);
+            btn.style.width = '100%';
+            btn.style.display = 'block';
+            
+            rowDiv.appendChild(btn);
+            answerButtons.appendChild(rowDiv);
         });
     } else {
         // Show autocomplete input for open-ended questions
