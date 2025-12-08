@@ -175,10 +175,10 @@
     "Answer": "B",
     "AnswerBonus": "Though not from a movie, Walt himself is often quoted with this inspiring line.",
     "Choices": {
-      "A": "Disney Magic",
+      "A": "Mickey Mouse",
       "B": "Walt Disney",
-      "C": "Disney Dream",
-      "D": "Disney Wonder"
+      "C": "Genie",
+      "D": "Star-Lord"
     }
   },
   {
@@ -487,10 +487,10 @@
     "Answer": "A",
     "AnswerBonus": "Snow White reminds audiences of the timeless spirit of youth.",
     "Choices": {
-      "A": "Snow White (Disney promotional quote)",
-      "B": "Disney Magic",
-      "C": "Disney Wonder",
-      "D": "Disney Dream"
+      "A": "Snow White",
+      "B": "Aladdin",
+      "C": "Walt Disney",
+      "D": "Peter Pan"
     }
   },
   {
@@ -643,10 +643,10 @@
     "Answer": "C",
     "AnswerBonus": "Although often attributed to Walt Disney, the quote was actually coined by Imagineer Tom Fitzgerald.",
     "Choices": {
-      "A": "Disney Dream",
-      "B": "Disney Magic",
+      "A": "Flynn Rider",
+      "B": "Mickey Mouse",
       "C": "Walt Disney",
-      "D": "Disney Wonder"
+      "D": "Cinderella"
     }
   },
   {
